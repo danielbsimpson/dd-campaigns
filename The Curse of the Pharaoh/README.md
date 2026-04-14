@@ -73,10 +73,10 @@ Professor Amara's team of scholars went missing in uncharted hive tunnels. The p
 
 | Room | Challenge |
 |---|---|
-| **The Echoing Hall** | Play the harmonic minor scale to open a hidden door; wrong notes cause the chamber to collapse |
-| **The Bridge over the Abyss** | Activate pressure plates in the correct order using the same notes to conjure an invisible bridge |
-| **The Room of Statues** | Rotate six deity statues (Shamash, Nergal, Sin, Ishtar, Ea, Marduk) to face their mythologically correct directions |
-| **Androsphinx Statue Chamber** | Disable a sleeping-curse statue (Con save DC 13) by stepping on pressure plates and playing the harmonic minor scale |
+| **The Echoing Hall** | A long hallway where certain sounds cause vibrations in the walls — find the right melody to open a hidden door |
+| **The Bridge over the Abyss** | A vast abyss with no visible crossing — activate pressure plates around the edge in the correct order |
+| **The Room of Statues** | Six deity statues (Shamash, Nergal, Sin, Ishtar, Ea, Marduk) must be oriented correctly based on their mythological significance |
+| **Androsphinx Statue Chamber** | A statue emits a sleeping curse (Con save DC 13) — find a way to disable it to free the explorers |
 
 - *Reward:* Magical shield + Scroll of Heal + 14g per rescued explorer
 
@@ -95,7 +95,7 @@ The party ventures into the harsh desert toward ancient ruins.
 
 ### Act 3 — The Tomb of Seti
 
-- **Outside the Tomb:** A **Couatl** guards the entrance and attempts to turn the party back, warning their deeds may not serve the greater good. The party can avoid combat by mentioning the Jinn and the first piece of the Sundial.
+- **Outside the Tomb:** A **Couatl** guards the entrance and attempts to turn the party back, warning their deeds may not serve the greater good. The party may be able to avoid combat if they can prove their intentions are just.
 - **Entering the Tomb:** The party navigates monster-filled corridors to find the lower chambers.
 - **Final Confrontation:** An epic battle against Seti's spirit and his undead servants in the lower chamber.
 - **Resolution:** Seti's spirit is laid to rest. The party recovers the **second piece of the Sundial of Ra** from the tomb. They return to Saqaar as heroes.
@@ -121,14 +121,14 @@ The party ventures into the harsh desert toward ancient ruins.
 
 #### The Sphinx's Riddles
 
-| # | Riddle | Answer |
-|---|---|---|
-| 1 | *"I am not alive, but I grow. I don't have lungs, but I need air. I don't have a mouth but I can drown."* | Fire |
-| 2 | *"The more you take, the more you leave behind."* | Footsteps |
-| 3 | *"I can fly but have no wings. I can cry but have no eyes. Wherever I go, darkness follows."* | A cloud |
-| 4 | *"I am the beginning of everything, the end of everywhere. I'm the beginning of eternity, and the end of time and space."* | The letter E |
-| 5 | *"At night they come without being fetched, and by day they are lost without being stolen."* | Stars |
-| 6 | *"I am invisible, weigh nothing, and if you put me in a barrel, it becomes lighter."* | A hole |
+| # | Riddle |
+|---|---|
+| 1 | *"I am not alive, but I grow. I don't have lungs, but I need air. I don't have a mouth but I can drown."* |
+| 2 | *"The more you take, the more you leave behind."* |
+| 3 | *"I can fly but have no wings. I can cry but have no eyes. Wherever I go, darkness follows."* |
+| 4 | *"I am the beginning of everything, the end of everywhere. I'm the beginning of eternity, and the end of time and space."* |
+| 5 | *"At night they come without being fetched, and by day they are lost without being stolen."* |
+| 6 | *"I am invisible, weigh nothing, and if you put me in a barrel, it becomes lighter."* |
 
 #### The Chessboard
 
@@ -136,7 +136,7 @@ Players step onto a chessboard and take turns moving — their starting position
 
 #### The Timed Door
 
-After passing through the chessboard room, a door shuts behind the party. A magical countdown starts. A stone in the room resets the timer. The players must **avoid stepping on the stone** and allow the timer to count down to zero, opening the door ahead. Red herrings include instruments and mysterious wall symbols.
+After passing through the chessboard room, a door shuts behind the party. A magical countdown starts and the door ahead locks. A stone and various distractions fill the room — the party must figure out how to open the door before time runs out.
 
 ---
 
