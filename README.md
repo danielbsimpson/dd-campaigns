@@ -17,6 +17,7 @@ The adventurers are recruited by three foreign merchants to save the great city 
 |---|---|
 | [The Curse of the Pharaoh.txt](The%20Curse%20of%20the%20Pharaoh/The%20Curse%20of%20the%20Pharaoh.txt) | Full campaign booklet |
 | [README.md](The%20Curse%20of%20the%20Pharaoh/README.md) | Campaign summary |
+| [characters.md](The%20Curse%20of%20the%20Pharaoh/characters.md) | NPC and character reference |
 | [creatures.md](The%20Curse%20of%20the%20Pharaoh/creatures.md) | Creature reference |
 
 ---
@@ -32,6 +33,7 @@ A Viking warrior arrives seeking champions. The Kingdom of Nordheim is under sie
 |---|---|
 | [The Salvation of Nordheim.txt](The%20Salvation%20of%20Nordheim/The%20Salvation%20of%20Nordheim.txt) | Full campaign booklet |
 | [README.md](The%20Salvation%20of%20Nordheim/README.md) | Campaign summary |
+| [characters.md](The%20Salvation%20of%20Nordheim/characters.md) | NPC and character reference |
 | [creatures.md](The%20Salvation%20of%20Nordheim/creatures.md) | Creature reference with full stat blocks |
 
 ---
@@ -48,7 +50,25 @@ A shapeshifting demon has spent decades hollowing out a prosperous city from wit
 |---|---|
 | [The Rakshasa.txt](The%20Rakshasa/The%20Rakshasa.txt) | Full campaign booklet |
 | [README.md](The%20Rakshasa/README.md) | Campaign summary |
+| [characters.md](The%20Rakshasa/characters.md) | NPC and character reference |
 | [creatures.md](The%20Rakshasa/creatures.md) | Creature reference with D&D Beyond links |
+
+---
+
+### [La Llorona](La%20Llorona/README.md)
+**Setting:** Latin American-inspired river valley — the town of Río Oscuro  
+**Party Level:** 13–15  
+**Tone:** Gothic horror, mystery, emotional confrontation, moral weight  
+**Themes:** Grief and guilt, truth versus silence, the cost of justice, the line between villain and victim  
+
+A desperate council member rides three days to find help because her own town refuses to ask for it. Río Oscuro has been haunted for three months — children vanishing, a weeping woman in white seen at the water's edge after dark, and a cover-up running deep into the town's leadership.
+
+| File | Description |
+|---|---|
+| [La Llorona.txt](La%20Llorona/La%20Llorona.txt) | Full campaign booklet |
+| [README.md](La%20Llorona/README.md) | Campaign summary |
+| [characters.md](La%20Llorona/characters.md) | NPC and character reference |
+| [creatures.md](La%20Llorona/creatures.md) | Creature reference |
 
 ---
 
@@ -60,18 +80,26 @@ dd-campaigns/
 ├── campaign_ideas.txt                 ← backlog of future campaign concepts
 ├── The Curse of the Pharaoh/
 │   ├── README.md
+│   ├── characters.md
 │   ├── creatures.md
 │   ├── assets/
-│   └── The Curse of the Pharaoh.docx  ← full campaign booklet
+│   └── The Curse of the Pharaoh.txt   ← full campaign booklet
 ├── The Salvation of Nordheim/
 │   ├── README.md
+│   ├── characters.md
 │   ├── creatures.md
 │   ├── assets/
-│   └── The Salvation of Nordheim.docx ← full campaign booklet
-└── The Rakshasa/
+│   └── The Salvation of Nordheim.txt  ← full campaign booklet
+├── The Rakshasa/
+│   ├── README.md
+│   ├── characters.md
+│   ├── creatures.md
+│   └── The Rakshasa.txt               ← full campaign booklet
+└── La Llorona/
     ├── README.md
+    ├── characters.md
     ├── creatures.md
-    └── The Rakshasa.txt               ← full campaign booklet
+    └── La Llorona.txt                 ← full campaign booklet
 ```
 
 ---
