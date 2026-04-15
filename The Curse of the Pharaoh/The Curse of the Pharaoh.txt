@@ -486,6 +486,56 @@ Reward
 The Gynosphinx is so impressed with your battle skills, it gifts you with the Great sword Flame Tongue.
 
 
+The Skull Cave — Valley of Whispering Dunes
+Verbal Description
+Tucked into the shadow of a jagged red cliff face, the Skull Cave sits half-buried in the floor of a vast, windswept valley. Bleached animal skulls line the approach — not placed deliberately, but the scattered remnants of creatures drawn here and never left. The bones grow larger and more numerous as you near the entrance, and the air carries a faint sulphurous warmth even in the dry desert wind. The cave mouth yawns wide, the walls scorched a deep black on either side. Somewhere deep inside, an amber light pulses like a slow, breathing ember.
+
+The cave is the lair of Sserath, an Adult Brass Dragon who has made his home in the Valley of Whispering Dunes for decades. Sserath is ancient by local reckoning and deeply curious — Brass Dragons crave conversation above all else — but long isolation and the encroaching dark magic of Seti's stirring curse have made him volatile, his moods swinging between jovial loquaciousness and sudden volcanic fury. He will not be insulted, will not be dismissed, and will not be rushed.
+
+Encounter
+Upon entering the cave, the party will hear Sserath before they see him — a low, resonant voice bouncing off the walls, asking questions, speculating about the visitors, narrating his own observations aloud. He is not hiding. He is waiting to talk.
+
+The players can attempt to hold an audience with him. Sserath is initially friendly and will engage in conversation, trading questions, stories, and riddles. However, if the players:
+* Attempt to take anything from the cave without his permission,
+* Lie to him (Insight DC 16 — he rolls it automatically),
+* Insult him or refuse to engage with his questions,
+* Or attempt to leave mid-conversation without his blessing,
+
+...he will end the pleasantries immediately and attack.
+
+Alternatively, Sserath is aware of the rising darkness in the desert — he has felt Seti's curse in the winds and the sand. If the party convinces him of their purpose (DC 14 Persuasion), he may share what he knows of the desert's ancient past, and will let them leave in peace. He will not join them, but he will not impede them.
+
+
+Boss Fight — Sserath, the Amber Ember
+
+If combat begins, Sserath wastes no time. He fills the cave with fire on his first turn, then uses the confined space of the cave to his advantage — his bulk blocks exits and forces players into close quarters with his claws and bite.
+
+Combat Notes:
+* The cave ceiling is 30ft at its highest point — Sserath cannot take flight but uses his burrow speed to resurface behind the party.
+* On initiative count 20 (losing ties), scorched skulls and bones shake loose from the walls — each player in the cave makes a DC 13 Dexterity save or takes 1d6 bludgeoning damage.
+* Sserath taunts the players throughout the fight, asking questions mid-combat, genuinely delighted even in his fury: "Interesting choice! Why the sorcerer first? Sentiment, or tactics?"
+
+
+Sserath — Adult Brass Dragon
+	CR - 13
+	Large Dragon
+	AC - 18 (Natural Armour)
+	HP - 172 (15d10 + 90)
+	Speed - 40ft, Burrow 30ft, Fly 80ft (cannot fly in cave)
+	Fire Breath (Recharge 5-6) — 60ft line, DC 18 Dex save, 13d6 fire damage (half on success)
+	Sleep Breath (Recharge 5-6, alternate) — 60ft cone, DC 18 Con save or fall unconscious for 10 minutes
+	Legendary Resistance (3/day) — If Sserath fails a saving throw, he may choose to succeed instead.
+	Legendary Actions (3/round) — Detect, Tail Attack, or Wing Attack
+
+
+Reward
+Upon defeating Sserath, the party finds his accumulated hoard nestled in a scorched alcove at the back of the cave:
+* 1,400 gp in mixed coin and melted jewellery
+* Potion of Fire Resistance
+* Necklace of Fireballs (3 beads remaining)
+* A sand-worn journal written in Ancient Osiriani, describing hints to the history of the Valley — useful background lore the DM may share with players.
+
+
 Act 3: The Tomb of Seti
 Verbal Description
 As you crest a final dune, the tomb of Seti comes into view, partially buried beneath the sands of time. The entrance, a grand and foreboding archway, is flanked by towering obelisks adorned with intricate hieroglyphs and carvings of ancient deities. The stone structure is weathered yet imposing, with a darkened portal that seems to draw in the light around it. The air grows still, heavy with an ancient, lingering magic, as if the very desert itself is holding its breath in reverence and fear.

@@ -1,0 +1,299 @@
+# La Llorona
+
+A D&D 5e campaign set in a Latin American-inspired river valley, designed for parties of levels 13–15. A grief-consumed spirit haunts the river that runs through a dying town — and the truth buried beneath her weeping is darker than anyone still living dares to say aloud.
+
+---
+
+## Overview
+
+A desperate rider arrives seeking help. The river town of **Río Oscuro** has been suffering for three months. Children are vanishing. The river runs cold in midsummer. A weeping woman in white has been seen drifting at the water's edge after nightfall — and those who hear her cry do not wake in the morning. Behind it all lies a story of grief, betrayal, and a wrong that no one in Río Oscuro is prepared to confess.
+
+**Tone:** Gothic horror, mystery, emotional confrontation, moral weight  
+**Setting:** The town of Río Oscuro and the cursed river valley surrounding it  
+**Themes:** Grief and guilt, truth versus silence, the cost of justice, the line between villain and victim
+
+---
+
+## The Town of Río Oscuro
+
+Río Oscuro is a mid-sized river town built along both banks of the **Río de las Sombras** — the River of Shadows — a wide, slow-moving waterway famous for its black-silt banks and the silver fish that feed the region. The town was built around the river trade, and the river gives it everything. In better times, the town was prosperous and warm. Now it is afraid.
+
+The water runs cold even in the height of summer. The silver fish have gone. Canoes are found drifting empty at dawn. The ferry that crosses between the east and west banks has not run in two months. Children are warned never to go near the water after sunset — a warning that came too late for three of them.
+
+### Key Locations
+
+| Location | Purpose |
+|---|---|
+| **The Faded Lantern** | The main inn and tavern; the party's base of operations in Río Oscuro |
+| **The Church of Santa Muerte** | The town's religious center; Father Domingo is the party's most knowledgeable ally |
+| **The Town Hall** | Where Alcalde Rodrigo Vásquez holds authority; seat of denial and obstruction |
+| **The Market Square** | Hub for rumors, daytime contacts, and the town's surviving trade |
+| **The Boatwright's Yard** | Empty now; once belonged to a man named Mateo; the party's first key location |
+| **The East Bank Cemetery** | Old and crowded; contains graves central to the mystery |
+| **The Weeping Willow Grove** | Where La Llorona is most often seen; the river narrows here |
+| **The Río de las Sombras** | The river itself; multiple encounter zones along its banks |
+| **The Sunken Hacienda** | A partially submerged estate at the river's bend; Act 3 primary location |
+
+### Key NPCs
+
+- **Father Domingo Vela** — Elderly priest of Santa Muerte; the party's most reliable guide; knows the legends, suspects the truth, but fears what uncovering it will cost the town
+- **Alcalde Rodrigo Vásquez** — The town's mayor; stonewalls any serious investigation; his obstruction is personal and guilt-laden
+- **Señora Inés Morada** — Elderly herbalist and midwife; has lived in Río Oscuro longer than anyone; knows the most about the night everything changed
+- **Tomas** — A twelve-year-old boy who survived a near-drowning; the only person in town who has seen La Llorona up close and lived; deeply traumatized
+- **Consuela Vargas** — The youngest member of the town council; the party's closest ally inside local government; suspects a cover-up
+- **Captain Hector Dávila** — Militia commander; loyal to the Alcalde but not unreservedly; can be flipped under the right circumstances
+- **The River Ghost** — A nameless drowned spirit encountered mid-river; not hostile; carries a piece of the hidden truth
+- **La Llorona (Esperanza)** — The weeping woman herself; CR 13 custom boss; simultaneously the central villain and the campaign's deepest victim
+
+---
+
+## Campaign Structure
+
+### Act 0 — The Messenger
+
+A rider arrives at the party's current location — dust-caked, exhausted, leading a horse that has been ridden too hard. She is **Consuela Vargas**, a town council member from Río Oscuro, and she has ridden three days to find help because her own town's officials refuse to ask for it.
+
+Her message is simple: children are dying. A spirit haunts the river. The Alcalde will not act. And last week she found a locked iron box in the town records room — a box addressed to *"whoever is brave enough to read this when the river finally speaks."*
+
+> *"Three children have gone into the water and not come back. More will follow. Our priest says prayers. Our Alcalde says it is a bad season. Everyone knows what it is — but no one will say her name."*
+
+Consuela offers the party a flat rate from her own savings and the promise of the town's gratitude. She cannot guarantee the Alcalde's cooperation. She cannot guarantee their safety. She can guarantee that if they do not come, more children will die.
+
+---
+
+### Act 1 — The Town of Río Oscuro
+
+**Arrival:** The party enters Río Oscuro in the late afternoon. The town is quieter than it should be. Market stalls are closing early. Women are calling children inside. The ferry crossing is empty and its rope hangs slack across the water. By the time the party reaches the Faded Lantern, the sun is setting — and from somewhere downriver, carried on the wind, comes the sound of a woman weeping.
+
+**Meeting Father Domingo:** The priest is the party's first and most forthcoming ally. He does not know the full truth, but he knows the legends of La Llorona — that she is the spirit of a woman consumed by grief, driven to drown her own children, now condemned to wander watercourses for eternity in search of them. He suspects the Río Oscuro case is more complicated than the legend suggests. He will provide what information he has freely and will guide the party toward Señora Inés if asked.
+
+**The Alcalde's Wall:** Alcalde Vásquez will be polite, unhelpful, and will attempt to reframe the disappearances as accidents. He will not cooperate with any formal investigation of the river, the Hacienda, or the events of three years ago. His obstruction has a clear emotional quality — he is not covering for someone else. He is covering for himself.
+
+**Investigation Phase:** Act 1 is driven by social investigation. The party gathers information across the town, each source adding a piece of the picture. Sifting through the town's silence and shame is the primary mechanical challenge — the violence comes later.
+
+#### Act 1 Side Quests
+
+---
+
+**1. The Locked Box**
+
+Consuela has brought the locked iron box with her. It is sealed with a mechanical lock (DC 17 Thieves' Tools) and warded with an *Arcane Lock* (DC 25 to break without the password, which is the name *Esperanza*). Inside is a sealed account — several pages in faded ink — written by the town notary three years ago and hidden rather than filed.
+
+The account describes a night three years ago when the Alcalde's political rival — a boatwright named **Mateo** — was found dead on the river bank. The official verdict was drowning. The account states something different: Mateo was found with ligature marks on his wrists. The notary filed the box instead of the report because he was afraid. He died of a fever eight months later. His name was **Jorge Espinoza**.
+
+Steps to Complete:
+- Open the locked box (Thieves' Tools DC 17 or the password *Esperanza*)
+- Translate/interpret the account (History or Investigation DC 14)
+- Research Jorge Espinoza's records in the church or town hall
+- Confirm whether the official death certificate matches the account
+
+- *No combat; this is a pure investigation beat*
+- *Reward:* Full documented evidence of the cover-up; establishes Mateo's identity and the Alcalde's motive; gives the party leverage over Vásquez in later acts
+
+---
+
+**2. The Survivor**
+
+Tomas, aged twelve, was found unconscious on the river bank two weeks ago — the only known survivor of a La Llorona encounter. He has not spoken more than a few words since. His mother, **Lucía**, asks the party to try to reach him.
+
+Tomas will not speak in the town or near the river. He needs to feel safe. Approaching him with care (Persuasion DC 12 with advantage if the party is gentle and patient; Intimidation automatically fails) slowly draws out his account: he saw a woman in white, knee-deep in the water, holding something. She looked at him. She spoke to him. She said — and here Tomas goes very quiet — *"Tell them what happened to Mateo."*
+
+Steps to Complete:
+- Locate Tomas and earn his trust (Persuasion DC 12 with patience)
+- Conduct a second conversation after establishing trust (Insight DC 13 to understand what is traumatizing him beyond the supernatural encounter)
+- Provide Tomas with safety — either magical calm (*Calm Emotions*, *Sanctuary*) or simply physical removal from the river-facing side of town before the second conversation
+
+- *No combat*
+- *Reward:* La Llorona's message ("Tell them what happened to Mateo") confirms she is not mindlessly malevolent — she wants the truth, not just blood. Shifts the party's understanding of the campaign's moral stakes. Unlocks Father Domingo's deeper suspicions if reported.
+
+---
+
+**3. The East Bank Cemetery**
+
+Three of the four graves in the family plot belonging to the **Vargas family** (an old name in Río Oscuro, unrelated to Consuela) are properly marked. The fourth grave has been disturbed — the ground around it sunken and cracked, the headstone pushed at an angle. The name on the stone is worn nearly illegible. Cleaning it reveals: *Esperanza Vargas de Reyes — Beloved of the River.*
+
+A Perception check (DC 14) notices that the grave has been disturbed from below, not above. Something has tried to leave it — or something has been pulled out against its will. A Religion check (DC 13) confirms the grave is insufficiently warded for a spirit of this magnitude — standard last rites were performed, but no binding rites were spoken. She was not laid to rest. She was simply buried.
+
+Investigation in the cemetery records (accessible through Father Domingo — DC 15 Persuasion to access the locked archive) reveals that **Esperanza Vargas de Reyes** was the wife of **Mateo Reyes** — the boatwright found dead on the riverbank three years ago. She died four months after her husband, at the age of thirty-one. Cause of death: grief and fever. Three months after her death, her two children also died — causes listed as "river fever." The graves are small and unmarked, set apart from the family plot.
+
+- *Encounter:* The disturbed grave site is watched at night by 2 **Ghasts** (CR 2) — compelled spirits feeding on the residual grief energy bleeding from the site. Defending it and then consecrating it (Father Domingo can perform this rite) calms the disturbance.
+- *Reward:* Esperanza's full identity and history established; the two unnamed children's graves discovered; Father Domingo performs a binding prayer that will prove mechanically useful in Act 4
+
+---
+
+**4. The Night Watch**
+
+The town's militia runs a night watch along the river bank, but the watchers who get closest to the Weeping Willow Grove tend to show up to morning muster pale, shaking, and unable to explain what they saw. One watcher — **Private Beatriz** — went missing three nights ago and was found at sunrise, sitting in the willow grove, staring at the water, completely unresponsive.
+
+Captain Hector Dávila quietly asks the party to investigate, independent of the Alcalde's oversight. He is ashamed of his inability to protect his people and desperate enough to work outside official channels. Beatriz is suffering the effect of La Llorona's **Lament Aura** — a magical compulsion drawing her toward the water — and will not respond to conventional medicine.
+
+Steps to Complete:
+- Evaluate Beatriz (Medicine DC 14 to confirm it is a magical compulsion, not illness)
+- Clear the Weeping Willow Grove of the **Will-o'-Wisps** and **Specters** that have gathered there in La Llorona's wake
+- Remove Beatriz safely from the grove before nightfall (if the party lingers past midnight in the grove during this quest, La Llorona makes her first appearance — a non-combat encounter; she screams, forces a Wisdom saving throw, and vanishes)
+- Provide or facilitate *Remove Curse* or equivalent to free Beatriz from the compulsion (DC 15 Religion check as an alternative for divine casters)
+
+- *Enemies:* Will-o'-Wisp (CR 2) × 3, Specter (CR 1) × 4
+- *Reward:* Captain Dávila becomes an ally — provides militia support and access to restricted town records; 200 gold from town militia funds; Beatriz recovers and becomes a grateful NPC
+
+---
+
+### Act 2 — The Shape of the Lie
+
+With enough threads gathered from Act 1, the party can reconstruct what actually happened three years ago:
+
+**The Truth:** Mateo Reyes had evidence that Alcalde Vásquez was diverting river-trade taxes into private accounts. He intended to bring the evidence before the regional governor. Before he could, he was found dead on the river bank — drowned, according to the official record, but with wrists that told a different story. The Alcalde's men knew. The notary knew. The town whispered. But Vásquez controlled the militia, the records, and the official version of events.
+
+Mateo's wife **Esperanza** spent the four months after his death trying to prove what happened. She got close — close enough that the Alcalde stopped listening. She died broken, certain no one would ever say aloud what everyone already knew. Her two children died months later, essentially alone.
+
+She came back angry. She came back with nowhere to put that anger except the river and the town that stayed silent.
+
+**Confronting the Alcalde:** Armed with the notary's account, the cemetery records, and Tomas's testimony, the party can confront Vásquez. He will first deny everything, then bargain, then — if Corner is secured and the party has Captain Dávila's support — break. His confession is not volunteered; it has to be pulled out of him by the pressure of undeniable evidence.
+
+**The Drowned Vault:** Vásquez kept the physical evidence Mateo had gathered — original ledger pages — in a locked iron chest underwater beneath the ferry dock. He never destroyed it because he could not bring himself to. The chest is submerged in 15 feet of cold, dark water and is no longer guarded — but the riverbed around the dock has been colonized by **Water Weirds** and **Ghosts** drawn to the emotional resonance of the location.
+
+| Encounter | Detail |
+|---|---|
+| **Underwater Retrieval** | Athletics DC 14 to swim to the chest; DC 17 in the cold (CON save DC 13 each minute or 1 level of exhaustion) |
+| **Water Weirds** | 2 × Water Weird (CR 3) patrol the riverbed; they are agitated, not coordinated |
+| **The Ghost of Jorge Espinoza** | The drowned notary; not hostile; will gesture toward the chest's location if approached peacefully; can be spoken to with *Speak with Dead* or a successful Persuasion DC 14 check |
+
+- *Enemies:* Water Weird (CR 3) × 2, Ghost (CR 4)
+- *Reward:* Mateo's original evidence ledger — physical proof of the Alcalde's crime; gives the party standing to compel the governor's intervention (closes the civic arc), and is the final piece needed to attempt Esperanza's resolution
+
+---
+
+### Act 3 — The Sunken Hacienda
+
+With the truth assembled, the party now understands that La Llorona is not simply hunting — she is waiting for someone to say what happened. But she has been down in that grief long enough that she is no longer entirely coherent. Rage and sorrow have fused. She is dangerous even to those who mean her no harm.
+
+The **Sunken Hacienda** — the Reyes family home, now half-submerged at the river's bend after three years of flooding — is the site of her strongest presence. This is where Mateo and Esperanza lived. This is where her children died. This is where the party must go to attempt a peaceful resolution before the final confrontation.
+
+**Getting There:** The hacienda is accessible by river (currently hazardous — La Llorona's presence makes all river crossings actively dangerous at night) or by a narrow overgrown path along the east bank. Approaching at night triggers random La Llorona patrols; approaching at dawn is safer but the encounters inside are still active.
+
+#### The Hacienda — Encounter Zones
+
+**The Entry Hall:** Three **Shadows** (CR 1/2) inhabit the darkened main hall — residual grief given form. They are not under La Llorona's direct control; they are drawn to warmth and life. DC 13 Religion check to identify that *Sacred Flame* or *Turn Undead* will disperse them without a full fight.
+
+**The Children's Room:** Upstairs, two small beds remain intact. The room has a terrible stillness. A **Wraith** (CR 5) inhabits the room — the lingering presence of the two children, fused into a single anguished form. It is not hostile by default; a successful DC 16 Persuasion or DC 14 Insight check allows the party to speak with it. It communicates in fragments: *mother*, *cold*, *she didn't mean it*, *she was already gone when she did it*. A party that speaks rather than fights earns a passive buff (advantage on the Wisdom saving throw against La Llorona's Mourning Wail in Act 5) and the knowledge that Esperanza drowned her children after she had already lost her mind to grief — the drowning was not conscious murder but the final act of a woman who had already died inside.
+
+**The Study:** Mateo's study still contains his work desk. Papers have been preserved in a magical stasis — Esperanza did this herself, deliberately, before she died, to protect the evidence. A locked drawer (DC 15 Thieves' Tools) contains a letter addressed to the party — or rather, addressed *to whoever comes* — in Mateo's hand, dated the night before he died. It confirms everything. It names the Alcalde specifically. It asks whoever reads it to make sure his children and wife are remembered.
+
+**The Flooded Lower Floor:** The basement is fully submerged. A **Water Weird** (CR 3) and a **Revenant** (CR 13) wait here — the Revenant is the spiritual echo of Mateo himself, the part of him that could not rest while his murderer walked free. It is not hostile to those who carry his evidence. Presenting the ledger or the letter to the Revenant causes it to stand down; the Water Weird disperses when the Revenant is at peace.
+
+> **If the party fights the Revenant rather than presenting evidence:** The Revenant fights to 0 HP, reconstitutes, and attacks again. It cannot be destroyed here. It can only be released by the Alcalde's confession — or by killing the Alcalde. The revenant understands this and will wait.
+
+- *Enemies:* Shadow (CR 1/2) × 3, Wraith (CR 5), Water Weird (CR 3), Revenant (CR 13)
+- *Key Item:* Mateo's letter — the final piece of evidence; critical for the peaceful resolution of Act 5
+
+---
+
+### Act 4 — The Reckoning
+
+The party now has everything: Vásquez's confession (or enough evidence to compel one), Mateo's letter, Tomas's testimony, Jorge Espinoza's account, and the children's unmarked graves.
+
+**Securing the Alcalde's Confession:** Vásquez must publicly confess. Captain Dávila, now allied with the party, has the legal authority to compel this with enough evidence — which the party now possesses. The Alcalde will resist, plead, threaten, and ultimately crumble. His confession before witnesses (the town council, Father Domingo, and the militia) is the civic act that ends the cover-up. Whether he faces justice beyond that is a choice the party may or may not press — but the confession itself is required for the peaceful resolution.
+
+**The Ceremony of Naming:** Father Domingo has one tool that matters: on the night when La Llorona's presence is strongest, he can perform a **Rite of Naming and Rest** at the cemetery — a formal naming of the children's unmarked graves, prayers for Esperanza and Mateo spoken aloud, and a reading of the truth in front of witnessing mourners. The Rite requires one living person who was present the night of Mateo's death to speak the truth aloud (Vásquez, one of the militia men, or another NPC the party has uncovered through investigation).
+
+The Rite does not stop La Llorona. It does not resolve her immediately. But it changes the nature of the final fight — if the Rite is completed before Act 5, La Llorona enters the confrontation having heard the truth spoken by someone who was there. She is still dangerous. She is still consumed. But she is reachable.
+
+**The River at Night:** As the party conducts the Rite or approaches the river afterward, the encounters escalate. La Llorona's grief has drawn more undead to the waterway — they block the path to the willow grove.
+
+- *Enemies:* Wight (CR 3) × 2, Ghost (CR 4) × 2, Ghast (CR 2) × 3
+
+---
+
+### Act 5 — La Llorona
+
+The confrontation takes place at the **Weeping Willow Grove** at midnight. The river widens here and goes almost perfectly still. The willows trail their branches into the black water. Something has been wrong here longer than three months — the air is fifteen degrees colder than the surrounding land, frost rimes the bark of the trees, and the weeping can be heard from five hundred feet away.
+
+**The Approach:** Moving through the grove triggers the **Lament Aura** — each party member must succeed on a DC 17 Wisdom saving throw or be affected by Llorona's Lament (see stat block below). At initiative +20, La Llorona rises from the river.
+
+---
+
+#### La Llorona (Esperanza Vargas de Reyes)
+Custom Boss | CR 13 | Spirit of Grief / Undead | Chaotic Neutral (formerly Neutral Good)
+*Based on the Banshee stat block, significantly modified for level 13–15 play*
+
+| AC | HP | Speed |
+|---|---|---|
+| 13 | 168 (16d8+96) | 40 ft., Fly 40 ft. (hover), Swim 40 ft. |
+
+**Ability Scores:** STR 1 (−5), DEX 14 (+2), CON 22 (+6), INT 12 (+1), WIS 16 (+3), CHA 20 (+5)  
+**Saves:** WIS +8, CHA +10  
+**Skills:** Perception +8  
+**Damage Resistances:** Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks  
+**Damage Immunities:** Cold, Necrotic, Poison  
+**Condition Immunities:** Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained  
+**Senses:** Darkvision 120 ft., Truesight 30 ft.  
+**Languages:** Understands all languages she knew in life; speaks only in weeping and fragments
+
+**Traits:**
+
+- **Incorporeal Movement.** La Llorona can move through creatures and objects as if they were difficult terrain. She takes 1d10 force damage if she ends her turn inside an object.
+- **Lament Aura.** Each creature that starts its turn within 30 feet of La Llorona must succeed on a DC 17 Wisdom saving throw or be drawn one step toward the river (30 feet directly toward the water), and have its speed reduced by 10 feet until the start of its next turn. A creature that succeeds on this save is immune to the Lament Aura for 24 hours.
+- **Deathbound.** La Llorona cannot be reduced below 1 hit point unless the truth of Mateo's death has been spoken aloud by a living witness *(see The Reckoning — Act 4)*. Without this condition met, damage that would reduce her to 0 HP instead reduces her to 1 HP.
+- **River Empowerment.** While within 60 feet of the Río de las Sombras, La Llorona regains 10 HP at the start of each of her turns.
+
+**Actions (Multiattack — 2 Grieving Touch):**
+
+- **Grieving Touch.** *Melee Spell Attack:* +10 to hit, reach 5 ft. Hit: 19 (4d6+5) necrotic damage. DC 17 Constitution save or the target's hit point maximum is reduced by the same amount until the target finishes a long rest. A humanoid slain by this attack rises as a Specter under La Llorona's control at the start of her next turn.
+
+- **Mourning Wail (Recharge 5–6).** La Llorona emits a keening shriek filled with decades of grief. All living creatures within 60 feet that can hear it must succeed on a DC 18 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 44 (8d10) psychic damage. *If the Rite of Naming was completed in Act 4, the save DC is reduced to 14.*
+
+- **Drown the Living (3/Day).** La Llorona targets one creature within 30 feet. The target must succeed on a DC 17 Strength saving throw or be dragged up to 30 feet toward the river and restrained in phantasmal water (no concentration required). The target is considered restrained and begins suffocating (as per drowning rules) until it breaks free (DC 17 Strength, repeated each turn as a bonus action) or La Llorona is incapacitated.
+
+**Reactions:**
+
+- **Deflect Grief.** When La Llorona takes Radiant damage, she may use her reaction to halve the damage and reflect 9 (2d8) psychic damage back at the attacker (no attack roll required).
+
+**Legendary Actions (3/round, at end of another creature's turn):**
+
+- **Weep.** La Llorona weeps; all creatures within 30 feet take 9 (2d8) psychic damage.
+- **Glide.** La Llorona moves up to her fly speed without provoking opportunity attacks.
+- **Summon the Drowned (Costs 2).** La Llorona calls a Zombie (CR 1/4) or Ghoul (CR 1) from the river. Up to 4 summoned creatures can be active at one time.
+
+---
+
+#### Resolution — Two Endings
+
+**The Peaceful Ending — Requiem:**
+
+This ending requires all three of the following to be true:
+1. The Rite of Naming was completed (Act 4)
+2. A living witness spoke the truth aloud at the Rite
+3. The party has Mateo's letter in their possession and reads it aloud to La Llorona during the fight
+
+During combat, the party may use an action to read Mateo's letter aloud. If all three conditions are met, La Llorona pauses — the Deathbound trait drops, the River Empowerment drops, and the Mourning Wail cannot be used for the remainder of the combat. She still fights — she is too far gone to simply stop — but she can now be brought to 0 HP without tricks or workarounds. When she falls, she does not dissolve into darkness. She collapses into the river. And the weeping stops.
+
+Father Domingo, if present, speaks the final rites. The river warms. The silver fish return over the following days. The drowned undead on the riverbed surface and quietly dissolve. Mateo's Revenant, if it still exists, bows once and is gone.
+
+**The Hard Ending — Force:**
+
+If the party has not completed the Rite, or has not recovered Mateo's letter, La Llorona can still be defeated — but the Deathbound trait means she cannot be reduced below 1 HP until the Rite condition is met. In this scenario, the party may force a standstill and retreat, or can resort to powerful banishment effects (*Banishment*, DC 17 CHA save; if she fails, she is banished for 1 minute — DM may use this to allow a moment for negotiation or evidence presentation). Permanently destroying La Llorona without the peaceful conditions simply sends her away. The haunting ends but the river does not warm. The fish do not return. A year later, in a different town upstream, the weeping begins again.
+
+---
+
+### Act 6 — Aftermath
+
+With the haunting ended and the Alcalde's confession on record, the governor's representative arrives in Río Oscuro within a week. Vásquez is removed from office and faces trial. Consuela Vargas is appointed acting Alcalde by a unanimous vote of the remaining council.
+
+The children's graves are properly marked and given headstones. Father Domingo commissions a small memorial at the river — a carved stone figure of a woman in white, hands open, looking toward the water. The town chooses to remember, rather than forget.
+
+The party is invited to stay for a festival held in their honor — and in Esperanza's. A fishing boat returns to the dock with a full hold of silver fish for the first time in three months. Someone hangs white paper lanterns along the river bank, and lets them float downstream after dark.
+
+If the peaceful ending was achieved, there is one final moment: Tomas, the boy who survived, walks to the river's edge that evening without fear. He floats a lantern. He watches it go. He turns to the party and says only: *"She's gone, isn't she."* It is not quite a question.
+
+---
+
+## Key Rewards
+
+| Item | Source |
+|---|---|
+| **White Veil of the River** | La Llorona boss drop — a translucent cloak granting *Freedom of Movement* (always active), *Water Walk* (at will), and resistance to psychic damage |
+| **Lantern of Safe Passage** | Peaceful ending bonus — a brass lantern that sheds *Daylight* (30 ft.), automatically calms non-hostile undead within its light, and acts as a *Death Ward* for the holder once per long rest |
+| **Mateo's Ring** | Found in the Sunken Hacienda study — a simple gold band engraved with a river motif; grants *Speak with Dead* once per day and advantage on Insight checks when trying to detect deception |
+| **Espinoza's Ledger** | Recovered from the Drowned Vault — not a magic item, but can be used to compel confessions or leverage authority throughout future civilized campaigns; represents significant legal/political power |
+| **Blessing of Santa Muerte** | Father Domingo's reward for completing the peaceful ending — grants advantage on death saving throws and allows a death save reroll once per campaign |
+| **Consuela's Reward** | 800 gold from Consuela's personal savings and a town council writ granting the party legal right of passage through the entire river valley |
