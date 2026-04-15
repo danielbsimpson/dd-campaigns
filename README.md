@@ -15,7 +15,8 @@ The adventurers are recruited by three foreign merchants to save the great city 
 
 | File | Description |
 |---|---|
-| [README.md](The%20Curse%20of%20the%20Pharaoh/README.md) | Full campaign booklet |
+| [The Curse of the Pharaoh.docx](The%20Curse%20of%20the%20Pharaoh/The%20Curse%20of%20the%20Pharaoh.docx) | Full campaign booklet |
+| [README.md](The%20Curse%20of%20the%20Pharaoh/README.md) | Campaign summary |
 | [creatures.md](The%20Curse%20of%20the%20Pharaoh/creatures.md) | Creature reference |
 
 ---
@@ -29,7 +30,8 @@ A Viking warrior arrives seeking champions. The Kingdom of Nordheim is under sie
 
 | File | Description |
 |---|---|
-| [README.md](The%20Salvation%20of%20Nordheim/README.md) | Full campaign booklet |
+| [The Salvation of Nordheim.docx](The%20Salvation%20of%20Nordheim/The%20Salvation%20of%20Nordheim.docx) | Full campaign booklet |
+| [README.md](The%20Salvation%20of%20Nordheim/README.md) | Campaign summary |
 | [creatures.md](The%20Salvation%20of%20Nordheim/creatures.md) | Creature reference with full stat blocks |
 
 ---
@@ -44,7 +46,8 @@ A shapeshifting demon has spent decades hollowing out a prosperous city from wit
 
 | File | Description |
 |---|---|
-| [README.md](The%20Rakshasa/README.md) | Full campaign booklet |
+| [The Rakshasa.txt](The%20Rakshasa/The%20Rakshasa.txt) | Full campaign booklet |
+| [README.md](The%20Rakshasa/README.md) | Campaign summary |
 | [creatures.md](The%20Rakshasa/creatures.md) | Creature reference with D&D Beyond links |
 
 ---
@@ -59,15 +62,16 @@ dd-campaigns/
 │   ├── README.md
 │   ├── creatures.md
 │   ├── assets/
-│   └── The Curse of the Pharaoh.docx  ← source document
+│   └── The Curse of the Pharaoh.docx  ← full campaign booklet
 ├── The Salvation of Nordheim/
 │   ├── README.md
 │   ├── creatures.md
 │   ├── assets/
-│   └── The Salvation of Nordheim.docx ← source document
+│   └── The Salvation of Nordheim.docx ← full campaign booklet
 └── The Rakshasa/
     ├── README.md
-    └── creatures.md
+    ├── creatures.md
+    └── The Rakshasa.txt               ← full campaign booklet
 ```
 
 ---

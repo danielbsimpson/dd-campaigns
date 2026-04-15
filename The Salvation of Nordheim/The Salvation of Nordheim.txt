@@ -1,0 +1,2940 @@
+﻿-1. Woodvost
+Woodvost
+Population: 286, Size: 10 acres
+Demographics: Human (100%)
+Wealth: 3000 gp. Max value for sale: 300. Max pawn value: 400 gp
+Woodvost has an unusually wealthy population, known for its hemp and linen and its greedy merchants. The ruler (Melissa Sutton, Female Human) is controlled in secret by the thieves guild
+Defenses: The village is surrounded by sandbags. A militia of 28 can be mustered in case of attack. The sheriff is Ella Wilberforce, Female Human
+Shops:
+Tavern: The Giant Fox
+Owner: Guy Clayden, Male Human  (guy is a small but kind man. He loves the town and is happy to donate the rental cottage for the event. If coaxed, he will offer the cheap bunkbeds, for music, or a discount for dinner and a room)
+Location: Located in a side street near the town gate. The street outside is adjacent to a large home and a small cottage. A large sign shaped like the silhouette of a fox sits atop a tall post outside. It reads, “the giant fox”
+Description: when you approach, you see that the tavern is a sprawling wooden single storey building, with large windows and roughly hewn wooden furniture. It contains a number of small torches and a fire pit cooking food in the middle of the tavern. A cook(Arthur Grim) is hard at work fixing multiple dishes
+Specials: Crusted Lamb with Garden Greens and a Tankard of Beer (5 sp)
+Eggs and Ham scramble with seasonal vegetables and a Coffee (5 sp)
+Wyvern Burger with Roasted Apples a Glass of Fine Brandy(10 sp)
+Nightly rates are 50sp for the group room with bunkbeds, 1gp for small private quarters that could sleep 2, 3gp for the private cottage behind the tavern which could sleep 6
+
+
+
+
+
+
+Blacksmith: Minotaur's Buckle
+Owner: Rosie Hayley, Female Human (a tall woman with muscular arms and short hair is leaning over an anvil hammering away. It looks like she’s making arrowheads)
+Location: Located in a side street near the town’s edge. The street outside is a covered walkway with many twinkling lights. A big kitty cat lounges out front
+Description: when you approach the blacksmith building itself, you see that it is a plaster and wood framed simple building, with a brown tile roof and simple furniture. You’re greeted at the front by a black and gray fluffy cat with a name tag that says Sylvester. Sylvester is a large friendly kitty maybe twice the size of a typical housecat. The shop contains a light crossbow sitting on the counter and fine weaponry hanging from poles stretched between the walls.
+Specials: Blink hatchet (phb 145) (300 gp)
+Rusted Shield (phb 145) (5 gp)
+Plus all standard weapons and armor in the player's handbook
+
+
+
+
+
+
+Alchemist: Fate & Vials
+Owner: Helen England, Female Human (she specializes in gathering and crafting health potions. She has 3 she can sell cheaper, the rest are 50gp. She can also craft potions of climbing, potions of waterbreathing, and potions of fire resistance for 100gp each. They will take a whole day to make and she needs paid half in advance)
+Location: located at the major crossroads. The property outside is lined with a low stone wall which has a sign that says “Fate and Vial”
+Description: when you approach The alchemist shop, you see it is a timber framed two-storey building, with a reinforced wooden door and vines covering the walls and roof. It is well-lit by a few magical torches. It contains a suit of armor on the back wall and a small serving area. Two women are seated having tea. Red potions line the shelves on the wall. 
+Specials: Potion of Healing (dmg 187) (45 gp)
+Potion of Healing (dmg 187) (45 gp)
+Potion of climbing (dmg) (85 gp)
+Potion of Healing (dmg 187) (45 gp)
+
+
+
+
+Other Patrons: Jane Brandon, Female Human
+Jeweler: The Emerald Bracelet
+Owner: Matilda Copeland, Female Human   a young woman, hard at work. She’s looking through a large magnifying glass, working on setting small gems into a very elaborate ring.
+Location: The jewelry shop is located in a well-lit avenue with a decorative stone walkway. The street outside is crowded with shoppers. A sign above the door reads “the emerald bracelet”
+Description: when you approach the jewelery shop it is a brick single storey building, with a brown shingled roof and shuttered windows. It contains large persian rugs on the floor and many small candles hanging from the ceiling.
+Specials: Ring of Comprehend Languages(300 gp) Made with Ermina Kent the enchanter
+Exquisite Earrings (4 gp)
+Exquisite Necklaces (6 gp)
+
+
+Enchanter: The Commoner's Whispers
+Owner: Isabella Kent, Female Human  (a lovely older woman with white hair and comfortable clothing, is sitting and reading a book behind a counter. She looks up as you enter and smiles at you before returning her eyes to her book. She tells you she’s happy to answer any question or help, but she’s low on stock right now. She gestures with her free hand to the counter top)
+Location: In a small alley north of town square. The alley outside appears ominously quiet and empty. It's undergoing renovations.
+Description: when you approach the enchanter it is a stone-walled simple building, with a yellow tile roof and tile flooring. It contains an inviting hearth and a floating glass pyramid
+Specials: Identify Spell (PH) (15 gp)
+Lock of Trickery (XGE) (120gp)
+Scroll of prestigitation (magic scroll) (25 gp)
+Scroll of speak with animals (50gp)
+Orb of direction (xge) (25 gp) sold!!!!
+Sending stones (TCE) (80 gp) sold!!!!
+
+
+Church: Temple to Kelemvor
+Owner: Mary Harlow, Female Human (generally found kneeling and praying to statues of death inside, mary is always looking for donation)
+Location: In the town center at the main intersection in town.
+Description: The church is a marble two-storey building, with a brown shingled roof and tile flooring. It contains curtains draped over the walls and carved statues of death and skulls.
+
+
+
+
+Available services: 
+Lesser restoration 50gp
+Mass cure wounds 20gp
+Resurrection 400gp
+Cure wounds 5gp
+Remove curse 50gp
+
+
+General Store: Gentlemans Table
+Owner: Godfrey Sutton, Male Human
+Location: In a major crossroads. The street outside is wide and full of finely dressed townfolk talking among themselves. A faded old sign reading “gentlemans table” is posted on the front
+Description: When you approach The general store it is a timber and brick simple building, with a small fenced yard and overgrown hedges. A small dragon's skull hangs over the front door. It contains several tables of fine clothing and all sorts of kooky crap on the walls.
+Map
+Specials: Fine Linen clothing (10gp)
+Rope, Hempen (50 feet) (phb 153) (30sp)
+All general gear from the players handbook
+Rope, silken (50ft) (4gp)
+
+
+0. Intro
+In the cozy warmth of the town's bustling tavern, the sound of merry conversations and clinking tankards fills the air. The flickering firelight dances across the worn wooden tables and benches, casting shadows that seem to dance to the rhythm of the laughter and music. As you enjoy the camaraderie of the evening, the tavern's door creaks open, allowing a gust of chilly air to sweep in. The chatter momentarily quiets as the newcomer's presence captures everyone's attention.
+
+
+Stepping through the doorway is a figure straight out of myth and legend. Tall and broad-shouldered, he wears intricately etched armor that hints at his northern heritage. A fur-lined cloak, draped over his shoulder, adds an air of both ruggedness and nobility. His piercing blue eyes, like glacial ice, survey the room with a mix of determination and respect.
+
+
+As he approaches your group, the warrior's footsteps are measured, and the weight of his purpose seems to precede him. With a respectful nod, he addresses you, his voice carrying the strength of one who has faced adversity head-on. "Greetings, adventurers. My name is Bjorn Ironclad, a warrior hailing from the frosty lands of Nordheim. My King, Ragnar Frostbeard, faces a dire threat that looms over our realm like a shadow."
+
+
+Pausing for a moment, Bjorn's gaze locks onto each of you, as if assessing your very souls. "A monstrous creature known as the Hrimfang, born from the darkest of nightmares, has begun to lay waste to our once-thriving lands. Villages have fallen, and the people's hope wanes with every passing day. But our kingdom is not one to bow before fear. We are a people of strength and valor, and we shall stand against this darkness."
+
+
+His words carry the weight of an entire kingdom's hopes and dreams, and his next words are chosen with care. "I've been scouring the land, seeking those whose hearts burn with the fire of heroism. We need champions who will join us in this perilous quest, who will venture into the very heart of the mountains to face this creature and reclaim our lands from their grasp."
+
+
+With a mix of urgency and purpose, Bjorn extends his hand in camaraderie. "Will you take up arms alongside us, become the beacons of hope that Nordheim needs? Together, we shall forge a legend that will echo through the ages."
+
+
+The decision rests with you now, adventurers, as you contemplate the call to action from this Viking warrior named Bjorn Ironclad.
+
+
+Bjorn Ironclad
+Bjorn Ironclad, a name that resonates with tales of bravery and unwavering resolve, was born under the Northern Lights in the heart of Nordheim. Raised by a family of renowned warriors, his destiny was etched in the icy winds that swept across the rugged landscapes. From a young age, Bjorn showed an innate affinity for the sword and shield, embodying the spirit of his ancestors who had defended their homeland for generations.
+
+
+As he matured, Bjorn's skills on the battlefield grew, earning him the respect of his fellow Vikings and the attention of King Ragnar Frostbeard himself. It was not just his mastery in combat that set him apart, but also his unwavering loyalty to his people and his kingdom. His years of service have not been without sacrifice; the scars that adorn his body serve as a testament to the battles he's faced and the triumphs he's achieved.
+
+
+With the ominous threat looming over Nordheim, Bjorn's determination has never burned brighter. He possesses a boat, ready to sail from the bustling port town of Hafnheim, waiting for the arrival of a group of courageous adventurers who would join him in the fight to save their realm. His eyes, reflecting the depths of the frozen seas, hold a mixture of determination, worry, and hope as he seeks out those who share his resolve to stand against the encroaching darkness.
+
+
+1. Travel to Hafnheim
+Creatures (chance encounter):
+
+
+Giant Wolf Spider (CR 1/4): 
+These large spiders lurk in the forest and hunt unsuspecting prey. They are known for their stealth and poisonous bites.
+
+
+Stats
+
+
+Medium beast, unaligned
+
+
+Armor Class 13 (natural armor)
+
+
+Hit Points 11 (2d8 + 2)
+
+
+Speed 40 ft., climb 40 ft.
+
+
+Skills Stealth +6
+
+
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 10
+
+
+Challenge 1/4 (50 XP)
+
+
+Spider Climb. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+
+Web Sense. While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
+
+
+Web Walker. The spider ignores movement restrictions caused by webbing.
+
+
+Actions
+
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+
+
+Web (Recharge 5-6). Ranged Weapon Attack: +4 to hit, range 30/60 ft., one creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+
+
+The Giant Wolf Spider is a cunning predator that lurks in the forest, patiently waiting to ambush unsuspecting prey. With its potent venomous bite and ability to climb on any surface, it can be a dangerous opponent, especially for low-level adventurers. Its webbing can restrain foes and provide tactical advantages during a battle. Be cautious when dealing with these stealthy arachnids, for their poison can quickly incapacitate the unwary.
+
+
+Giant Centipede (CR 1/4): 
+These creatures are venomous and quick, often found crawling through the undergrowth.
+
+
+Stats
+
+
+Small beast, unaligned
+
+
+Armor Class 13 (natural armor)
+
+
+Hit Points 4 (1d6 + 1)
+
+
+Speed 30 ft., climb 30 ft.
+
+
+Skills Perception +2, Stealth +4
+
+
+Senses blindsight 30 ft., passive Perception 12
+
+
+Challenge 1/4 (50 XP)
+
+
+Actions
+
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
+
+
+Multiattack. The centipede makes two bite attacks.
+
+
+Spider Climb. The centipede can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+
+Web Sense. While in contact with a web, the centipede knows the exact location of any other creature in contact with the same web.
+
+
+Web Walker. The centipede ignores movement restrictions caused by webbing.
+
+
+The Giant Centipede is a venomous and quick creature that crawls through the undergrowth, seeking prey to ambush. Despite its relatively small size, its potent poison can be dangerous to those who underestimate it. It uses its speed and climbing ability to maneuver swiftly and make multiple attacks with its venomous bite. Adventurers should be cautious when exploring dense forests and underbrush, as these creatures can be lurking nearby, ready to strike.
+
+
+Giant Weasel (CR 1): 
+Agile and vicious, giant weasels are skilled hunters that can be encountered in wooded areas.
+
+
+Stats
+
+
+Medium beast, unaligned
+
+
+Armor Class 13 (natural armor)
+
+
+Hit Points 22 (4d8 + 4)
+
+
+Speed 40 ft.
+
+
+Skills Perception +3, Stealth +5
+
+
+Senses darkvision 60 ft., passive Perception 13
+
+
+Challenge 1 (200 XP)
+
+
+Keen Hearing and Smell. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+
+Actions
+
+
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage.
+
+
+Pounce. If the weasel moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, the target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the weasel can make one bite attack against it as a bonus action.
+
+
+Multiattack. The weasel makes two bite attacks.
+
+
+Agile Hunter. The weasel has advantage on Dexterity (Stealth) checks and can move through the space of any creature that is Medium or larger.
+
+
+Giant Weasels are agile and vicious hunters, capable of taking down creatures larger than themselves with ease. Their keen senses, swift movement, and potent bite make them formidable predators. Found in wooded areas, they use their natural camouflage and stealth to sneak up on prey before striking with deadly precision. Adventurers should exercise caution when traveling through dense forests, as giant weasels can be lurking in the shadows, ready to ambush their next meal.
+
+
+Brown Bear (CR 1): 
+Brown bears are powerful creatures that could be encountered if the players venture into more remote and wild areas.
+
+
+Stats
+
+
+Large beast, unaligned
+
+
+Armor Class 11 (natural armor)
+
+
+Hit Points 34 (4d10 + 12)
+
+
+Speed 40 ft., climb 30 ft.
+
+
+Skills Perception +3
+
+
+Senses passive Perception 13
+
+
+Languages understands one language spoken by its creator
+
+
+Challenge 1 (200 XP)
+
+
+Keen Smell. The bear has advantage on Wisdom (Perception) checks that rely on smell.
+
+
+Actions
+
+
+Multiattack. The bear makes two attacks: one with its bite and one with its claws.
+
+
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+
+
+Claws. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+
+
+Rampage. When the bear reduces a creature to 0 hit points with a melee attack on its turn, the bear can take a bonus action to move up to half its speed and make a bite attack.
+
+
+Description
+
+
+Brown bears are formidable creatures found in remote and wild areas, including dense forests and mountains. Their massive size and strength make them powerful predators, capable of dealing devastating bites and slashing attacks with their claws. Brown bears are known for their keen sense of smell, which aids them in tracking down prey or detecting intruders in their territory.
+
+
+Adventurers should approach encounters with brown bears with caution, as provoking or startling them could lead to a dangerous confrontation. These creatures are usually more interested in defending their territory or finding food than in engaging in combat for no reason, but if cornered or threatened, they won't hesitate to unleash their formidable attacks.
+Giant Boar (CR 2):
+Massive and territorial, giant boars roam the forests and can be dangerous if provoked.
+
+
+Stats
+
+
+Large beast, unaligned
+
+
+Armor Class 12 (natural armor)
+
+
+Hit Points 42 (5d10 + 15)
+
+
+Speed 40 ft.
+
+
+Skills Perception +1
+
+
+Senses passive Perception 11
+
+
+Challenge 2 (450 XP)
+
+
+Charge. If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+
+
+Actions
+
+
+Tusk. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
+
+
+Relentless (Recharge 5-6). If the boar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+
+
+Description
+
+
+Giant boars are massive and territorial creatures that roam the forests, thickets, and woodlands. They have powerful tusks that can deliver deadly slashing attacks, especially when charging at their opponents. Giant boars are fiercely protective of their territory and will not hesitate to attack any perceived threats to their domain.
+
+
+Their relentless nature allows them to continue fighting even when on the brink of defeat. Adventurers should be cautious when encountering giant boars, as they can be dangerous if provoked. It is best to keep a safe distance and avoid provoking these territorial creatures, as their charges can cause significant harm. However, some skilled hunters may seek to challenge these beasts for their valuable tusks and hide, making giant boars a formidable quarry for the daring and well-prepared.
+
+
+2. Hafnheim Town
+Description: Hafnheim is a bustling port town located on the coast, surrounded by lush green hills and dotted with charming wooden buildings. The salty sea breeze fills the air as ships come and go, trading goods and offering transportation to distant lands. Despite its picturesque appearance, the town has been plagued by a series of troubles, ranging from cattle mysteriously disappearing to occasional attacks by local bandits known as the "Blackshore Raiders." The town's inhabitants are hardworking and resilient, determined to maintain their way of life amidst these challenges.
+
+
+Description
+As the party approaches Hafnheim, they are greeted by a picturesque coastal town nestled between lush, rolling hills and the expansive sea. The salty breeze carries with it the scent of saltwater and freshly cut timber, mingling with the tantalizing aroma of savory dishes drifting from the Mead Hall's hearth. The town's wooden buildings stand proudly, each adorned with intricate carvings depicting tales of heroic exploits and Viking legends. A large, sturdy watchtower looms over the town, a testament to Hafnheim's vigilant defense against any potential threats.
+
+
+As the adventurers enter the bustling streets, they are met with the lively hustle and bustle of a thriving port town. Traders from distant lands hawk their wares in the market square, colorful tents and stalls creating a vibrant display of goods and exotic trinkets. Laughter and chatter resonate from "Gullveig's Hearth," the Mead Hall, where hearty Vikings feast, regale each other with heroic sagas, and exchange stories of their own exploits. Further along the cobbled streets, they find "Skjold's Rest," the inviting inn with its warm hearth and welcoming ambiance, offering respite for weary travelers seeking shelter and rest.
+
+
+As they wander through Hafnheim's heart, they catch glimpses of the sturdily-built "Ironbeard's Forge," its roaring furnace heating the metal within, and the faint sound of hammering echoing through the air. The enchanting fragrance of exotic herbs and incense draws their attention to a secluded corner where "Arcane Enclaves" beckons, a mysterious shop rumored to harbor powerful magic. A majestic temple dedicated to the Allfather, "Odin," rests atop a hill, overlooking the town and its people with a watchful eye. The worshippers' solemn prayers and the temple's imposing aura hint at the spiritual strength that resonates within.
+
+
+As the sun dips low on the horizon, casting an ethereal glow over Hafnheim's coastal landscape, the adventurers feel a sense of camaraderie and warmth radiating from the town's inhabitants. Though plagued by troubles, the townsfolk remain resilient and welcoming, eager to seek aid from those brave enough to answer their call. Hafnheim, a town with a rich tapestry of stories and legends, now opens its gates to new heroes destined to etch their names into the annals of Viking lore.
+
+
+Buildings:
+The Mead Hall - "Gullveig's Hearth" 
+The Mead Hall, also known as "Gullveig's Hearth," is the heart of Hafnheim. It is a large and impressive building with intricately carved wooden beams and a massive hearth at its center. Inside, adventurers can enjoy hearty Viking feasts and indulge in the finest mead. The Mead Hall is a place of camaraderie, where tales of epic adventures and battles are shared, and where bards entertain with songs and sagas. It is here that the adventurers can gain valuable information about the troubles plaguing the town and perhaps receive hints about the side quests available to them.
+
+
+Owner - Reik Ironbeard
+Hardy and jovial owner of Gullveig's Hearth, the heart and soul of Hafnheim's mead-drinking community. Born into a lineage of skilled blacksmiths and intrepid sailors, Reik found himself drawn to the warmth of camaraderie and the stories shared over hearty drinks more than the clang of anvils. His reddish-brown beard and robust laughter are as legendary as the mead he serves, crafted with the same fervor he pours into every conversation and song.
+
+
+Reik's life was forever marked by an encounter in the wilds, during his early years of exploration beyond the town's bounds. Witnessing a dragon's menacing silhouette against the moonlit sky, he saw first-hand the terror the monstrous creature could unleash. Though he escaped with his life, the chilling memory stayed with him, and he has since been vigilant, listening to the tales of travelers and sailors to gather information about the dragon's movements.
+
+
+Despite his jovial exterior, Reik's heart is heavy with concern for the safety of Hafnheim and the surrounding lands. Hearing the tragic accounts of the dragon's attacks on the fields, he vowed to help in any way he could. Reik's experiences have also led him to suspect the enigmatic bandits that have plagued the town may have a connection to the old castle to the north. He firmly believes that this castle, shrouded in secrets and shadows, might hold answers to both the dragon's presence and the bandits' sinister activities.
+
+
+With a weathered yet warm smile, Reik serves as a beacon of community spirit, fostering bonds among Hafnheim's residents. Behind his hospitable façade, a determined resolve burns to protect his town from the looming threats. He's ever-ready to provide adventurers with a hearty meal, a warm drink, and perhaps even some insights that could lead to uncovering the mysteries that threaten the safety of their beloved Hafnheim.
+
+
+Food/Drink prices:
+Meals:
+* Hearty Stew: 2 silver pieces (SP)
+* Roasted Chicken with Vegetables: 3 silver pieces (SP)
+* Grilled Fish with Herbs: 4 silver pieces (SP)
+* Vegetarian Platter: 2 silver pieces (SP)
+Drinks:
+* Ale (Tankard): 1 silver piece (SP)
+* Mead (Mug): 2 silver pieces (SP)
+* Wine (Glass): 3 silver pieces (SP)
+* Water (Pitcher): 5 copper pieces (CP)
+
+
+
+
+The Longhouse - "Skjold's Rest" 
+The Longhouse, known as "Skjold's Rest," is a cozy and welcoming inn where weary travelers and adventurers find respite. The building is adorned with tapestries depicting heroic sagas and has a warm hearth to keep guests comfortable during colder nights. Inside, there are private rooms with comfortable beds for rent, providing the party a place to rest and recuperate after their long journeys. Here, they might hear rumors of recent sightings of the dragon or learn about the whereabouts of the Blackshore Raiders.
+
+
+Owner - Astrid Stormshield
+Skjold's Rest, the grand longhouse nestled in the heart of Hafnheim, is overseen by its enigmatic and revered owner, Astrid Stormshield. Born to a lineage of seasoned sailors and navigators, Astrid's affinity for the sea was undeniable from the start. Her striking presence is matched only by her commanding aura, marked by her flowing auburn hair and eyes that mirror the depths of the ocean.
+
+
+Astrid's journey has been one of resilience and adaptation. After surviving a treacherous shipwreck during her younger years, she learned to navigate life's tumultuous waters with unshakable determination. As the years went by, her reputation grew, not just as a skilled sailor but as a protector of her community. She stands as a symbol of resilience in the face of adversity.
+
+
+Skjold's Rest became Astrid's sanctuary and the focal point of Hafnheim's gatherings. Under her watchful eye, it evolved into a refuge where sailors found solace in recounting their tales of the open sea, where travelers rested their weary bones, and where those seeking guidance found a listening ear. Through the meandering conversations and shared laughter, Astrid learned of the dire dragon attacks that plagued the neighboring fields, sparking a fire of concern in her heart.
+
+
+Driven by an unyielding sense of responsibility, Astrid believes that answers to the enigma may be hidden within the secrets of the old castle to the north. Despite her formidable exterior, her heart aches for her community's safety. It's her belief that the true strength of Hafnheim lies in its unity, and her longhouse stands as a testament to that conviction. Astrid offers a warm hearth and a place to rest for weary travelers, all the while harboring hopes that their endeavors will help uncover the truth behind the dragon's presence and the machinations of the lurking bandits.
+
+
+Room Prices:
+* Standard Room: 5 gold pieces (GP) per night.
+* Deluxe Suite: 10 gold pieces (GP) per night.
+The Blacksmith - "Ironbeard's Forge" 
+"Ironbeard's Forge" is a sturdy stone building with a roaring furnace, run by a skilled and gruff blacksmith named Durg Ironbeard. The blacksmith is known for crafting exceptional weapons and armor, catering to both locals and adventurers passing through. The party can purchase high-quality weapons and armor here, which will prove invaluable as they face the challenges ahead.
+Owner - Durg Ironbeard
+As you step into Ironbeard's Forge, the air is thick with the smell of heated metal and the resonating clang of hammers on anvils. Behind the workbenches stands a burly man, his beard as dark as the iron he shapes. His calloused hands move with practiced precision, the embodiment of years spent perfecting the art of blacksmithing. His eyes, gleaming with both intensity and pride, meet yours with a knowing nod, welcoming you into his domain of creation and craftsmanship.
+
+Items for sale:
+
+
+Item
+	Description
+	Price (in gold)
+	Dwarven Thrower
+	Warhammer that returns to the thrower after each attack
+	1,500
+	Warhammer
+	A sturdy weapon capable of dealing bludgeoning damage.
+	15
+	Steel Shield
+	A reliable shield providing additional protection.
+	10
+	Smith's Tools
+	A set of tools used for crafting and repairing metal items.
+	20
+
+
+	Iron Shovel
+	A basic tool for digging and moving dirt or materials.
+	5
+	
+
+
+
+The Enchanter's Emporium - "Arcane Enclaves" 
+Tucked away in a discreet corner of Hafnheim, "Arcane Enclaves" is a mysterious shop run by a reclusive wizard named Aeliana. The shop is lined with shelves filled with various magical trinkets, scrolls, and potent potions. Aeliana is known for her expertise in arcane knowledge and can offer valuable magical items for sale, such as potions of healing, scrolls with powerful spells, and enchanted items. The prices may be steep, but the potential rewards are great for those who seek powerful magic.
+
+
+Owner - Aeliana
+As you step into the Arcane Enclaves, a sense of wonder and mystique envelops you. Before you stands a figure draped in elegant robes, their eyes shimmering with a mixture of knowledge and curiosity. This enigmatic figure, known as Aeliana Moonshadow, exudes an aura of otherworldly understanding, surrounded by shelves adorned with shimmering trinkets and glimmering artifacts. Her presence in this enchanting emporium hints at the secrets she holds and the wondrous magical items waiting to be discovered within the store's hidden corners.
+
+
+Items for sale:
+
+
+
+
+Item
+	Description
+	Price (in gold)
+	Healing Potion
+	Restores hit points when consumed.
+	50
+	Alchemist's Fire
+	A vial of volatile substance that ignites on impact, dealing fire damage.
+	50
+	Potion of Fire Breath
+	Grants the ability to exhale a cone of fire.
+	150
+	Potion of Growth
+	Causes the drinker to grow in size, providing temporary hit points and increased damage.
+	100
+
+
+	Scroll of Feather Fall
+	Contains the Feather Fall spell, allowing safe descent from heights.
+	30
+	
+
+
+
+The Market Square - "Bifrost Bazaar" 
+Hafnheim's Market Square, or "Bifrost Bazaar," is a lively and bustling area where traders from different lands converge to sell their wares. Colorful tents and stalls line the square, offering various goods ranging from fresh produce to exotic trinkets. Adventurers can find useful items like ropes, torches, and rations here, as well as engage in lively bartering with merchants for essential supplies before they embark on their journey north.
+
+
+Items for sale:
+
+
+Item
+	Description
+	Price (in gold)
+	Torch
+	A simple source of light that burns for about an hour.
+	1
+	Rations
+	Nutritious food supplies for sustenance on the road.
+	5 (per day)
+	Waterskin
+	A container for holding water or other liquids.
+	2
+	Rope (50 feet)
+	A length of rope that can be used for various purposes, including climbing.
+	1
+	
+
+
+
+The Temple - "Temple of the Allfather" 
+Overlooking the town, atop a hill, stands the grand "Temple of the Allfather." Dedicated to the worship of the chief deity of the Norse pantheon, Odin, the temple is a place of reverence and spiritual guidance. Here, the players can seek blessings and aid from the temple priests before setting out on their quest to the far North Kingdom. The priests might offer them sacred relics or divine guidance that can prove invaluable in their upcoming trials.
+
+
+
+
+
+
+Side Quests:
+Side Quest 1: "Cattle Conundrum": 
+Word spreads through Hafnheim of a menacing dragon that has been terrorizing the local farmers and stealing their cattle. The townspeople are in distress as their livelihood is being threatened, and they desperately seek brave adventurers to put an end to the dragon's rampage. The party can gather information about the dragon by speaking with the farmers and listening to tales shared at "Gullveig's Hearth" or even from the concerned council members.
+
+
+The Encounter
+The adventurers have the option to track the dragon to its lair by following clues in the fields where the attacks have been occurring. They may discover large footprints and frozen patches of grass that lead them on the path to the wyrm's cave. Alternatively, they can learn from the locals about the general location of the dragon's lair and set out on a quest to find it.
+Upon confronting the Frostfire Wyrm in its cave, the party will engage in a fierce battle against the powerful dragon. The wyrm's icy breath and searing fire attacks will test the players' resilience and strategy. During the fight, the cave may also pose environmental challenges, such as unstable icy terrain or columns of ice that can be used to the players' advantage if they can knock the dragon into them.
+
+
+Young White Dragon
+
+
+Huge dragon, chaotic evil
+
+
+Armor Class 17 (natural armor) 
+Hit Points 135 (18d12 + 18) 
+Speed 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+
+STR 18 (+4)
+ DEX 10 (+0)
+ CON 16 (+3) 
+INT 8 (-1) 
+WIS 12 (+1) 
+CHA 6 (-2)
+
+
+Saving Throws Dex +3, Con +6, Wis +4, Cha +2 
+Skills Perception +6, Stealth +3 
+Damage Immunities cold 
+Senses blindsight 10 ft., darkvision 120 ft., passive Perception 16
+ Languages Common, Draconic
+
+
+Challenge 6 (2,300 XP)
+
+
+Cold Breath (Recharge 5-6). The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+
+Actions
+
+
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+
+Bite. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage.
+
+
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+
+
+Tail. Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+
+
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+Cold Immunity. The dragon is immune to cold damage.
+
+
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+
+
+This Young White Dragon stat block should provide an exciting and challenging encounter for your players. Remember to adjust the dragon's tactics and the environment to make the encounter memorable and fitting for your campaign.
+
+
+
+
+Reward
+
+
+Once the party emerges victorious against the Frostfire Wyrm, they will find a treasure trove of rewards in its lair. Among the hoard of glittering gems and gold coins, they will discover the following items:
+
+
+* Frostband Dagger: This enchanted dagger shimmers with a pale blue hue and exudes an icy chill. The hilt is adorned with intricate frost-like patterns, and its blade glistens with a frosty sheen.
+
+
+* Hat of Disguise: This simple and unassuming hat holds a hidden enchantment that allows its wearer to alter their appearance at will. The hat is often made of nondescript material, making it blend seamlessly with various outfits.
+
+
+* 1500 gold, 400 silver, 5000 copper
+
+
+The successful completion of this side quest not only benefits the town of Hafnheim by removing the threat of the Frostfire Wyrm but also rewards the party with valuable items to aid them in their journey to the far North Kingdom.
+
+
+
+
+Side Quest 2: "The Blackshore Raiders": 
+Rumors have been circulating about a band of notorious raiders known as the "Blackshore Raiders" plaguing the trade routes and outskirts of Hafnheim. These cunning and elusive bandits strike swiftly, ambushing travelers and caravans, stealing valuable goods, and sometimes taking hostages for ransom. The town's authorities are desperate for a solution, and they implore the adventurers to put an end to the Blackshore Raiders' reign of terror.
+
+
+The Blackshore Raiders have been using the cover of dense forests and treacherous marshlands near Hafnheim to stage their attacks and retreat quickly after their deeds. The players can investigate the recent attacks, gather information from the frightened victims, and piece together clues to pinpoint the raiders' base of operations.
+
+
+The Encounter
+As the players venture into the marshlands, they face several challenges set up by the raiders to protect their territory. They may encounter hidden traps, deceptive illusions, and even face off against some of the raiders in skirmishes. The stealthy approach will be crucial if the party hopes to surprise Captain Skyraven and catch him off guard.
+
+
+Once the players reach the bandit leader's tower, they must navigate through its secret passages and overcome the raiders guarding its entrances. The final confrontation with Captain Skyraven will be intense and personal, as he taunts the adventurers with his motives and motivations behind the raids.
+
+
+Bandits
+Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry. Pirates are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.
+
+
+The Bandit Leader: Captain Skyraven
+The leader of the Blackshore Raiders is a cunning and charismatic figure known as Captain Skyraven. Dressed in dark leather armor and adorned with raven-feathered trinkets, Captain Skyraven is a masterful tactician, capable of orchestrating complex ambushes and keeping his band of raiders fiercely loyal. He commands from his hidden lair, a fortified tower nestled deep within the marshlands, which the players will have to infiltrate to confront him and put an end to his reign.
+
+
+Stats
+Certainly! Here's the stat block for the Bandit Leader in the second side quest:
+
+
+Grimm Blackthorn - Bandit Leader
+Medium humanoid (human), chaotic evil
+
+
+Armor Class: 16 (studded leather armor)
+Hit Points: 112 (15d8 + 45)
+Speed: 30 ft.
+
+
+STR 16 (+3) | DEX 16 (+3) | CON 16 (+3) | INT 10 (+0) | WIS 12 (+1) | CHA 14 (+2)
+
+
+Saving Throws: DEX +6, CON +6
+Skills: Stealth +6, Perception +3, Intimidation +4
+Senses: passive Perception 13
+Languages: Common
+Challenge: 5 (1,800 XP)
+
+
+Brave. Grimm has advantage on saving throws against being frightened.
+
+
+Evasion. If Grimm is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, he instead takes no damage if he succeeds on the saving throw, and only half damage if he fails.
+
+
+Actions
+
+
+Multiattack. Grimm makes two attacks with his scimitar or two attacks with his shortbow.
+
+
+Scimitar. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) slashing damage.
+
+
+Shortbow. Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 6 (1d6+3) piercing damage.
+
+
+Bandit Tactics. Grimm has advantage on an attack roll against a creature if at least one of Grimm's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+
+Reactions
+
+
+Parry. Grimm adds 3 to his AC against one melee attack that would hit him. To do so, Grimm must see the attacker and be wielding a melee weapon.
+
+
+Additional Information
+
+
+Grimm Blackthorn is the cunning and ruthless leader of a notorious bandit group that has been terrorizing the region. He's a skilled fighter, and his experience in leading his gang makes him a dangerous opponent. He often employs ambush tactics and uses the surrounding terrain to his advantage.
+
+
+As the players confront Grimm Blackthorn, they will have to be prepared for a tactical and challenging encounter. Grimm will not hesitate to use hit-and-run tactics, striking with his bow from a distance and closing in for melee attacks when the opportunity arises. He relies on his evasion and parrying abilities to survive against the players' onslaught.
+
+
+Grimm's gang will fight alongside him, making the battle even more perilous for the players. They'll need to strategize and work together to overcome this ruthless bandit leader and put an end to his reign of terror. Defeating Grimm Blackthorn could yield valuable rewards and help restore peace to the region.
+
+
+Reward
+Upon defeating Captain Skyraven and liberating the tower, the adventurers will discover the Blackshore Raiders' ill-gotten wealth, including piles of stolen treasures, weapons, and valuable goods. Additionally, the following unique rewards await the party:
+
+
+* Dagger of Venom: This wickedly serrated dagger gleams with a malevolent glint, its blade seeming to drip with a sinister venom. The hilt is adorned with intricate patterns that resemble the coils of a serpent.
+
+
+* Boots of Winderlands: These rugged boots are lined with fur and adorned with intricate frost-themed patterns. While wearing the Boots of the Winterlands, you feel an increased resilience to the harsh conditions of icy and snowy terrain.
+
+
+* Captain's Chest: A locked chest within Captain Skyraven's lair contains a significant amount of gold (1500g) and 3 Black Pearl gems. The party can use this wealth to improve their gear or invest in other ventures.
+
+
+Successfully dealing with the Blackshore Raiders not only brings peace and safety back to Hafnheim's trade routes but also rewards the adventurers with unique magical items that will serve them well in their further endeavors throughout the campaign.
+
+
+3. Frostgate Town
+Description
+
+
+As your ship sails closer to the northern continent of Nordheim, the chilling winds carry a hint of excitement and anticipation. As you peer out across the horizon, a quaint settlement comes into view, nestled at the edge of the icy wilderness. This is Frostgate, a small coastal town that stands as a gateway to the frozen lands beyond.
+
+
+From the ship's deck, you can see the town's modest harbor, where fishing vessels and trading ships dock, forming a lifeline to the outside world. The wooden piers and fishing boats bob gently in the freezing waters, mirroring the quiet serenity of the town. Along the coastline, you spot a few small farms, their hardy crops defying the harsh weather to sustain the townsfolk.
+
+
+As you disembark and approach Frostgate, you notice the town's few buildings gathered closely together. A cozy tavern called "The Frosted Mug" catches your eye, its windows glowing warmly with the welcoming light within. Next to it, a modest inn stands as "The Frostgate Rest,".
+
+
+The air is crisp and carries the scent of pine and snow, mingling with the inviting aroma of freshly cooked meals and burning hearths. You catch glimpses of friendly faces, townsfolk bundled up in furs, going about their daily tasks.
+
+
+Frostgate may be small, but its charm and resilience are evident in every wooden plank that forms its structures. Despite its size, the town holds a unique character and a warm hospitality that is a welcome embrace in these frigid lands.
+
+
+Buildings:
+The Frosted Mug (Tavern):
+A warm and inviting tavern located at the heart of Frostgate. Its sturdy wooden walls are adorned with frost-covered carvings and old seafaring artifacts. The cozy hearth crackles with a comforting fire, and the aroma of hearty stews and roasted meats fills the air. Adventurers and locals alike gather here to share stories and warm their spirits after a long day's work.
+
+
+Owner: Ingrid Oakheart
+
+
+“As you step into the Frosted Mug Tavern, a warm and inviting atmosphere surrounds you. The crackling fire in the hearth casts a flickering glow across the room, illuminating the rough-hewn wooden tables and the lively gathering of patrons. At the center of it all stands a woman, the stout and hearty owner of the establishment. Her weathered face breaks into a welcoming smile as she moves with purpose, serving drinks and sharing laughter with the patrons. Her eyes hold a glint of wisdom earned through years of running the tavern, and her presence seems to embody the spirit of camaraderie that permeates the room. It's clear that this is a place where tales are spun, friendships are forged, and the warmth of mead is only rivaled by the warmth of the connections formed within these walls.”
+
+
+Food/drink Prices:
+Food:
+* Hearty Stew: 5 copper pieces (CP)
+* Roasted Chicken with Vegetables: 7 copper pieces (CP)
+* Grilled Fish with Herbs: 9 copper pieces (CP)
+* Vegetarian Platter: 6 copper pieces (CP)
+Drinks:
+* Ale (Tankard): 4 copper pieces (CP)
+* Mead (Mug): 8 copper pieces (CP)
+* Wine (Glass): 12 copper pieces (CP)
+* Water (Pitcher): 3 copper pieces (CP)
+
+
+The Frostgate Rest (Inn):
+A modest yet comfortable inn that offers weary travelers a place to rest their heads. The inn's timber-framed walls are lined with thick furs and tapestries depicting tales of valor and legends of the north. The common room provides a warm and relaxing ambiance, and the innkeeper welcomes guests with a friendly smile.
+
+
+Owner - Sigurd Froststrider
+
+
+Sigurd Froststrider, a hardy and seasoned adventurer, found his way to the small town of Frostgate after years of roaming the frigid landscapes of the North. With a weathered face marked by the harsh elements, and a pair of piercing blue eyes that seem to see through the ice and snow, Sigurd has become an integral part of the Frostgate community. 
+
+
+Having faced dangers and wonders across the frozen lands, Sigurd settled in Frostgate and established The Frostgate Rest, a warm and welcoming tavern for weary travelers. He carries with him a past filled with tales of confronting dire wolves in the untamed wilderness and surviving a treacherous avalanche while exploring the treacherous mountains.
+
+
+Sigurd has a particular fascination with the mysterious events that have befallen Frostgate. He tells his patrons of the frozen lighthouse that was once a beacon of safety but now lies trapped in an unnatural sheath of ice, as well as the puzzling iceberg that appeared overnight along the coast. Sigurd believes that solving these enigmas is key to the safety and prosperity of the town, and he often encourages adventurers to seek the truth behind these mysteries.
+
+
+With a hearty laugh and an empathetic ear, Sigurd welcomes those seeking refuge and adventure into his tavern. He is driven by a desire to help the town and its people, and he knows that the answers to the mysteries lie in the courage of those willing to face the unknown.
+
+
+Room Price:
+* Standard Room: 7 silver pieces (SP)
+
+
+The Fisherman's Catch (Fish Market):
+Located near the harbor, this small fish market offers a variety of freshly caught seafood. Local fishermen display their daily catches, including succulent fish and other aquatic delights. The salty sea breeze carries the briny scent of the ocean, making this a bustling spot for seafood lovers.
+
+
+Nordic Traders (General Store):
+A well-stocked general store run by a friendly elderly couple. The store shelves are lined with an assortment of goods, including winter clothing, camping gear, basic provisions, and maps of the surrounding area. The couple is always eager to offer advice to travelers on how to survive in the cold northern wilderness.
+
+
+Owner: Eirik Skaldhammer
+As you step into the Nordic Traders, your eyes are drawn to a robust figure behind the counter. A weathered face adorned with a braided beard and intense blue eyes greets you with a warm smile. The clinking of coins and the scent of various goods fill the air as Eirik Skaldhammer, the owner, moves about with purpose. Clad in sturdy furs and a finely crafted axe at his side, Eirik exudes a sense of authority and knowledge about the wares that surround him. His hearty laughter echoes through the shop, creating an inviting atmosphere in this hub of trade and commerce.
+Items for Sale:
+
+
+Item
+	Description
+	Price (GP)
+	Scroll of Detect Magic
+	Contains the Detect Magic spell, allowing the user to sense magical auras.
+	25
+	Torch
+	A simple source of light that burns for about an hour.
+	1
+	Healing Kit
+	Contains bandages and supplies to provide basic healing.
+	5
+	Hops
+	Northern hops for brewing beer
+	15
+	Disguise kit
+	
+
+	25
+	Fur Cloak
+	
+
+	2
+	
+
+
+
+Fireforge's Forge (Blacksmith):
+A renowned blacksmith shop owned by the skilled dwarf, Fireforge. The forge's stone walls echo with the rhythmic clang of hammers striking metal. Fireforge, with his impressive beard and hearty laugh, warmly welcomes all who seek his expertise. The forge offers various services, from weapon repairs to crafting new tools and equipment.
+
+
+Owner: Brogar Ironforge
+As your group enters the Ironforge blacksmith, the clang of hammers on anvils fills the air, creating a symphony of craftsmanship. The glow of the forge illuminates the interior, revealing rows of finely crafted weapons and armor lining the walls. At the center of it all stands a sturdy dwarf, his broad shoulders and weathered hands evidence of years spent in the service of the anvil. His eyes, sharp and observant, glance up from his work to greet you. This is Brogar Ironforge, a skilled master of his trade, whose passion for crafting is matched only by his knowledge of the metals that shape his world.
+
+
+Brogar cannot sell anything but his services at the moment. He can repair items and has a knack for mechanical workings, but since the lighthouse froze over and commerce slowed he has been unable to source many goods.
+Frostgate Harbor:
+The lifeblood of the town, where fishing boats and trading vessels come and go. The harbor is surrounded by wooden piers, and the water is often dotted with chunks of ice. Despite the frigid temperatures, the harbor is always bustling with activity as fishermen unload their catches and merchants trade goods from far-off lands.
+
+
+As the players explore Frostgate, they'll encounter the vibrant community of hardy individuals who call this coastal town their home. Each building holds its own charm and significance, offering the players various services, opportunities for role-playing, and potential quests as they venture deeper into the mysteries of the frozen north.
+
+
+Side Quests
+
+
+Side Quest 1: “The Frozen Lighthouse”
+
+
+Description:
+A local legend speaks of an ancient lighthouse, perched atop an ice-covered island just off the coast of Frostgate. The lighthouse has been dormant for centuries, its light extinguished, and its purpose forgotten. However, an old fisherman named Olaf believes that restoring the lighthouse to its former glory could help guide ships safely to Frostgate's harbor, and he seeks adventurers to undertake this task. The players hear about this opportunity and decide to brave the icy winds and treacherous ice to bring back the lighthouse's guiding light.
+
+
+Objective:
+The players are tasked with clearing off the ice that encases the lighthouse, repairing its mechanisms, and lighting its beacon once again to aid the sailors of Frostgate.
+
+
+Challenges:
+1. Ice Encased Lighthouse: The lighthouse is covered in thick layers of ice, making it challenging to reach the entrance. The players must figure out a way to remove the ice without damaging the structure.
+
+
+Locate the Hidden Door:
+- Skill: Investigate the wall for clues, markings, or irregularities.
+- Stat: DC 16 Intelligence (Investigation) check. Success reveals subtle markings or irregularities on the wall, indicating the location of the hidden door beneath the ice.
+
+
+
+
+1. Melt the Ice with Fire:
+   - Skill: Use an open flame or fire spell.
+   - Stat: DC 15 Dexterity check (for precision) or DC 13 Intelligence (Arcana) check (for spellcasting). Success melts the ice, allowing passage.
+
+
+2. Break the Ice:
+   - Skill: Use a melee weapon or brute force.
+   - Stat: DC 17 Strength check. Success breaks the ice wall, creating an opening.
+
+
+3. Leverage Tools:
+   - Skill: Use appropriate tools (e.g., crowbars, chisels).
+   - Stat: DC 15 Strength check with advantage if using tools. Success chips away the ice, creating a passage.
+
+
+4. Mystical Solution:
+   - Skill: Cast a spell like "Mold Earth," "Control Water," or a similar magic.
+   - Stat: DC 15 Wisdom (Spellcasting) check. Success manipulates the ice to create an opening.
+
+
+5. Environmental Awareness:
+   - Skill: Observe the surroundings for clues or weaknesses.
+   - Stat: DC 16 Intelligence (Investigation) check. Success reveals a hidden, less fortified section of the ice wall that can be bypassed.
+
+
+6. Hot Water or Oil:
+   - Skill: Pouring hot water or oil on the ice to weaken it.
+   - Stat: DC 14 Dexterity check for precision. Success softens the ice, allowing it to be easily broken or pushed through.
+
+
+7. Wind Magic:
+   - Skill: Use wind-based spells to blow the ice away.
+   - Stat: DC 15 Wisdom (Spellcasting) check. Success clears a path by manipulating the wind's force.
+
+
+2. The Broken Mechanism:
+   - Challenge: The lighthouse's mechanism, which rotates the light source, is damaged and inoperative. To repair it, the players need to find a replacement gear or craft one.
+   - Scenario: Inside the lighthouse, the players find a workshop area with scattered tools and machinery. Among the tools, they notice a broken gear. They can choose to repair it themselves with a successful DC 14 Intelligence (Tinker's Tools) check, or they can search for materials to craft a new one. Finding materials requires a successful DC 16 Intelligence (Investigation) check in the workshop. Once repaired, they need to reinstall the gear to get the light rotating again. They can also return to Frostgate and request that Brogar repair the parts.
+
+
+3. The Frozen Light Source:
+   - Challenge: The magical light source at the top of the lighthouse is frozen and not emitting light. The players need to thaw it out and restore its magical properties.
+   - Scenario: At the top of the lighthouse, they find the frozen magical light source encased in ice. To restore it, they can either use a source of heat (like a fire spell) to thaw it or craft a magical elixir that can melt the ice. Crafting the elixir requires a successful DC 16 Intelligence (Arcana) check if they have suitable ingredients. Once the light source is restored, the lighthouse functions properly.
+
+
+
+
+
+
+Reward
+* Local Gratitude: Restoring the lighthouse earns the players the gratitude of the townspeople of Frostgate. The fishermen and sailors appreciate the return of the guiding light, making their lives safer and easier.
+
+
+* Discoveries in the Ice: Once inside the lighthouse, the players will notice they are not standing on the floor, but actually on a layer of ice. As the players clear away the ice, they find an ancient, frozen chest. Inside, they discover a scroll of ice storm and a small collection of valuable gems:
+   * 2 Sapphires (100 GP each)
+   * 3 Emeralds (150 GP each)
+   * 3 Rubies (200 GP each)
+
+
+* Beacon of Light: By lighting the beacon at the top of the lighthouse, the players unlock its magical properties. Once per long rest, they can use the lighthouse to send a bright light signal visible from miles away, attracting allies or signaling for help in times of need.
+
+
+Completing this side quest not only benefits the townspeople of Frostgate but also grants the players valuable treasures and a powerful new tool in the form of the magical lighthouse beacon. As the light illuminates the icy coastline, the players stand proud, knowing they've left a lasting mark on this frozen land.
+
+
+Side Quest 2: “The Mysterious Iceburgh”
+
+
+Description: 
+Word spreads through Frostgate of an ancient chamber hidden within a massive iceberg that appeared off the coast after a recent blizzard. Legends say the chamber contains a valuable artifact, the "Frostheart Crystal," rumored to possess icy magic. The townspeople are eager to retrieve it, but the chamber is locked by an intricate and mysterious puzzle that nobody has been able to solve. The players are approached by a local scholar named Elinor, who seeks their aid in deciphering the puzzle and unlocking the chamber's secrets.
+
+
+Objective: The players must venture into the icy depths of the massive iceberg, solve the puzzle, and obtain the Frostheart Crystal.
+
+
+Challenges:
+
+
+* The Puzzle Chamber: Inside the chamber, the players find a complex puzzle, featuring a series of icy runes and mechanisms. They must decipher the runes' meanings, arrange them in the correct sequence, and manipulate the mechanisms to unlock the chamber's entrance.
+* * Time Pressure: The icy chamber is unstable, and will start sinking as soon as the players enter the chamber.
+
+
+1. Upon Entering the Chamber: Perception Check (DC 15)
+This check determines if they notice anything unusual when they first enter the chamber. Success means they notice the iceburgh starting to melt and sinking slowly.
+
+
+2. After 3 Minutes: Perception Check (DC 12)
+This check is made 3 minutes after entering the chamber. Success means they notice the iceburgh has sunk a little further.
+
+
+3. After 6 Minutes: Perception Check (DC 10)
+This check is made 6 minutes after entering the chamber. Success means they notice the iceburgh sinking more noticeably.
+
+
+4. After 9 Minutes: Perception Check (DC 8)
+This check is made 9 minutes after entering the chamber. Success means they realize the iceberg is sinking rapidly.
+
+
+5.After 10 Minutes: Perception Check (DC 3)
+This check is made after 10 minutes after entering the chamber. Success means they realize the iceberg is sinking and will be underwater within a minute or two.
+
+
+
+
+* The Frozen Puzzle Chamber: Puzzle of the Elemental Spheres
+
+
+As the players step into the ancient chamber concealed within the massive iceberg, they are met with an ethereal glow, emanating from a series of icy pedestals scattered throughout the room. At the center of the chamber stands a pedestal with an intricate ice crystal encased in a magical barrier, unmistakably the coveted Frostheart Crystal.
+Objective: To unlock the chamber and access the Frostheart Crystal, the players must activate the elemental spheres, matching their corresponding symbols on the pedestals, and align them correctly.
+
+
+Challenges:
+
+
+* Elemental Spheres: The chamber contains four elemental spheres - Fire, Water, Earth, and Air. Each sphere possesses a unique icy symbol carved onto its surface, representing its elemental nature. However, they are currently inactive, lying dormant on the pedestals.
+* * Mystery Inscriptions: Around the chamber's walls, the players find inscriptions written in an ancient script, hinting at the puzzle's solution. The inscriptions mention that only by correctly channeling the power of the four elements can the Frostheart Crystal be accessed.
+* The Puzzle Solution:
+
+
+To activate the elemental spheres and unlock the rewards, the players must interact with each sphere in the correct sequence, following the clues from the inscriptions:
+
+
+* Water Sphere: The inscription hints that the Water Sphere is to be activated first. To do this, a character must use a vessel to collect melting water droplets from the icy chamber walls and pour them into a carved basin on the Water Sphere's pedestal. As the basin fills, the Water Sphere glows with an icy blue light.
+* * Earth Sphere: Once the Water Sphere is activated, the inscription suggests that the Earth Sphere should follow. To activate it, a character must press their palm onto the Earth Sphere's surface and focus on grounding themselves with the icy element of the chamber. As they do, the Earth Sphere resonates with a gentle rumble and glows with a greenish hue.
+* * Fire Sphere: After activating the Earth Sphere, the inscription hints at the need to invoke the Fire Sphere. To do so, a character must ignite a small torch from the chamber's flickering fire and bring it close to the Fire Sphere. The torch's flame transfers to the sphere, causing it to burn with a brilliant red glow.
+* * Air Sphere: The final inscription points to the Air Sphere, indicating it is the last one to be activated. To unlock the Air Sphere, a character must create a breeze by using their breath or a fan to blow gently over the sphere's surface. As they do, the Air Sphere shimmers with a soft white glow.
+* Placement Riddles: (Written in Dwarvish)
+
+
+* Water Sphere: “A mirror in crystal, reflecting the flow, find its essence where cold currents go. Begin your journey where the waters gleam.”
+* Earth Sphere: “A heart of ice, unmoving and true, frozen strength where ancient roots grew. Next, find the strength within the frozen earth.”
+* Fire Sphere: “Kindled in frost, a spark's allure, seek its warmth where chill winds endure. Continue with the warmth that resists the freeze.”
+* Air Sphere: “Whispers in frost, its secrets unwind, a breeze of ice where stillness confined. Complete the cycle with the chilling whispers of the air.”
+
+
+* Unlocking the Rewards:
+
+
+Once the players have successfully activated all four elemental spheres in the correct sequence (Water, Earth, Fire, Air), the magical barrier around the Longbow of Warning.
+
+
+Reward
+* Longbow of Warning: This finely crafted longbow hums with an otherworldly energy, alerting its wielder to danger and helping them act swiftly in the face of threats.
+
+
+* Respect and Gratitude: The townspeople of Frostgate are thankful for the players' efforts to understand where the mysterious iceburgh came from.
+
+
+
+
+
+
+4. Travel to Nordheim
+As the players set sail from Hafnheim and land on the shores of the Kingdom of Nordheim, they embark on a perilous journey through unfamiliar and potentially treacherous terrain. Here are some level-appropriate creatures they might encounter on their way to the great hall of King Ragnar:
+
+
+Creatures (chance encounter):
+
+
+Winter Wolf
+The players trek through snow-covered forests and encounter a pack of Snow Wolves. These fierce and cunning predators are adapted to the cold climate, making them formidable foes. The party will have to defend themselves against the wolves' pack tactics and icy bite.
+
+
+Stats
+
+
+Medium beast, neutral
+
+
+Armor Class 13 (natural armor)
+
+
+Hit Points 42 (5d10 + 15)
+
+
+Speed 50 ft.
+
+
+STR 16 (+3)
+DEX 14 (+2)
+CON 16 (+3)
+INT 3 (-4)
+WIS 12 (+1)
+CHA 7 (-2)
+
+
+Skills Perception +3, Stealth +4
+
+
+Senses Darkvision 60 ft., passive Perception 13
+
+
+Languages understands Common but can't speak
+
+
+Challenge 2 (450 XP)
+
+
+Keen Hearing and Smell. The snow wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+
+Pack Tactics. The snow wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+
+Actions
+
+
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 10 (2d4 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+
+Pack Attack. The snow wolf calls for nearby allies to join its attack. Each friendly snow wolf within 30 feet can use its reaction to make a Bite attack against a creature the initial snow wolf attacked, provided they haven't used their reaction this round.
+
+
+Snow Pounce (Recharge 5-6). The snow wolf can pounce on its prey from a distance. The snow wolf moves up to 20 feet in a straight line toward a creature and then makes a Bite attack. On a successful hit, the snow wolf deals an additional 7 (2d6) piercing damage and the target must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+
+Tactics: Snow wolves are cunning predators that hunt in packs. They prefer to ambush their prey, using their keen senses and stealth to stalk their victims silently through the snowy terrain. Snow wolves will often coordinate their attacks, using Pack Tactics to gain an advantage over their foes. When facing formidable enemies, they might use their Snow Pounce ability to close the distance quickly and deal devastating blows.
+
+
+Habitat: Snow wolves are native to icy and snowy regions, making them formidable hunters in the freezing wilderness. They are skilled at navigating through deep snow, allowing them to catch their prey by surprise and chase down fleeing targets with ease.
+
+
+
+
+Ice Goblins (CR 2) 
+Hidden within ice caves and rocky outcrops, Ice Goblins ambush the party. Armed with spears and bows, these cunning creatures use the environment to their advantage, laying traps and using hit-and-run tactics. Their icy arrows inflict cold damage, and they may have hostages from previous raids, making the encounter more challenging.
+
+
+Stats
+Ice Goblin
+
+
+Small humanoid (goblin), neutral evil
+
+
+Armor Class 13 (leather armor)
+
+
+Hit Points 21 (6d6)
+
+
+Speed 30 ft.
+
+
+STR 8 (-1)
+DEX 16 (+3)
+CON 10 (+0)
+INT 10 (+0)
+WIS 12 (+1)
+CHA 6 (-2)
+
+
+Skills Stealth +5
+
+
+Senses Darkvision 60 ft., passive Perception 11
+
+
+Languages Common, Goblin
+
+
+Challenge 1/2 (100 XP)
+
+
+Nimble Escape. The ice goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+
+
+Actions
+
+
+Scimitar. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+Hit: 5 (1d6 + 3) slashing damage.
+
+
+Shortbow. Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target.
+Hit: 6 (1d6 + 3) piercing damage.
+
+
+Icy Bolt (Recharge 5-6). The ice goblin magically fires an icy bolt at a creature it can see within 60 feet. The target must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage. On a successful save, the target takes half damage.
+
+
+Tactics: Ice goblins are cunning and opportunistic creatures that thrive in frigid climates. They excel at hit-and-run tactics, using their Nimble Escape ability to stay out of reach and evade danger. When cornered or in a desperate situation, they unleash their Icy Bolt attack to deal significant damage to their foes.
+
+
+Habitat: Ice goblins are known to inhabit frozen caves, ice-covered forests, and other icy terrains. They are skilled at using the environment to their advantage, setting up traps and ambushes to catch unsuspecting travelers and adventurers. Ice goblins often work in small raiding parties, raiding nearby settlements for resources and capturing prisoners to be sacrificed to their frosty gods.
+
+
+
+
+Frost Giants' Scouts (CR 5) 
+The players come across a scouting party of Frost Giants, sent by the giant tribes in the mountains to survey the lands. These massive humanoids are skilled in both combat and wilderness survival. The encounter could involve diplomacy, as the players may negotiate with the giants or try to avoid conflict altogether.
+
+
+Stats
+
+
+Large giant, neutral evil
+
+
+Armor Class 15 (hide armor)
+
+
+Hit Points 138 (12d10 + 72)
+
+
+Speed 40 ft.
+
+
+STR 23 (+6)
+DEX 14 (+2)
+CON 22 (+6)
+INT 10 (+0)
+WIS 12 (+1)
+CHA 9 (-1)
+
+
+Skills Perception +3, Stealth +4, Survival +3
+
+
+Senses Darkvision 60 ft., passive Perception 13
+
+
+Languages Giant
+
+
+Challenge 5 (1,800 XP)
+
+
+Actions
+
+
+Keen Smell. The frost giant scout has advantage on Wisdom (Perception) checks that rely on smell.
+
+
+Cold Resistance. The frost giant scout has resistance to cold damage.
+
+
+Multiattack. The frost giant scout makes two melee attacks.
+
+
+Greatsword. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
+Hit: 26 (3d10 + 6) slashing damage.
+
+
+Rock. Ranged Weapon Attack: +10 to hit, range 60/240 ft., one target.
+Hit: 28 (4d10 + 6) bludgeoning damage.
+
+
+Ambush Tactics. The frost giant scout has advantage on attack rolls against any creature it has surprised.
+
+
+Tactics: Frost giant scouts are skilled hunters and trackers, often sent ahead of larger frost giant warbands to scout out potential targets and gather information. They excel at stealth and ambush tactics, using their Keen Smell to detect potential threats from afar. When facing weaker foes, they might use Ambush Tactics to surprise their enemies and gain the upper hand in combat.
+
+
+Habitat: Frost giant scouts are commonly found in freezing and snow-covered regions, where they blend in with the wintry landscape and use their keen senses to track prey. They are loyal servants of frost giant tribes and act as the first line of defense against intruders, signaling their larger kin of potential threats or leading the attack when the tribe decides to strike.
+
+
+Winter Wights (CR 3) 
+The cold and desolate region attracts the malevolent Winter Wights, vengeful spirits of creatures that perished in the harsh winter. The players must face these undead foes, capable of draining warmth and life from their victims.
+
+
+Stats
+
+
+Medium undead, neutral evil
+
+
+Armor Class 13 (natural armor)
+
+
+Hit Points 45 (6d8 + 18)
+
+
+Speed 30 ft.
+
+
+STR 16 (+3)
+DEX 12 (+1)
+CON 16 (+3)
+INT 8 (-1)
+WIS 12 (+1)
+CHA 10 (+0)
+
+
+Saving Throws Wis +3
+
+
+Damage Immunities cold, poison
+
+
+Condition Immunities exhaustion, poisoned
+
+
+Senses darkvision 60 ft., passive Perception 11
+
+
+Languages understands the languages it knew in life but can't speak
+
+
+Challenge 3 (700 XP)
+
+
+Cursed Chill. A creature hit by the wight's melee attack must succeed on a DC 13 Constitution saving throw or its speed is reduced by 10 feet until the start of the wight's next turn.
+
+
+Sunlight Sensitivity. While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+
+Actions
+
+
+Multiattack. The wight makes two longsword attacks.
+
+
+Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 8 (1d8 + 3) slashing damage, or 9 (1d10 + 3) slashing damage if used with two hands.
+
+
+Life Drain. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
+Hit: 9 (1d10 + 3) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
+
+Create Spawn. A humanoid slain by the wight's Life Drain becomes a winter wight in 1d4 hours. The new wight is under the control of the wight that created it and remains enslaved until its death.
+
+
+Tactics: Winter wights are undead creatures animated by dark and malevolent forces. They are adept at draining the life force from their victims and creating more of their kind through the transformation of slain humanoids. Winter wights are most active during the darkest and coldest nights, seeking out isolated targets to drain their life essence and expand their cursed ranks. They prefer to ambush their prey, exploiting their Sunlight Sensitivity to strike when their foes are vulnerable.
+
+
+Habitat: Winter wights are often found in icy and desolate locations, haunted by their tragic pasts and driven by an insatiable hunger for life force. They might roam the frozen wilderness, haunting ancient battlefields, or lurk in forgotten crypts and tombs, seeking to add more souls to their cursed legion.
+
+
+Ice Mephit (CR 4) 
+Certainly! Here's a stat block for an Ice Mephit:
+
+
+Stats
+
+
+Small elemental, neutral evil
+
+
+Armor Class 11
+Hit Points 21 (6d6)
+Speed 30 ft., fly 30 ft.
+
+
+STR 7 (-2)
+DEX 13 (+1)
+CON 10 (+0)
+INT 9 (-1)
+WIS 11 (+0)
+CHA 12 (+1)
+
+
+Skills Perception +2, Stealth +3
+Damage Immunities cold, poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 12
+Languages Aquan, Auran
+Challenge 1/2 (100 XP)
+
+
+Death Burst. When the mephit dies, it explodes in a burst of ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) cold damage on a failed save, or half as much damage on a successful one.
+
+
+Innate Spellcasting (1/Day). The mephit can innately cast fog cloud, requiring no material components. Its innate spellcasting ability is Charisma.
+
+
+Variant: Frost Breath (Recharge 6). The mephit exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must succeed on a DC 10 Constitution saving throw, taking 9 (2d8) cold damage on a failed save, or half as much damage on a successful one.
+
+
+Actions
+
+
+Claws. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
+
+
+Frosty Presence. The area around the mephit becomes cold and slippery. Each creature that starts its turn within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or fall prone.
+
+
+Summon Mephits (1/Day). The mephit has a 25 percent chance of summoning 1d4 ice mephits or 1 ice mephit. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+
+
+The Ice Mephit brings a cold and icy presence to encounters, with its freezing attacks and frosty abilities. It can also summon additional mephits to add a dynamic element to the battle. Adjust the number of mephits summoned based on your campaign's desired level of challenge.
+
+
+
+
+
+
+Remorhaz  (CR 11) 
+Deep within an icy cavern, the players encounter Ice Elementals, sentient beings made of ice and cold energy. These elemental creatures can create blizzards and freeze their opponents in place, posing a significant challenge to the party's survival.
+
+
+Stats
+
+
+Huge monstrosity, unaligned
+
+
+Armor Class 17 (natural armor)
+Hit Points 195 (17d12 + 85)
+Speed 30 ft., burrow 20 ft.
+
+
+STR 24 (+7)
+DEX 13 (+1)
+CON 20 (+5)
+INT 1 (-5)
+WIS 9 (-1)
+CHA 3 (-4)
+
+
+Skills Perception +2
+Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 12
+Languages understands Ignan but can't speak
+
+
+Challenge 11 (7,200 XP)
+
+
+Heated Body. A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
+
+
+Illumination. The remorhaz sheds bright light in a 60-foot radius and dim light for an additional 60 feet.
+
+
+Actions
+
+
+Multiattack. The remorhaz makes three attacks: one with its bite and two with its tentacles.
+
+
+Bite. Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.
+
+
+Tentacle. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 22 (3d8 + 7) bludgeoning damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't use its tentacle on another target.
+
+
+Swallow. The remorhaz makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns. If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate the swallowed creature, which falls prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
+
+
+This Remorhaz stat block should provide a challenging and memorable encounter for your players. Remember to adjust the environment and tactics to suit the encounter and your campaign's narrative.
+
+
+
+
+
+
+Dire Polar Bear (CR 4)
+In the freezing tundra, the players encounter a formidable Dire Polar Bear, a massive and aggressive predator. The bear's attacks are both swift and deadly, and its thick fur provides excellent protection against the cold.
+
+
+Stats
+Dire Polar Bear
+
+
+Large beast, unaligned
+
+
+Armor Class 14 (natural armor)
+
+
+Hit Points 102 (12d10 + 36)
+
+
+Speed 40 ft., swim 30 ft.
+
+
+STR 24 (+7)
+DEX 10 (+0)
+CON 17 (+3)
+INT 2 (-4)
+WIS 13 (+1)
+CHA 7 (-2)
+
+
+Skills Perception +5
+
+
+Senses darkvision 60 ft., passive Perception 15
+
+
+Languages -
+
+
+Challenge 4 (1,100 XP)
+
+
+Keen Smell. The dire polar bear has advantage on Wisdom (Perception) checks that rely on smell.
+
+
+Arctic Camouflage. The dire polar bear has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
+
+
+Actions
+
+
+Multiattack. The dire polar bear makes two attacks: one with its bite and one with its claws.
+
+
+Bite. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
+Hit: 18 (2d8 + 7) piercing damage.
+
+
+Claws. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
+Hit: 15 (2d6 + 7) slashing damage.
+
+
+Hug (Recharge 5-6). The dire polar bear attempts to grapple a Large or smaller creature it is grappling. The target must make a DC 16 Strength saving throw. On a failed save, the target is restrained, and the dire polar bear automatically deals bite and claw damage to the restrained creature on each subsequent turn.
+
+
+Tactics: The dire polar bear is a formidable predator that rules the frozen tundra. It uses its Keen Smell to track down prey from miles away and Arctic Camouflage to hide and surprise its victims. In combat, it employs its immense strength to make powerful bite and claw attacks, attempting to incapacitate and immobilize its foes with its Hug ability.
+
+
+Habitat: Dire polar bears inhabit the harshest and coldest regions, where they are at home in the icy wilderness. They are solitary creatures that roam the snowy landscapes in search of food, hunting seals, fish, and other prey that venture onto the frozen ice. Travelers who dare to venture into their territory risk encountering these powerful beasts, who are not afraid to defend their hunting grounds against any perceived threat.
+
+
+Of course! Here's a custom stat block for a Frost Salamander:
+
+
+Frost Salamander (CR 9)
+Frost salamanders are natives of the Plane of Ice, also called the Frostfell, which rests between the Plane of Air and the Plane of Water. Frost salamanders especially like to hunt warm-blooded creatures. They sometimes travel to frigid climes on the Material Plane by wandering through planar gates.
+Frost salamanders’ aggressive appetite for any heat source leads them to attack expeditions and settlements that other predators would avoid, as they often mistake the fire of a forge or a campfire for a large, tasty meal. Azers (see the Monster Manual) use this predilection to hunt frost salamanders. Venturing into the Frostfell, they use large fires to lure these creatures into traps, then kill them and collect their hides and fangs for use in crafting weapons and armor.
+Although frost salamanders can burrow their way through loose soil, they prefer to dig into ice. They roll around in piles of broken chunks of ice, allowing it to scratch their backs as they grind it down. This habit leads them to create extensive networks of ice caves, which become ever larger as they claw fresh chunks of ice from the walls of their lairs.
+A frost salamander that dwells in a lair for a while carves out enough space to allow a small army to camp within. Inexperienced travelers who come across these caves see them as a welcome shelter, though they are anything but. Frost salamanders greedily devour any prey foolhardy enough to try sleeping in their lairs. On rare occasions, frost giants (see the Monster Manual) capture and tame these creatures, using them to burrow into the ice to help create outposts and fortresses.
+
+
+Stats
+
+
+Large elemental, neutral
+
+
+Armor Class 15 (natural armor)
+Hit Points 84 (8d10 + 40)
+Speed 40 ft., burrow 20 ft., swim 40 ft.
+
+
+STR 18 (+4)
+DEX 14 (+2)
+CON 20 (+5)
+INT 6 (-2)
+WIS 12 (+1)
+CHA 8 (-1)
+
+
+Skills Perception +3
+Damage Immunities cold
+Senses darkvision 60 ft., passive Perception 13
+Languages understands Aquan but can't speak
+
+
+Challenge 4 (1,100 XP)
+
+
+Ice Walk. The salamander can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.
+
+
+Keen Smell. The salamander has advantage on Wisdom (Perception) checks that rely on smell.
+
+
+Actions
+
+
+Multiattack. The salamander makes two attacks: one with its bite and one with its tail.
+
+
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 4) piercing damage plus 7 (2d6) cold damage.
+
+
+Tail Slap. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) cold damage.
+
+
+Breath Weapon (Recharge 5-6). The salamander exhales a blast of icy air in a 15-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 21 (6d6) cold damage on a failed save, or half as much damage on a successful one.
+
+
+Icy Aura. The area within 10 feet of the salamander is difficult terrain as it radiates intense cold. Creatures that start their turn within this area must succeed on a DC 15 Constitution saving throw or take 7 (2d6) cold damage.
+
+
+Feel free to adjust the stats and abilities as needed to fit the challenge level and theme of your campaign. This Frost Salamander should provide a wintry and challenging encounter for your players!
+
+
+* Side Quests
+Route 1: Mysterious Statue in the Woods (Southern route through the forest)
+"As your party ventures deeper into the heart of the dense forest, the towering trees cast long shadows across your path. The air is thick with an enigmatic aura, and a subtle sense of anticipation fills the glade ahead. Amidst the underbrush and dappled sunlight, you spot an ancient stone statue, partially veiled by clinging vines and moss. The statue is an intricately carved figure, its details worn by centuries of exposure to the elements.
+
+
+As you draw nearer, you notice something peculiar about the statue's base. On its left side, you see an inscription etched in a familiar language – Common. However, on its right side, there's a corresponding inscription, but the script is unfamiliar, a mysterious tongue you can't quite place. At the front of the statue, between the outstretched arms of the figure, lies a deep and hollow recess. Here, you find another inscription, in the same mysterious language."
+
+
+Puzzle:
+Left Inscription:
+‘The sun and the moon are treasure. The day and the night share the light, the statue sits in the middle of their sight.‘
+
+
+Right Inscription:
+‘Die son en die maan is 'n skat. Die dag en die nag deel die lig, die standbeeld sit in die middel van hulle sig.’
+
+
+Front Inscription:
+‘In die middel van die nag, onder die maan se lig, sal 'n skat in die standbeeld sig.‘
+
+
+Translation of Front Inscription:
+‘In the middle of the night, beneath the moon's light, treasure shall shine in the statue's sight.’
+
+
+Reward:
+If the players solve the inscription and wait until midnight, a light will shine on an area for them to dig. If they dig in this location they will find the Ring of Protection.
+Route 2: The Ice Church (Northern route near the mountains)
+"As your party treks through the icy wilderness, the biting winds nip at your exposed skin and the pristine white landscape stretches in all directions. Amidst the frozen tundra, you spot a peculiar sight—an ancient church made of ice. Its towering spires glisten in the pale sunlight, their crystalline forms refracting the beams in a dazzling display of prismatic colors.
+
+
+The ice church stands like an ethereal fortress, its walls seemingly crafted from frozen tears of winter. Delicate, intricate carvings adorn the structure, depicting scenes of frosty landscapes, regal ice elementals, and ethereal beings. The entrance to the church is framed by imposing ice pillars, like guardians of this sacred place.
+
+
+As you draw nearer, you feel the temperature plummet, and the very air seems to freeze around you. The entrance beckons you into the heart of this icy sanctuary, where untold mysteries and dangers await within."
+
+
+Objective:
+The players encounter a mysterious Church made of Ice and figures frozen in place scattered around the outside of the church. They can venture in and discover the Ice Mage who is summoning Ice Trolls through a rift. The players must kill the ice trolls and the archmage to close the rift. The longer the rift is open (the Archmage is alive), the more Ice Trolls that will appear.
+
+
+Enemies:
+Ice Mage
+Ice Trolls
+
+
+Reward:
+Cape of Mountebank
+The Maze of Whispers (Appears after a few days travel)
+
+
+“As your party ventures near the edge of the dense woods, you come across an unsettling sight. Standing at the entrance to a thicket that seems impenetrable, a mysterious figure emerges from the shadows. Cloaked in a tattered robe that billows slightly in the soft breeze, their face is obscured by a hood, casting their features in darkness.
+
+
+The figure emanates an eerie aura that leaves a shiver running down your spine. In their gloved hand, they hold an ornate scroll adorned with strange, arcane symbols. With a voice that seems to whisper from beyond, the figure addresses your party with an enigmatic tone.
+
+
+"Welcome, travelers, I am Morvus, keeper of the Maze" they murmur, their voice carrying an otherworldly quality. "Do you seek the treasures hidden within these woods? To claim them, you must embark upon a journey through the Maze of Whispers. Solve its secrets, and you shall be rewarded."
+
+
+The hooded figure's gaze lingers on each of you, and their eyes seem to glint with secrets untold. "Should you dare to enter, remember this: time is fleeting, and the maze guards its treasures well."
+
+
+With that, Morvus steps aside, allowing you to proceed one at a time into the shadowy maze, where the secrets of the labyrinth await.”
+
+
+Quest Giver: 
+A mysterious and enigmatic NPC named Morvus who appears at the edge of the forest near Frostgate. Morvus is known for guiding those who seek the secrets of the maze.
+
+
+Introduction: 
+While traveling in the forest near Frostgate, the players stumble upon Morvus, a robed figure with a hood that obscures their face. Morvus tells them about the ancient and mystical "Maze of Whispers," a magical labyrinth said to hold hidden knowledge and a valuable prize at its center. Morvus invites the players to take on the challenge.
+
+
+Objective: 
+The players must enter the Maze of Whispers and reach its center within a limited number of turns or distance traveled. They can only enter one at a time, so they should try and work together to understand the full path of the maze. The objective is to unlock the secrets of the maze and claim the treasure that awaits at its heart.
+
+
+Reward:
+Boots of Elvenkind
+Wondrous item, uncommon (requires attunement)
+
+
+While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.
+
+
+Feel free to add this to your campaign notes and share it with your players as they complete the Maze of Whispers side quest. Enjoy your campaign! If you have any more questions or need further assistance, feel free to ask.
+
+
+
+
+5. Nordheim Kingdom
+Description: Nordheim is a mighty Viking-style Kingdom located in the far North, known for its fierce warriors and thriving culture. The Kingdom is ruled by King Ragnar Frostbeard, a legendary warrior and wise leader. The lands of Nordheim are vast and varied, ranging from snow-capped mountains to icy fjords and dense forests. The people of Nordheim are hardy and deeply connected to their traditions, worshipping powerful deities such as Odin and Thor.
+
+
+Nordheim stands as a testament to both the indomitable spirit of its inhabitants and the relentless challenges they face. Set against a backdrop of snow-capped mountains and piercing cold winds, the city exudes an air of melancholy beauty. Its stone walls and imposing towers, once symbols of strength, now bear the scars of a years-long siege.
+
+
+The city's grand hall, once a gathering place of joy and revelry, now echoes with a sense of desperation as the fires of the hearth burn low. The streets, once bustling with merchants and laughter, are quieter now, punctuated by hushed whispers and wary glances. Yet, even amidst the shadows of adversity, Nordheim's people endure, showing remarkable resilience in the face of the relentless monster attacks.
+
+
+The towering statue of King Ragnar, a stoic figure with a sword raised high, serves as a beacon of hope, inspiring the people to persevere. As the sun sets over the city, casting a cold, violet hue across the snow, the distant howls of monsters remind all that the struggle is far from over.
+
+
+Nordheim's great northern beauty stands juxtaposed with its somber atmosphere, creating an ambiance of both sorrow and determination. The flickering torchlight in the eyes of its defenders speaks to their unyielding will, even in the darkest hours.
+
+
+Approaching the Gates of Nordheim
+
+
+As you traverse the snowy terrain, your gaze is drawn to the towering walls of Nordheim, rising like ancient sentinels against the frigid backdrop. The city's fortifications, crafted from rugged stone and fortified with thick timber, form a protective embrace around the heart of Nordheim. The towering gates, heavily reinforced and adorned with symbols of the city's storied history, stand open but guarded by stalwart soldiers, their armor glistening in the pale light.
+
+
+The landscape is a canvas of white, blanketed by a thick layer of snow that muffles sound and lends an ethereal quietness to the air. As you draw nearer, your footsteps crunch softly, the rhythmic cadence a reminder of your approach to the city's entryway. The watchtowers, crowned with weather-worn battlements, stand vigil, their banners rippling gently in the chill breeze.
+
+
+The city itself, a mosaic of stone and timber structures, sprawls beyond the gates. Roofs laden with snow reflect the muted sunlight, casting a soft glow upon the streets. Yet, even in this serene scene, you sense the tension that hangs in the air, a consequence of the prolonged siege and the city's relentless struggle against the lurking darkness.
+
+
+Nordheim's gates beckon you forward, an invitation to join the ranks of those who stand firm against the tide of darkness. As you cross the threshold, the weight of the city's past and the hopes for its future seem to settle upon your shoulders, making you a part of its ongoing story of endurance and determination.
+
+
+You make your way through the city only encountering a few souls scattered throughout the streets, and a few stacks of smoke give away that anyone even inhabits this place anymore. You eventually make your way to the great hall, where at last, a set of guards greets you and throws open the large doors. As you enter, you are greeted by a booming voice.
+
+
+
+
+Kings Welcome
+King Ragnar "Welcome, brave heroes, to the Kingdom of Nordheim! I am King Ragnar Frostbeard, ruler of these lands. Your arrival is a beacon of hope amidst our darkest hours. Once, Hrimfang the Icebane, a fearsome creature of legend, haunted the wild outskirts of our Kingdom. We thought we knew its ways, how it prowled the icy wilderness, striking down lone travelers and daring adventurers who crossed its path."
+
+
+The King's voice grows solemn as he continues.
+
+
+King Ragnar "But, as of late, things have taken a dire turn. These smaller ones, looking like minions of Hrimfang, have emerged, launching daring raids even within the very heart of our towns. My people tremble in fear as they scurry from their homes to find refuge within these walls."
+
+
+King Ragnar's eyes reflect the weight of his concerns.
+
+
+King Ragnar: "We thought Hrimfang had multiplied, that its dark presence now multiplied among us. They strike when the great hall is alight, seeking to drag my subjects into the darkness, feeding their twisted desires."
+
+
+The King's expression shifts, filled with determination.
+
+
+King Ragnar "But no more! With your presence, I feel a glimmer of hope once more. Tonight, as we feast and drink in celebration of your arrival, we shall be prepared. Our swords shall clash with their claws, and together, we will reclaim our lands from these fiends."
+
+
+The King's eyes light up with anticipation.
+
+
+King Ragnar "If you succeed in vanquishing these evils and put an end to their reign of terror, I shall bestow upon you the legendary Frostfang, a magical sword forged by our finest blacksmiths and enchanted by our most skilled sorcerers. With Frostfang in your hands, you shall become the stuff of legends, defenders of Nordheim and conquerors of darkness!"
+
+
+King Ragnar raises his tankard high as the viking guards around the halls rush to hand you a pint.
+
+
+King Ragnar "To victory! To honor! To the day when Hrimfang and his minions are defeated and the Kingdom is returned to its former glory!"
+
+
+The hall erupts in cheers as the adventurers join in the toast, understanding the dire situation and the need to expose the truth behind these mysterious attacks and protect the people of Nordheim.
+
+
+
+
+After the First Battle in the Great Hall:
+
+
+As the echoes of battle subside, the great hall of Nordheim lies in disarray, the fallen disguised men now revealed as the adversaries. King Ragnar stands amidst his warriors, a mix of relief and concern etched across his face. He approaches the party, his gaze firm and determined.
+
+
+King Ragnar: "By the gods, you've done it! You've revealed their deception and fought back against these imposters. Your valor and prowess in battle have saved us this night, but I fear our struggles are far from over. Now that we've shown them we won't be cowed, the real Hrimfang may come forth, and he'll be furious I fear."
+
+
+The King's voice carries a sense of urgency.
+
+
+King Ragnar: "My men and I will stand by your side, and together, we'll face whatever true horrors Hrimfang brings. You've proven yourselves as true warriors, and the people of Nordheim shall not forget this night. We'll fortify the defenses, be vigilant, and brace ourselves for what comes next."
+
+
+King Ragnar looks upon the fallen enemies and then back at the party.
+
+
+King Ragnar: "You've earned your reward, and by Odin's name, I shall keep my word. Tomorrow, when the sun rises, I'll present you with the legendary Frostfang. It shall be your ally in the battles to come."
+
+
+Despite the gravity of the situation, King Ragnar manages a determined smile.
+
+
+King Ragnar: "Tonight, let's rest and celebrate our victory. Raise your cups high, for you've proven to be true saviors of Nordheim, and your names shall echo through our Kingdom's sagas for generations to come!"
+
+
+The warriors cheer once more, and the hall is filled with the sounds of revelry and camaraderie, the echoes of the first battle slowly drowned in the spirit of hope and unity.
+
+
+With this adjustment to the story, the first battle against the disguised men serves as a turning point, galvanizing the King and his warriors. They now stand united, knowing that their foe is no longer mere men but the true and formidable Hrimfang. The forthcoming battle promises even greater challenges, but the alliance formed between the players and the Kingdom of Nordheim grows stronger in the face of adversity.
+
+
+The players can have one long rest before preparing for the battle to come.
+
+
+The City (post siege)
+As the final echoes of battle fade into the distance and the once somber streets of Nordheim become a canvas for the fallen warriors' solemn send-off, the city takes on a new life. The fallen Vikings, their honor and sacrifice recognized, are gently carried away to be prepared for their journey to the halls of their ancestors. The sound of a solemn horn echoes through the city, marking the end of an era and a new beginning.
+In response to the horn's call, townsfolk from distant lands, guided by tales of bravery and resilience, arrive to lend their support to the city's renewal. Their presence, like a breath of fresh northern air, fills the streets with hope and determination. The heart of Nordheim beats with newfound vigor as the combined spirit of its people, both old and new, carries the city forward into a future that promises rebirth, unity, and the chance to rebuild what was lost.
+
+
+Blacksmith - Aurora Anvil
+Owner - Ragnhild Ironhand
+
+
+As you step into the bustling blacksmith shop known as "Aurora Anvil," a somber hush settles over the space. The enchanting display of colors dancing on the walls and floors, reminiscent of the Northern Lights, brings a melancholic beauty to the otherwise austere forge. Ragnhild Ironhand, a stout and seasoned blacksmith with intricate runic tattoos on her arms, stands at the forge's heart, diligently crafting weapons and armor. Each strike of her hammer and each brush of her enchantments seems to carry the weight of the world's troubles.
+The sound of hammers striking metal is a solemn echo, and the soft humming of enchantments in progress carries a sense of quiet determination. As you explore the shop, you'll find a variety of weapons and armor, each a unique work of art, their iridescent designs somehow reflecting the sorrow and resilience of Nordheim's people. The walls are adorned with stories of warriors who have sought solace and strength in Ragnhild's creations on their quests through the harsh northern lands. Aurora Anvil serves as both a sanctuary of craft and a reminder of the unwavering spirit of the kingdom, where even in the face of relentless adversity, hope endures.
+
+
+
+
+Items
+	Cost
+	Description
+	Chain Mail
+
+
+	75 gp
+	
+
+	Frost-Resistant Chain Mail
+	275
+	
+
+	Studded Leather Frost-Resistant
+	245
+	
+
+	Studded Leather
+	45
+	
+
+	
+
+
+
+
+
+Weapons shop - Shieldmaiden's Armory
+Owner - Astrid Ironheart
+
+
+As you enter "Shieldmaiden's Armory," an armor shop in the heart of Nordheim, the solemn atmosphere is palpable. The shop's walls, once adorned with the proud symbols of warriors and champions, now bear the scars of countless battles. Astrid Ironheart, the stoic proprietor, stands behind the counter, meticulously inspecting and mending armor pieces with a sense of quiet determination.
+The racks and display cases are stocked with a variety of shields, armor, and helmets, each a testament to the resilience of Nordheim's people. The clinking of metal and the scent of leather and steel pervade the space, providing a reminder of the city's indomitable spirit in the face of relentless challenges. As you explore the shop, you can't help but feel the weight of the city's history in every meticulously crafted piece. "Shieldmaiden's Armory" is a place where warriors come to find both protection and a connection to the enduring spirit of Nordheim.
+
+
+
+
+Item
+	Cost
+	Description
+	Greatsword
+	50 gp
+	
+
+	Battleaxe
+	10 gp
+	
+
+	Viking Battleaxe
+	110 gp
+	
+
+	
+
+Tavern - The Mead Hall
+
+
+Owner - Sigrid Aleheart
+
+
+As you step into "The Mead Hall," a palpable sense of renewed hope and possibilities fills the air. The hall, while still bearing the scars of past sieges, now radiates a warm and inviting glow. The fires of the hearth burn with newfound vigor, casting a comforting light that dances in the eyes of patrons who have come to revel in the spirit of perseverance.
+Behind the bar, a welcoming figure stands, pouring hearty mugs of ale and mead with a genuine smile. The wooden tables and benches, etched with tales of valor and camaraderie, now host travelers and warriors who share stories of triumph over adversity. The scent of roasted meat and savory dishes wafts through the hall, offering a reminder of the simple pleasures that endure even in the face of challenges.
+In this reinvigorated ambiance, "The Mead Hall" stands as a symbol of renewal and resilience, where the people of Nordheim gather to celebrate their shared strength and the boundless possibilities that lie ahead.
+
+
+
+
+Item Name
+	Description
+	Cost
+	Frostbitten Mushrooms
+	A hearty dish of wild mushrooms sautéed in northern herbs and spices, served with a side of crusty bread.
+	2 silver
+	Reindeer Bloodwine
+	A robust red wine, locally made and named for the region. It has a rich, earthy flavor with hints of dark berries and spices.
+	4 silver
+	Winter's Hearth Stew
+	A thick and warming stew made with chunks of slow-cooked reindeer, root vegetables, and savory herbs, served with a hunk of fresh-baked bread.
+	5 silver
+	Northwind Whiskey
+	A potent northern whiskey with a smoky, peaty flavor and a warming kick. It's served in a small glass and meant to be sipped slowly.
+	3 silver
+	
+
+
+
+
+
+Apothecary - Valkyrie's Apothecary
+
+
+Owner - Ingrid Windrider
+
+
+As you enter "Valkyrie's Apothecary," a shroud of mysterious darkness envelops the atmosphere. The apothecary's interior is dimly lit, with shelves of ancient-looking potions and remedies casting eerie shadows. Ingrid Windrider, the enigmatic proprietor, moves silently amongst her shelves, her hooded cloak concealing most of her features.
+The apothecary offers a collection of potions, herbs, and remedies, their labels written in cryptic runes and symbols. The air is heavy with the scent of exotic and arcane ingredients, carrying with it a sense of both dread and fascination. Whispers among the patrons suggest that Ingrid's remedies hold the key to unlocking secrets and delving into the darkest mysteries of the world.
+In this enigmatic ambiance, "Valkyrie's Apothecary" beckons those who seek the unknown and are willing to traverse the shadows to discover hidden truths, no matter the risks involved.
+
+
+
+
+Item Name
+	Description
+	Cost
+	Frostfire Elixir
+	A vial of elixir that enhances resistance to cold damage for a short duration, useful for travelers braving icy environments.
+	25 gold
+	Valkyrie's Tincture
+	A potent tincture with revitalizing properties, known for its ability to cure exhaustion and fatigue.
+	15 gold
+	Raven's bane Salve
+	A soothing salve used to treat minor injuries, particularly effective against the wounds inflicted by monstrous beasts.
+	10 gold
+	Whisperwind Poultice
+	A poultice made from rare northern herbs that, when applied, temporarily enhances the user's senses and perception.
+	20 gold
+	Healing potion
+	
+
+	50 gp
+	
+
+Inn - Raven’s Rest Inn
+
+
+Owner - Eirik Ravenshadow
+
+
+As you step into "Raven's Rest Inn," a sense of eerie tranquility pervades the atmosphere, casting shadows over the once-vibrant establishment. The inn, which had weathered the darkest days of the siege, now stands as a place of refuge and respite. Eirik Ravenshadow, the enigmatic owner, surveys the room with a gaze as sharp as the raven's eye. The walls bear the scars of battles, and yet, they have been mended with care and fortitude, testifying to the city's recent salvation.
+Patrons, both locals and travelers, exchange knowing glances as they sip their drinks, their voices hushed as they share tales of the siege's horrors and the renewed hope that now courses through the city's veins. The inn's fireplace crackles with the warmth of rebirth, casting dancing shadows upon the room. In "Raven's Rest Inn," the ghosts of the past linger, but so does the undeniable sense that the city has emerged from the darkness, forging a new beginning in its wake.
+
+
+
+
+Item Name
+	Description
+	Cost
+	Icy Pickled Herring
+	A plate of pickled herring served with onions, dill, and a touch of frosty magic, perfect for a tangy, refreshing appetizer.
+	3 silver
+	Northern Grog
+	A hearty, dark ale brewed with northern spices, providing warmth and comfort for travelers in the cold.
+	4 silver
+	Snowdrift Chowder
+	A creamy blend of clams, potatoes, and smoked salmon, served with warm, crusty bread, the ultimate comfort food for those braving the cold.
+	6 silver
+	Troll-Brined Salmon
+	A succulent salmon fillet marinated in a tangy troll-brine, grilled to perfection and served with lemon and butter sauce.
+	7 silver
+	
+
+Bookshop - The Wise Raven's Bookshop
+
+
+Owner - Eirik Ravenshadow
+
+
+As you step into "The Wise Raven's Bookshop," an aura of quiet wisdom and the written word fills the atmosphere. The bookshop, tended by the knowledgeable Eirik Ravenshadow, has weathered the city's tribulations, and the shelves, lined with ancient tomes and well-preserved scrolls, offer a refuge from the scars of war. The room is hushed, with the scent of old parchment and ink permeating the air, as visitors and scholars explore the wealth of knowledge contained within the shop.
+Visitors, both scholars and curious souls, peruse the shelves with reverence, their fingers tracing the spines of countless books that have stood the test of time. The bookshop's reading nooks and dimly lit corners provide a space for reflection and discovery, a sanctuary from the recent turmoil. "The Wise Raven's Bookshop" stands as a testament to the enduring power of words and the pursuit of knowledge, a place where, even in the city's darkest hours, the wisdom of ages continues to illuminate the path forward.
+
+
+
+
+Item Name
+	Description
+	Cost
+	Runes of Ancient Wisdom
+	A set of runic inscriptions and their meanings, providing insight into the ancient languages of the northern lands.
+	5 gold
+	Chronicles of Frostheim
+	A collection of epic sagas and heroic tales, offering tales of valor and legends of the north.
+	10 gold
+	Traveler's Guide to Nordheim
+	A detailed guidebook for adventurers, containing maps, lore, and practical advice for navigating the northern wilderness.
+	7 gold
+	The Codex of Frozen Spells
+	A tome filled with enchanting spells inspired by the icy wonders of the north, appealing to aspiring wizards and sorcerers.
+	15 gold
+	
+
+
+
+Temple - Odin's Blessing Temple
+
+
+Owner - High Priestess Freya
+
+
+As you enter "Odin's Blessing Temple," a profound sense of reverence and tranquility envelopes the atmosphere, contrasting with the war-torn city outside. The temple, under the stewardship of High Priestess Freya, has remained a beacon of hope and solace throughout the city's trials. The walls, adorned with intricate carvings of divine figures, bear no scars, serving as a sanctuary from the chaos beyond.
+Worshipers, both devout residents and travelers seeking blessings, kneel in silent prayer or make offerings to the gods. The gentle flicker of candles and the soft murmurs of whispered supplications create an aura of peace. The temple's interior exudes a feeling of renewal and divine grace, offering a respite from the recent tumultuous past. "Odin's Blessing Temple" is a place of solace, a reminder that even in the face of adversity, the city holds tightly to its faith and the blessings of the gods.
+
+
+
+
+Item Name
+	Description
+	Cost
+	Odin's Blessed Talisman
+	A small, intricately carved amulet featuring the symbol of Odin, believed to bring protection and divine favor.
+	10 gold
+	Candle of Blessings
+	A special candle, blessed by the temple, said to guide the way and provide protection in the darkest of times.
+	5 silver
+	Prayer Beads of Thor
+	A set of wooden prayer beads engraved with Thor's runes, often used by devotees to seek the thunder god's strength and protection.
+	7 gold
+	Vial of Sacred Waters
+	A vial containing purified water from the temple's holy spring, believed to possess healing properties and provide divine blessings. (1d 4 healing)
+	2 gold
+	
+
+Side Quests
+The Haunting of Nordholm Abbey
+Rumors have spread through the Kingdom of Nordheim of a chilling presence at Nordholm Abbey, an ancient monastery located in the outskirts of the main city. The once peaceful and sacred grounds have been plagued by disturbing occurrences, with whispers of eerie apparitions and haunting wails echoing through the night. The locals avoid the area, fearing the malevolent spirit that now inhabits the abbey.
+
+
+Driven by curiosity or a sense of duty, the adventurers take it upon themselves to investigate this ghostly mystery. As they approach the crumbling walls of the abbey, an aura of otherworldly chill grips them, making their every breath visible in the cold air.
+
+
+Within the abbey's darkened halls, they encounter undead spirits bound to the place by a malevolent force. Skeletal monks roam the corridors, and restless souls manifest as eerie specters, their mournful cries echoing through the ancient stone. The adventurers must navigate the perilous maze of ghostly encounters, facing both the undead and the haunting memories that linger within.
+
+
+As they delve deeper, they discover the source of the malevolence—an ancient and powerful necromancer's spirit, trapped between realms, seeking release or revenge. To quell the haunting, they must confront the necromancer's tormented soul and free it from its spectral chains.
+
+
+Upon defeating the malevolent necromancer and putting the restless spirits to rest, the adventurers find a hidden chamber containing a collection of ancient magical scrolls. These scrolls bear the secrets of long-forgotten spells, offering potent arcane knowledge to those who can wield them.
+
+
+Malevolent Necromancer
+As you venture deeper into the snow-laden graveyard, the chilling air seems to grow even colder, and a faint, ominous mist rises from the ground. Amidst the fog, a spectral figure materializes before you, its form blurred and translucent as it shifts between planes. Dressed in tattered robes 
+
+
+With an unsettling smile, it gestures to the surrounding graves, and the snow-covered earth begins to tremble as skeletal figures rise from their eternal slumber, their hollow sockets fixated on you with an unnerving hunger. "Witness the fate of those who dare cross me," the necromancer hisses, as the horde of undead moves with eerie precision at its command.
+
+
+As the confrontation unfolds, you find yourselves faced with a powerful malevolent necromancer—one who has transcended the boundary between life and death to command the very spirits of the deceased. Will you stand firm against this ancient evil, breaking its spectral bonds and releasing its tormented soul, or will you succumb to the haunting powers that surround you, forever adding to the spectral legion that plagues Nordholm Abbey? The outcome of this chilling encounter rests on the bravery and wits of your fellowship, as the fate of the graveyard hangs in the balance between light and darkness.
+Stats
+
+
+Medium undead (ghost), chaotic evil
+
+
+Armor Class 13
+Hit Points 65 (10d8 + 20)
+
+
+Speed 0 ft., fly 40 ft. (hover)
+Abilities Str 7 (-2), Dex 13 (+1), Con 14 (+2), Int 18 (+4), Wis 15 (+2), Cha 17 (+3)
+
+
+Saving Throws Wisdom +4, Charisma +5
+
+
+Skills Arcana +7, Deception +5, Intimidation +5, Stealth +4
+
+
+Damage Resistances acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+
+
+Damage Immunities cold, necrotic, poison
+
+
+Condition Immunities charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+
+
+Senses darkvision 60 ft., passive Perception 12
+
+
+Languages Common, Necril
+
+
+Challenge 6 (2,300 XP)
+
+
+Actions
+Incorporeal Movement. The necromancer can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+Ethereal Sight. The necromancer can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
+Sunlight Sensitivity. While in sunlight, the necromancer has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+Innate Spellcasting. The necromancer's innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
+At will: mage hand (the hand is spectral), minor illusion, chill touch
+3/day each: ray of enfeeblement, animate dead, fear
+1/day: etherealness, finger of death
+Etherealness. The necromancer enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
+Life Drain. The necromancer targets one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 15 Constitution saving throw against this magic or die. If the target dies, the necromancer regains 10 (3d6) hit points.
+Incorporeal Movement. The necromancer can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+Ghostly Visage. The necromancer can shift its body partially into the Ethereal Plane, becoming blurred and translucent. Until the start of its next turn, it gains resistance to all damage except force damage. In addition, it can enter objects and move through them but takes 1d10 force damage if it ends its turn inside an object.
+Actions
+Withering Touch. Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 17 (4d6 + 3) necrotic damage.
+Terrifying Gaze. The necromancer targets one creature it can see within 10 feet of it. If the target can see the necromancer, it must succeed on a DC 14 Wisdom saving throw against this magic or be frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the necromancer's gaze for the next 24 hours.
+Horrifying Presence (Recharge 5-6). Each non-undead creature within 60 feet of the necromancer that can see it must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute. If the save is successful, the creature is immune to the necromancer's Horrifying Presence for the next 24 hours.
+Legendary Actions
+The necromancer can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The necromancer regains spent legendary actions at the start of its turn.
+* Withering Touch (Costs 2 Actions). The necromancer makes one withering touch attack.
+* Etherealness (Costs 3 Actions). The necromancer uses its Etherealness ability.
+
+
+
+
+Reward:
+
+
+* Cloak of Displacement: This finely crafted cloak is woven from shadowy threads, and it grants the wearer the ability to manipulate their appearance in combat, making it difficult for enemies to land precise attacks. While wearing the cloak, attackers have disadvantage on attack rolls against the wearer.
+* Scroll of Spirit Guardians: This scroll grants the ability to summon spectral protectors to aid the caster in battle, providing both defense and offense.
+* Scroll of Speak with Dead: With this scroll, the caster can communicate with the deceased, gaining valuable insights and information from their spirits.
+
+
+Having vanquished the haunting and secured these mystical scrolls, the adventurers return to King Ragnar in the main city of Nordheim. Their deeds earn them the king's gratitude and further cement their reputation as heroic champions, ready to face whatever challenges may lie ahead in their quest to save the Kingdom from the terrifying Frostclaw Behemoth.
+
+
+
+
+6. Mountain Fight
+As you follow the trail left by the retreating Hrimfang and the cannibal warriors, the landscape changes dramatically. The imposing mountains loom ahead, their peaks crowned with glistening snow and ice. As you draw closer, the bitter chill fills the air, and a sense of foreboding surrounds you. Ahead lies a massive cave entrance, leading deep into the heart of the mountains.
+
+
+As you approach the main entrance, you spot the guards posted by the cannibal warriors, their eyes watchful and alert. Their crude weapons and tribal markings signify their allegiance to the Frostfang Clan. It is clear that charging in would not be wise, but as you scan the area, your keen eyes catch a hidden side entrance off to the side. Obscured by icy stalactites, it seems to offer a chance for stealthier infiltration.
+
+
+After some careful consideration, you decide to take the side entrance. The path leads you through a maze of twisting tunnels, dimly lit by flickering torches. The sound of strange guttural voices and the clanging of crude metal echoes in the distance, hinting at the presence of the cannibal tribe. The cave system unfolds before you like an underground city, with carved stone passageways leading to different caverns and dwellings.
+
+
+As you venture deeper into the mountain lair, you come across chambers where the cannibals feast and worship their dark deities. Crude idols and blood-stained altars line the walls, giving an eerie glimpse into the tribe's twisted rituals. Your hearts race as you sneak past these areas, knowing that any wrong move could alert the cannibals to your presence.
+
+
+The tension builds as you draw closer to the heart of the lair, where you suspect the true Hrimfang lies in wait. The challenge before you is immense, but your determination to save the Kingdom of Nordheim strengthens with every step. You must rely on your wit and stealth to navigate this treacherous environment, gather information, and plan your strategy to confront the monstrous Frostclaw Behemoth and put an end to the Frostfang Clan's reign of terror. As you take a deep breath, readying yourselves for the imminent danger that lies ahead, you prepare to face whatever darkness awaits you within the depths of the mountain lair.
+
+
+The Frostfang Clan 
+The cannibal tribe that worships and emulates the Frostclaw Behemoth is now known as the Frostfang Clan. Their warriors wear furs and paint their bodies with tribal markings resembling the Frostclaw's icy blue hue. Their shamans, skilled in dark magic, can manipulate cold and frost, further adding to the illusion of the mythical creature's presence.
+
+
+As the players make their way through the cannibal lair, they will face numerous challenges and encounters with the Frostfang Clan's warriors and shamans. The tribe's ruthless tactics and ambushes test the party's resourcefulness and ability to differentiate between the genuine Frostclaw Behemoth and the disguised cannibals.
+
+
+In the heart of the lair, the adventurers will confront the massive Frostclaw Behemoth itself, guarded by the tribe's chieftain and the powerful shaman. This final battle will be a true test of their mettle, as they must overcome the Frostclaw Behemoth's formidable strength and the shaman's dark magic to save the Kingdom of Nordheim from this menacing threat.
+
+
+By using the Frostclaw Behemoth as the main antagonist, we create a thrilling and challenging encounter while preserving the dynamic twist of the cannibal tribe's disguise. The Frostfang Clan's cunning tactics add an element of surprise and intrigue to the campaign, making the players question who the real enemy is until they face the monstrous Frostclaw Behemoth head-on.
+
+
+Stats
+
+
+Cannibal Tribe Warrior
+
+
+Medium humanoid (human), chaotic evil
+
+
+Armor Class 13 (hide armor)
+
+
+Hit Points 30 (4d8 + 12)
+
+
+Speed 30 ft.
+
+
+STR 16 (+3)
+DEX 12 (+1)
+CON 16 (+3)
+INT 8 (-1)
+WIS 10 (+0)
+CHA 8 (-1)
+
+
+Skills Perception +2, Survival +2
+
+
+Senses Passive Perception 12
+
+
+Languages Common
+
+
+Challenge 1 (200 XP)
+
+
+Actions
+
+
+Multiattack. The cannibal warrior makes two melee attacks.
+
+
+Scimitar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 6 (1d6 + 3) slashing damage.
+
+
+Spear. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target.
+Hit: 6 (1d6 + 3) piercing damage.
+
+
+Tactics: Cannibal Tribe Warriors are fierce and relentless in battle. They prefer ambush tactics, striking from concealed positions or using the cover of darkness to surprise their foes. In combat, they will focus their attacks on weaker or isolated targets first, attempting to overwhelm them quickly. If outnumbered or in a disadvantageous position, they may retreat to regroup and set up another ambush later.
+
+
+Equipment: The cannibal tribe warrior wears hide armor and wields a scimitar and a spear. They may also carry simple tribal tools, such as bone daggers, hunting traps, and makeshift shields made from animal hides. Their appearance reflects their tribal culture, adorned with feathers, bones, and markings symbolizing their allegiance to the cannibal tribe.
+
+
+Devourer's Den
+In the heart of the Devourer's Den, the players finally come face to face with the commanding force behind the Frostclaw Behemoths and the cannibal tribe. Known as the "Frostbane Matriarch," this powerful and ancient ice elemental holds dominion over the Frostclaw Behemoths and wields formidable icy magic.
+
+
+Frostfang Yeti
+The Frostclaw Yeti is a colossal, predatory creature that prowls the frigid wastelands of Nordheim. Standing at an imposing height of over ten feet, it boasts a muscular form enveloped in dense, frost-coated fur. Its jagged claws are formidable weapons capable of tearing through even the sturdiest of armors. The resonating echoes of its bone-chilling roars instill a paralyzing fear in anyone who hears them.
+
+
+The Frostclaw Yeti's looming presence has cast a pall of dread over the Nordheimers, and the mountain-dwelling cannibal tribe has cleverly exploited this terror. Crafting primitive mockeries of the creature's claws and draping themselves in pelts, they skillfully mimic a smaller, numerous variant of the Frostclaw Yeti. This ruse has sown panic among the Kingdom's denizens, perpetuating the belief that the monsters strike in coordinated packs.
+
+
+Stats
+A suitable substitute for the Frostclaw Behemoth could be the "Yeti," an official creature from D&D 5th Edition that fits the theme of a powerful, winter-themed monster. Here's a quick adaptation of the Yeti to fit the Frostclaw Behemoth's role:
+
+
+Frostclaw Yeti
+
+
+Huge monstrosity, chaotic evil
+
+
+Armor Class 12 (natural armor)
+Hit Points 51 (6d12 + 12)
+Speed 40 ft., climb 40 ft.
+
+
+STR 18 (+4)
+DEX 13 (+1)
+CON 15 (+2)
+INT 6 (-2)
+WIS 12 (+1)
+CHA 7 (-2)
+
+
+Skills Perception +3
+Senses darkvision 60 ft., passive Perception 13
+Languages Yeti
+
+
+Keen Smell. The yeti has advantage on Wisdom (Perception) checks that rely on smell.
+
+
+Actions
+
+
+Multiattack. The yeti makes two claw attacks.
+
+
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+
+
+Chilling Gaze (Recharge 5-6). The yeti targets one creature it can see within 30 feet of it. The target must succeed on a DC 13 Constitution saving throw or take 18 (4d8) cold damage and be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+This adaptation of the Yeti should provide a challenging and thematic encounter for your players. Use a Yeti token or image from D&D Beyond to represent the creature in your campaign.
+
+
+Frostbane Matriarch 
+The Frostbane Matriarch stands taller than any human, her form ethereal and translucent, shimmering with an otherworldly blue light. Her eyes glow with an intense icy radiance, and her hair flows like frozen streams cascading down her back. Her presence sends shivers through the players' spines, as they sense the raw power emanating from this ancient being.
+
+
+Commander of the Frostclaw Behemoths The Frostbane Matriarch is the commanding force behind the Frostclaw Behemoths, shaping their actions and guiding their relentless attacks. As an elemental being of ice and frost, she has an innate connection with the beasts, communicating with them through a mysterious icy resonance.
+
+
+Icy Enchantress The Frostbane Matriarch is a master of ice magic, capable of freezing her enemies with a mere gesture. She conjures blizzards and icicles from thin air, using her icy powers to unleash devastating frost spells upon her foes. Her control over the ice extends even to the very environment, making her a formidable adversary in the icy caverns of the Devourer's Den.
+
+
+Protector of the Cannibal Tribe To the cannibal tribe, the Frostbane Matriarch is a revered figure, considered to be the embodiment of their gods. She protects and empowers them, guiding their raids and ensuring their survival in the harsh mountainous terrain.
+
+
+Final Confrontation The battle against the Frostbane Matriarch promises to be an epic and challenging encounter. Her mastery of ice magic makes her a formidable foe, and she will summon the Frostclaw Behemoths to aid her in battle. The players will have to overcome not only her icy spells but also the relentless onslaught of the Frostclaw Behemoths under her command.
+
+
+Defeating the Frostbane Matriarch will be no small feat, but the players' combined strength, tactical prowess, and the magical items they have acquired on their journey will be crucial in this final battle. The fate of Nordheim rests in their hands, and they must emerge victorious against this ancient elemental being to bring peace back to the Kingdom and quell the terror that has plagued its lands.
+
+
+Stats
+Frostbane Matriarch - Ice Elemental Large elemental, neutral evil
+
+
+Armor Class: 16 (natural armor)
+Hit Points: 180 (20d10 + 80) 
+Speed: 40 ft., fly 60 ft. (hover)
+
+
+STR 18 (+4) | DEX 12 (+1) | CON 18 (+4) | INT 16 (+3) | WIS 15 (+2) | CHA 18 (+4)
+
+
+Saving Throws: DEX +6, CON +9, WIS +7, CHA +9 
+Skills: Arcana +7, Perception +7 
+Damage Immunities: cold, poison 
+Condition Immunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+
+
+Senses: darkvision 120 ft., passive Perception 17 
+Languages: understands Common and Primordial but can't speak 
+Challenge: 12 (8,400 XP)
+
+
+Actions
+
+
+Ice Magic. The Frostbane Matriarch is a spellcaster and uses Charisma as her spellcasting ability for her spells. She can cast spells as a 10th-level spellcaster.
+
+
+Spellcasting. The Frostbane Matriarch has the following spells prepared from the sorcerer's spell list:
+
+
+Cantrips (at will): Ray of Frost, Frostbite, Mage Hand
+
+
+1st level (4 slots): Ice Knife, Shield, Fog Cloud
+
+
+2nd level (3 slots): Snilloc's Snowball Swarm, Misty Step
+
+
+3rd level (3 slots): Sleet Storm, Counterspell
+
+
+4th level (3 slots): Ice Storm, Wall of Ice
+
+
+5th level (2 slots): Cone of Cold, Teleportation Circle
+
+
+Legendary Resistance (3/day). If the Frostbane Matriarch fails a saving throw, she can choose to succeed instead.
+
+
+Frosty Aura. The Frostbane Matriarch emanates a chilling aura within a 30-foot radius. Any creature that starts its turn within this aura takes 2d6 cold damage. The aura also creates difficult terrain, as the ground becomes icy and slippery.
+
+
+Icy Talons. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 1d10+4 slashing damage plus 2d6 cold damage. The target must succeed on a DC 16 Constitution saving throw or be restrained as the icy talons hold them in place.
+
+
+Blizzard Call (Recharge 5-6). The Frostbane Matriarch summons a blizzard at a point she can see within 120 feet. The blizzard spreads to a 40-foot radius, heavily obscuring the area. Creatures within the blizzard's area must make a DC 17 Constitution saving throw or take 4d6 cold damage and become blinded until the end of their next turn.
+
+
+Summon Frostclaw Behemoths (1/day). The Frostbane Matriarch can summon 1d4+1 Frostclaw Behemoths to aid her in battle. The behemoths act immediately after her turn and follow her commands.
+
+
+The Frostbane Matriarch is a formidable foe, capable of unleashing devastating cold spells and commanding the ferocious Frostclaw Behemoths. Her icy presence and mastery of frost magic make her a fearsome adversary that the players will need to approach with caution and strategy.
+
+
+Reward
+Cloak of Protection
+This elegant cloak, woven from threads that seem to shimmer between reality and the ethereal plane, holds within its fabric an aura of protective magic. The edges are adorned with intricate patterns that shift and blend like wisps of mist.
+
+
+Frostbite Blade
+This shortsword exudes a chilling aura, its blade adorned with intricate patterns resembling frosty fractals. When wielded, the air around the blade seems to grow colder, leaving traces of frost in its wake.
+
+
+7. Valkyriehaven
+Once the campaign has finished, the King will give the party a royal escort to the newly revitalized port town near the city of Nordheim, called Valkyriehaven. There the campaign ends in a tavern with a guaranteed boat ride off the continent of Nordheim whenever the party is ready.
+Approaching the town
+As your party approaches Valkyriehaven, the salty breeze from the open sea carries the scent of brine and adventure. The town emerges from the horizon, revealing a picturesque setting against a backdrop of rugged cliffs and deep fjords. The sun, although struggling to pierce through thick clouds, casts a pale light on the newly revitalized port town.
+
+
+Valkyriehaven's dock, once in a state of disrepair, now bustles with activity. Weathered sailors haul crates and barrels from recently arrived ships, their voices echoing with tales of distant lands and the clang of metal against wood as shipwrights work diligently to repair and maintain the vessels. Fishing boats gently bob in the harbor, their nets laden with the day's catch.
+
+
+The heart of the town is marked by the recently reopened inn/tavern, known as "The Valkyrie's Rest." Its sturdy wooden facade, adorned with a newly painted sign depicting winged shieldmaidens, stands as a testament to the resilience of the community. Laughter spills out from the open doors, mingling with the inviting aroma of freshly cooked fish and ale.
+Scattered houses, some recently constructed and others weathered by time, line the cobbled streets. Smoke curls from chimneys, and the sound of children playing can be heard in the distance. Valkyriehaven's inhabitants, a mix of weathered seafarers and hardy pioneers, go about their daily tasks with a sense of renewed purpose.
+
+
+The town square, dominated by a newly erected statue of your party holding the king’s sword he bestowed upon you, now serves as a meeting place for the townsfolk. The statue's eyes seem to follow you as you traverse the square, giving a solemn nod to the resilience and bravery that brought Valkyriehaven back from the brink of abandonment.
+
+
+As you step further into the town, you sense an air of optimism and determination among the people of Valkyriehaven—a community reborn from the ashes of a long siege, now poised to carve out a new chapter in its storied history.
+
+
+As the armed escort shows you around the small town, they point out that the King paid for them to stay at the Valkyrie’s Rest for three nights and has requested a passage from the dock workers for your party, whenever they wish to leave Nordheim and sail out. With those last remarks, the guards turn back and head back to their capital city of Nordheim.
+
+
+Valkyrie’s Rest (Tavern/Inn)
+The Valkyrie's Rest stands proudly at the heart of Valkyriehaven, a two-story timber-framed structure with a thatched roof that slopes gently towards the harbor. The exterior is adorned with newly carved wooden panels depicting scenes of seafaring exploits and valiant warriors, their images weathered by both time and the salty sea air. A pair of intricately crafted, wrought iron lanterns flank the entrance, their soft glow casting a warm light onto the cobblestone path. The scent of burning wood emanates from a stout stone chimney, and the low hum of muffled conversations seeps through the sturdy walls.
+
+
+Entering The Valkyrie's Rest:
+
+
+As you push open the creaking door, the inviting warmth of The Valkyrie's Rest envelops you. The interior is a lively blend of rustic charm and newfound vibrancy. Wooden beams crisscross the low ceiling, adorned with hanging tankards and shields bearing the insignia of Valkyriehaven. The air is thick with the savory aroma of roasted fish and hearty stews, courtesy of the roaring fireplace near the far wall.
+
+
+The common room is abuzz with the animated chatter of locals and travelers alike, their laughter blending with the rhythmic strumming of a bard's lute in the corner. The polished bar, newly built from sturdy oak, boasts an impressive array of tankards and flagons, while the bartender, a burly man with a braided beard, expertly fills mugs with frothy ale. The atmosphere is one of camaraderie and celebration, a stark contrast to the desolation the town once faced.
+
+
+Tables and benches, some recently carved and others worn with age, provide ample seating for patrons recounting tales of the town's resurgence. As you enter, the patrons raise their glasses in a collective gesture of welcome, acknowledging your presence as the bastion of newfound hope in Valkyriehaven.
+
+
+Post Campaign
+As your jubilant gathering commemorates the salvation of Nordheim, a sudden gust of wind, accompanied by a strained shove, propels the Valkyrie’s Rest's front door open. The scene reminds you of the first time you heard of Nordheim, months and months ago back in the town of Woodvos. Once more, a mysterious hooded figure materializes, heralding a looming aura of impending doom. Just as in Woodvos, the entirety of the tavern seemed to pivot in unison, startled by the unexpected arrival of this enigmatic newcomer. A sense of déjà vu comes over you as everything seems so similar to that meeting with Bjorn so many moons ago… Everything that is, except for one single detail.
+
+
+In Woodvos, when Bjorn entered the tavern his presence and stature filled the doorway, his stature commanding everyone’s attention from his sheer size. In contrast, the mysterious individual standing in the doorway now appeared to be just taller than 4 feet. With an urgency only displayed by those in great need, the silhouette hastens purposefully towards your party.
+
+
+The End. I hope you have enjoyed the Salvation of Nordheim 🙂
+
+
+Campaign Index:
+Characters
+I apologize for the confusion, and thank you for clarifying. Here are the corrected names for the characters:
+
+
+Hafnheim
+1. Bjorn Ironclad: Viking warrior recruiting adventurers.
+2. Reik Ironbeard: Owner of Gullveig's Hearth Mead Hall.
+3. Durg Ironbeard: Owner of Ironbeard's Forge blacksmith.
+4. Aeliana Ravenshadow: Owner of Arcane Enclaves enchanting shop.
+5. Astrid Stormshield: Owner of Skjold's Rest Longhouse.
+
+
+Frostgate
+1. Sigurd Froststrider: Owner of The Frostgate Rest tavern.
+2. Ingrid Oakheart: Owner of The Frosted Mug Tavern.
+3. Eirik Skaldhammer: Owner of the Nordic Traders general store.
+4. Brogar Ironforge: Owner of the Fireforge blacksmith
+
+
+Nordheim
+1. King Ragnar Frostbeard: Frostbeard: King of Nordheim Kingdom.
+Creatures
+Intro
+Giant Wolf Spider
+Giant Centipede
+Giant Weasel
+Brown Bear
+Giant Boar
+
+
+Hafnheim
+Bandits
+The Bandit Leader: Captain Skyraven
+Young White Dragon
+Nordheim
+Snow Wolves (CR 1) 
+Ice Goblins (CR 2) 
+Frost Giants' Scouts (CR 5) 
+Winter Wights (CR 3) 
+Ice Mephit (CR 4) 
+Remorhaz  (CR 11) 
+Dire Polar Bear (CR 4)
+Frost Salamander (CR 9)
+Malevolent Necromancer
+The Frostfang Clan
+Frostfang Yeti
+Frostbane Matriarch 
+Main Rewards
+“Frostbite Blade” - Gift of King Ragnar
+(Found given by King Ragnar after saving the Kingdom)
+
+
+Weapon (Martial Weapon, Melee Weapon 10 lbs 2d8 cold damage), Rare (Requires Attunement)
+
+
+Frostbite is a magical greatsword made of pure ice, with a beautifully crafted hilt that resembles a snowflake. It was created by a powerful wizard who wished to harness the power of the icy tundra to defeat their enemies. The last wielder of this weapon was Kaida Stormwind, a Half-Elf Paladin. Her improvement on the weapon was that Frostbite will always emit a cold aura, making its surroundings feel like winter.
+
+
+You gain a +3 bonus to attack and damage rolls made with this weapon. All magical structures and spells that provide protection against cold damage are nullified as it passes through it.
+
+
+
+
+Curse of The Frozen Heart.Attacks made with this weapon deal an additional 2d10 cold damage that ignores immunity and resistances.
+
+
+Chilling Effect.If a creature is hit with the blade, the creature takes 2d12 cold damage that ignores immunity and resistances for 1d6 minutes.
+
+
+Blessing of Last Wielder.You gain half of the ability scores of the last Wielders of the weapon.
+Spells.The wielder of Frostbite is capable of casting spells, and the casting modifier is Charisma. The wielder can use the spells as often as they wish, but casting spells more than the Con + Cha modifier will deal 2d8 cold damage each time a spell is used. An anti-magic field prevents the user from casting spells. The wielder is capable of using spells from the cleric, paladin, and sorcerer spell list. The wielder essentially has spell slots up to level 8 and has a number of spells equal to their Con+Cha modifiers + Proficiency. If the caster has to make a concentration saving throw, they automatically succeed.
+
+
+Sentience.Frostbite is a sentient chaotic good weapon with the Intelligence of 20, a Wisdom of 18, and a Charisma of 20. It has hearing and blindsight of 120ft.
+
+
+The weapon communicates telepathically with its wielder and can speak, read, and understand all languages. It has a calm and wise voice. The weapon can sense the presence of evil and neutral creatures within 120 feet of it.
+
+
+Personality.Frostbite has sworn to protect its wielder and their allies against any threat. The weapon's ideal wielder is a person who values justice and righteousness. In essence, someone who is lawful good or chaotic good. Frostbite is patient and calculating.
+
+
+If someone wishes to use Frostbite against their will, it will create a blizzard to slow them down and hinder their movement. If it wished to remain hidden, it will create a wall of ice and blend in with the surroundings.
+
+
+Frostbite is married to the shield Blizzard, and they are known as the Winter's Guardians
+
+
+
+
+"Cloak of Protection": 
+(Found in the mountain lair after defeating the Frostbane Matriarch)
+
+
+Wondrous Item, uncommon (requires attunement)
+
+
+This cloak is woven from fine material and trimmed with intricate embroidery. While wearing the Cloak of Protection, you gain the following benefits:
+
+
+* You gain a +1 bonus to AC and saving throws.
+* The cloak has 3 charges. As a reaction when you are hit by an attack or fail a saving throw, you can expend 1 charge to gain a +5 bonus to your AC or saving throw. You can decide to use this ability after the roll, but before the DM tells you whether it succeeds or fails. The cloak regains all expended charges daily at dawn.
+
+
+Attunement: To attune to the Cloak of Protection, you must wear it for a short rest while focusing on the protective aura of the cloak.
+
+
+The Cloak of Protection offers improved defenses and a reactive ability to bolster AC and saving throws, which aligns well with the theme of the original "Scroll of Spirit Guardians." Its rarity and benefits make it suitable for characters in the level 5-8 range.
+
+
+
+
+Side Quest Rewards:
+
+
+“Dagger of Venom” 
+This wickedly serrated dagger gleams with a malevolent glint, its blade seeming to drip with a sinister venom. The hilt is adorned with intricate patterns that resemble the coils of a serpent.
+
+
+“Hat of Disguise”
+This simple and unassuming hat holds a hidden enchantment that allows its wearer to alter their appearance at will. The hat is often made of nondescript material, making it blend seamlessly with various outfits.
+
+
+“Boots of Winderlands” 
+These rugged boots are lined with fur and adorned with intricate frost-themed patterns. While wearing the Boots of the Winterlands, you feel an increased resilience to the harsh conditions of icy and snowy terrain.
+"Longbow of Warning": 
+(Found in the iceburgh outside of Frostgate)
+
+
+Weapon (longbow), uncommon (requires attunement)
+
+
+This finely crafted longbow hums with an otherworldly energy, alerting its wielder to danger and helping them act swiftly in the face of threats.
+
+
+Properties:
+* Damage: 1d8 piercing damage.
+* Properties: Two-handed, ammunition (range 150/600).
+* Advantage on Initiative: While attuned to the Longbow of Warning, you gain advantage on initiative rolls.
+
+
+Sentinel Senses: You have advantage on Wisdom (Perception) checks that rely on sight.
+
+
+Attunement: To attune to the Longbow of Warning, you must spend a short rest communing with its vigilant aura and attuning to its protective qualities.
+
+
+The Longbow of Warning's unique properties make it an excellent choice for characters who value being alert and perceptive in combat. Its ability to grant advantage on initiative rolls and perception checks can give the wielder the upper hand in battles and encounters, ensuring they're prepared to face whatever challenges lie ahead.
+
+
+
+
+“Scroll of Ice Storm”
+Scroll, 5th-level evocation
+
+
+This magical scroll contains the Ice Storm spell, a potent evocation that calls forth a freezing rain of hail and sleet, dealing damage to creatures in the area and creating difficult terrain.
+Ice Storm: When the scroll is read as an action, the caster can unleash the power of the Ice Storm spell. A 20-foot-radius cylinder centered on a point within 300 feet of the caster becomes filled with swirling, freezing hail. Each creature in that area must make a Dexterity saving throw, taking 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much damage on a successful one. The area also becomes difficult terrain until the end of the caster's next turn.
+
+
+Limited Use: Once the Ice Storm spell is cast from the scroll, the parchment disintegrates into dust, rendering it non-magical.
+
+
+The Scroll of Ice Storm provides a powerful offensive option for the adventurers to unleash icy devastation upon their foes. However, it can only be used once, so the wielder must choose the opportune moment to unleash its chilling fury.
+
+
+“Frostbrand Dagger”
+
+
+Weapon (dagger), rare (requires attunement)
+
+
+This enchanted dagger shimmers with a pale blue hue and exudes an icy chill. The hilt is adorned with intricate frost-like patterns, and its blade glistens with a frosty sheen.
+
+
+Properties:
+* Damage: 1d4 piercing damage.
+* Properties: Finesse, light, thrown (range 20/60).
+* Bonus: On a hit, the target takes an extra 1d6 cold damage.
+
+
+Frostbite: Whenever you hit a creature with the Frostbrand Dagger, they must succeed on a DC 13 Constitution saving throw or have their movement speed reduced by 10 feet until the start of your next turn. If the creature fails the saving throw by 5 or more, they are also restrained by icy frost, and their speed becomes 0 until the start of your next turn.
+
+
+Icy Strike: Once per short or long rest, you can use a bonus action to imbue the dagger with additional frosty power. On your next successful hit with the Frostbrand Dagger, the target takes an extra 2d6 cold damage.
+
+
+Attunement: To attune to the Frostbrand Dagger, you must spend a short rest embracing its icy aura and focusing on its magical properties.
+
+
+This dagger's ability to deal extra cold damage and hinder foes with frostbite makes it a valuable asset in both close-quarters combat and ranged engagements. Its enchantment can be a potent asset when facing creatures vulnerable to cold damage or those who must contend with the biting chill of the dagger's effects.
+
+
+
+
+
+
+“Dragon Scale Mail”
+
+
+Armor (scale mail), very rare
+
+
+This suit of armor is fashioned from the scales of a dragon, offering protection and resilience beyond that of conventional armor. The scales are expertly interwoven with a flexible backing, allowing for both mobility and formidable defense.
+
+
+Armor Class: 14 + Dexterity modifier (max 2)
+
+
+Stealth: Disadvantage
+
+
+Resistance: You gain resistance to the damage type associated with the dragon scales used to craft the armor (acid, cold, fire, lightning, poison, or thunder).
+
+
+Breath Weapon: Once per long rest, you can use an action to exhale destructive energy, mimicking the dragon's breath weapon. Each creature in a 15-foot cone (or 30-foot line, depending on the dragon type) must make a Dexterity saving throw against a DC of 8 + your Constitution modifier + your proficiency bonus, taking damage equal to the dragon's breath weapon damage on a failed save, or half as much on a successful one.
+
+
+Attunement: To attune to Dragon Scale Mail, you must spend a short rest embracing the armor's draconic essence and attuning to its magical properties.
+
+
+Dragon Scale Mail offers enhanced protection and versatility due to its resistance to specific damage types and the ability to harness a dragon's breath weapon. The armor's design and composition make it a formidable choice for those seeking to embody the power and majesty of dragons.
+“Dagger of Venom”
+
+
+Weapon (dagger), rare (requires attunement)
+
+
+This wickedly serrated dagger gleams with a malevolent glint, its blade seeming to drip with a sinister venom. The hilt is adorned with intricate patterns that resemble the coils of a serpent.
+
+
+Properties:
+* Damage: 1d4 piercing damage.
+* Properties: Finesse, light, thrown (range 20/60).
+* Bonus: On a hit, the target takes an extra 1d6 poison damage.
+
+
+Venomous Strike: Whenever you hit a creature with the Dagger of Venom, they must succeed on a DC 13 Constitution saving throw or be poisoned until the start of your next turn.
+
+
+Toxic Spray: Once per short or long rest, you can use a bonus action to release a burst of venomous spray. Choose a point you can see within 15 feet of you. Each creature in a 10-foot cone originating from that point must make a DC 13 Constitution saving throw, taking 2d8 poison damage on a failed save, or half as much on a successful one.
+
+
+Attunement: To attune to the Dagger of Venom, you must spend a short rest attuning to the blade's malevolent aura and unlocking its venomous potential.
+
+
+This dagger's ability to deal poison damage and inflict the poisoned condition on targets makes it a formidable weapon in combat. Its toxic spray ability provides an area of effect attack, allowing the wielder to unleash a deadly cloud of poison upon multiple foes.
+
+
+
+
+
+
+“Hat of Disguise”
+
+
+Wondrous Item, uncommon (requires attunement)
+
+
+This simple and unassuming hat holds a hidden enchantment that allows its wearer to alter their appearance at will. The hat is often made of nondescript material, making it blend seamlessly with various outfits.
+
+
+Disguise Self: While attuned to the Hat of Disguise, you can use an action to cast the "Disguise Self" spell without expending a spell slot. The spell functions as if you had cast it using a 1st-level spell slot, allowing you to alter your appearance in minor ways.
+
+
+Limitations: The Hat of Disguise can only alter your appearance within the bounds of a humanoid creature of your size and general shape. The changes must be within the limits of the "Disguise Self" spell, and the hat cannot be used to mimic specific individuals or creatures.
+
+
+Attunement: To attune to the Hat of Disguise, you must spend a short rest concentrating on the hat's magical nature and attuning to its transformative abilities.
+
+
+The Hat of Disguise provides a valuable tool for infiltration, deception, and espionage. With its power to alter appearance and blend in with different crowds, it offers the wearer the ability to assume a variety of identities, allowing for creative solutions to challenges and interactions.
+
+
+
+
+
+
+“Boots of the Winterlands”
+
+
+Wondrous Item, uncommon (requires attunement)
+
+
+These rugged boots are lined with fur and adorned with intricate frost-themed patterns. While wearing the Boots of the Winterlands, you feel an increased resilience to the harsh conditions of icy and snowy terrain.
+
+
+Cold Resistance: While attuned to the Boots of the Winterlands, you gain resistance to cold damage.
+
+
+Icy Tread: You have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks made to navigate icy or slippery terrain.
+
+
+Endure Elements: Once per long rest, you can use a bonus action to activate the boots' enchantment. For the next 8 hours, you and your equipment are protected from the harmful effects of extreme cold temperatures, including freezing weather and icy environments.
+
+
+Attunement: To attune to the Boots of the Winterlands, you must spend a short rest embracing their wintry magic and attuning to their protective qualities.
+
+
+These boots are a practical and functional addition to a character's arsenal, especially in cold climates or icy terrains. Their cold resistance, enhanced mobility, and ability to endure harsh weather make them a reliable choice for adventurers who frequently find themselves in frosty landscapes.
+
+
+
+
+
+
+“Scroll of Spirit Guardians”
+
+
+Scroll, Rare
+
+
+This ancient parchment bears intricate runes and ethereal motifs, hinting at its potent magical nature. When unfurled, the Scroll of Spirit Guardians emanates a faint glow, as if infused with the essence of protective spirits. To harness its power, a spellcaster must be proficient in the use of the spell contained within.
+
+
+Spell Description: Spirit Guardians
+
+
+The Scroll of Spirit Guardians holds the key to invoking a powerful protective spell known as "Spirit Guardians." When the spell is cast, the surrounding area becomes suffused with ethereal, radiant energy, summoning spectral protectors to aid the caster in battle.
+
+
+Casting Time: 1 action
+
+
+Range: Self (15-foot radius)
+
+
+Duration: Concentration, up to 10 minutes
+
+
+Components: The scroll itself serves as the material component for casting the spell.
+
+
+Casting the Spell from the Scroll:
+
+
+To unleash the might of the Spirit Guardians, a spellcaster must follow these steps:
+
+
+1. Reading the Scroll: The caster unfurls the Scroll of Spirit Guardians and begins to intently read the arcane inscriptions. As the spellcaster reads the words aloud, the scroll crumbles to dust, channeling its essence into the caster's mind.
+
+
+2. Focus and Intent: The spellcaster must concentrate on the spectral protectors they wish to invoke, envisioning their ethereal presence surrounding them.
+
+
+3. Summoning the Guardians: Upon completing the incantation, the area within a 15-foot radius of the caster becomes a radiant domain, filled with shimmering, guardian spirits. These specters resemble ethereal warriors, divine messengers, or other sacred beings, according to the caster's beliefs.
+
+
+4. Protective Aura: The Spirit Guardians bestow a protective aura upon the caster, granting them advantages in the midst of battle. Any creature hostile to the caster that enters the area or starts its turn there must make a Wisdom saving throw against the spell's save DC. On a failed save, the creature takes radiant damage, while those who succeed take half damage.
+
+
+5. Allies' Resilience: The caster's allies within the radius are shielded by the benevolent spirits, as they are unaffected by the guardians' aura. They can move freely through the area without fear of harm.
+
+
+6. Maintaining Concentration: The spellcaster must maintain concentration on the spell to keep the Spirit Guardians active. While concentrating, they can control the guardians' movements, directing them to aid in battle or protect against foes.
+
+
+Effectiveness and Limitations:
+
+
+The Spirit Guardians spell provides a formidable defense, dealing radiant damage to enemies and hindering their progress while offering a sanctuary for allies. However, as with all concentration spells, the caster must remain focused on maintaining the spell's effect, lest it dissipate prematurely.
+
+
+Additional Notes:
+
+
+The power within the Scroll of Spirit Guardians is not infinite. Once its spell has been invoked, the scroll dissolves into faint, luminous ashes, marking its use. However, it leaves the caster with the newfound knowledge of the Spirit Guardians spell, which can be further mastered through practice and experience.
+
+
+Armed with this scroll's mystical prowess, the caster gains the ability to summon an army of spectral defenders, transforming the tide of battle in their favor. As the radiant guardians stand firm in the face of darkness, the scroll's true worth is revealed, offering a potent weapon to safeguard the caster and their allies against any malevolent force that dares to challenge them.
+
+
+“Cloak of Displacement”
+
+
+Wondrous Item (cloak), rare (requires attunement)
+
+
+This finely crafted cloak is woven from shadowy threads, and it grants the wearer the ability to manipulate their appearance in combat, making it difficult for enemies to land precise attacks. While wearing the cloak, attackers have disadvantage on attack rolls against the wearer.
+When the wearer is attacked, the cloak's magic causes them to seem to be standing in a slightly different position, making it challenging for attackers to predict their movements. This effect makes it significantly harder for enemies to strike accurately.
+
+
+Attunement to the cloak requires a creature to focus on its magic for a short rest, allowing them to attune to its protective properties.
+
+
+The Cloak of Displacement can be a valuable asset for the necromancer, providing them with an extra layer of defense against attacks and helping them to maintain control of the battlefield.
+
+
+
+
+“Scroll of Speak with Dead”
+
+
+Scroll, Uncommon
+
+
+This weathered scroll bears faded glyphs and ancient script, evoking a sense of mystique and reverence. As you carefully unroll the parchment, a faint aura surrounds it, emanating an ethereal presence. The Scroll of Speak with Dead holds within it the knowledge to cast the powerful spell known as "Speak with Dead," allowing the caster to communicate with the departed and glean invaluable insights from their spirits.
+
+
+Spell Description: Speak with Dead
+
+
+The Scroll of Speak with Dead grants the caster the ability to invoke the potent spell "Speak with Dead," a mystical connection to converse with the spirits of the deceased. To successfully cast the spell, the wielder must be proficient in the art of the arcane, as detailed within the scroll.
+
+
+Casting Time: 1 action
+
+
+Range: 10 feet
+
+
+Duration: 10 minutes
+
+
+Components: The scroll serves as the material component required for casting the spell.
+
+
+Casting the Spell from the Scroll:
+
+
+To establish a connection with the departed, the spellcaster must follow these steps:
+
+
+1. Reading the Ancient Text: The caster begins by intently reading the ancient text on the Scroll of Speak with Dead. As the words are spoken aloud, the scroll resonates with spiritual energy, bridging the gap between the living and the deceased.
+
+
+2. Focusing on the Deceased: The caster concentrates on a deceased creature within 10 feet of them, forming an empathetic bond with the spirit lingering beyond the veil of death.
+
+
+3. Summoning the Ethereal Presence: As the incantation reaches its crescendo, a spectral aura envelops the remains of the deceased, indicating that the connection has been established.
+
+
+4. Questions and Insights: The caster can now ask up to five questions of the spirit, seeking knowledge or answers related to the deceased's life or the circumstances of their death. The spirit responds in a language it knew in life, providing the information it possesses, though it may not be fully aware of events occurring after its death.
+
+
+5. Respecting the Spirits: The spirits may be evasive or cryptic in their responses, especially if the questions concern sensitive matters or are asked in a hostile manner. The caster must treat the deceased with respect, as the spell does not compel them to answer truthfully.
+
+
+Effectiveness and Limitations:
+
+
+Speak with Dead serves as a powerful tool for gathering intelligence and solving mysteries related to the deceased. However, the spell only works on a corpse that has not been dead for more than 10 days, and the spirit must have an intact mouth for the spell to be effective. Additionally, the caster must be mindful of the time limit, as the spell's effects last for only 10 minutes.
+
+
+Additional Notes:
+
+
+With each casting, the Scroll of Speak with Dead dissipates into faintly glowing remnants, revealing the spell's enduring nature within the caster's memory. This knowledge enables the wielder to employ the Speak with Dead spell beyond the scroll's physical form.
+
+
+The Scroll of Speak with Dead bestows a rare and sacred gift upon its possessor, granting the power to converse with those who have passed beyond the realm of the living. Whether seeking to uncover forgotten truths, solve unsolved mysteries, or honor the memories of those who have departed, this ancient scroll unlocks the door to the past and fosters a connection between the living and the deceased, offering the wisdom and insights of the afterlife to those who dare to seek it.
+
+
+“Ring of Protection”
+“Cape of Mountebank”
+“Boots of Elvenkind”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Encounter Table
+1–2
+	1–3
+	Stirges (1d8 + 2)
+	—
+	4
+	Ghouls (1d4 + 1)
+	3–4
+	—
+	Ogre (1)
+	5–6
+	5
+	Goblins (1d6 + 3)
+	7–8
+	6
+	Hobgoblins (1d4 + 2)
+	9–10
+	7–8
+	Orcs (1d4 + 2)
+	11
+	9–10
+	Wolves (1d4 + 2)
+	12
+	11–12

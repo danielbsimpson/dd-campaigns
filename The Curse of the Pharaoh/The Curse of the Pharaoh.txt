@@ -1,0 +1,887 @@
+﻿The Curse of the Pharaoh
+
+
+Story Outline:
+Act 0: Woodvost
+* A group of foreign-looking merchants approaches the adventuring party, their colorful silken robes billowing in the breeze. They lead camels and mules laden with exotic goods—gleaming trinkets, strange spices, and peculiar artifacts. Their faces are shadowed beneath wide-brimmed hats, and their eyes gleam with curiosity. One merchant steps forward, his accent thick and unfamiliar, offering a friendly, but cautious, smile. The faint jingling of coins and clinking of glass can be heard as they approach, the air filled with the scent of foreign spices and incense.
+
+
+Amunet, Kasir and Nadir are the three travelers. They ask for their great city of Saqaar to be saved.
+
+
+Act 1: City of Saqaar
+1. Introduction: The adventurers arrive in the great city of Saqaar, a city built in the remains of an ant hive the size of a mountain, carved out of the bedrock by giant ants long since gone. The city is a marvel of ancient engineering, with winding tunnels, grand halls, and intricate carvings.
+2. Inciting Incident: Saqaar is struck by a series of unnatural sandstorms, believed to be the wrath of the undead pharaoh, Seti, who has awakened and seeks his lost artifact, the Ankh of Eternity.
+3. Main Quest Assignment: The adventurers are hired by the city's ruling council to find the Ankh and stop the pharaoh's curse. They receive information about ancient ruins in the desert that might hold clues to the artifact's location.
+4. Side Quests:
+   1. The Lost Caravan
+   2. The Scarab Cult’s Plan
+   3. The Missing Explorers
+Act 2: The Desert Journey
+1. Desert Challenges: The adventurers traverse the harsh desert, facing extreme heat, sandstorms, and encounters with desert creatures such as giant scorpions, sand elementals, and wandering spirits.
+2. The Mysterious Jinn: A Jinn appears in their desert journey, alluding to a mysterious item that they will need in the future, and forces them to go one by one in a maze, building on each other’s paths. Each player gets to take 5 turns (150ft) before they are transported back outside the maze, taking a bit of health damage, and either being replaced by the next player in line or allowing the next player to enter the maze. The players must determine the order in which they’ll go and must communicate whether they want to be replaced or enter from the beginning.
+3. Ancient Ruins: They discover ancient ruins with hieroglyphs detailing the location of Seti's tomb. They must defeat the Djinni to read the hieroglyphs that detail where the Tomb of Seti is located.
+4. Gynosphinx’s Colosseum: On the way to Seti’s tomb a mysterious sand storm will once again befall the party. Once the sand storm has let up, they realize they are now standing in an ancient colosseum, with a Gynosphinx watching from above. The Gynoshinx declares that they will fight for his amusement and must defeat 3 waves of enemies, before fighting the Gynoshinx, or convincing the Gynosphinx they are worthy to go on their way.
+Act 3: The Tomb of Seti
+1. Outside the Tomb: The adventurers are met with their first battle outside the tomb entrance. A Couatl waits at the entrance, trying to convince the party that their deeds are not for the greater good and they must turn back. They can avoid a fight with the Couatl, but it does not wish to disclose too much information for fear of angering the gods. The key to convincing the Couatl is to mention the Jinn that visited and bestowed the first piece of the sundial to them in the desert.
+2. Entering the Tomb: the adventurers must navigate the tomb to find the lower level, facing various creatures on the way.
+3. Final Confrontation: They confront Seti's spirit and his loyal undead servants. An epic battle commences where they fight Seti in the lower chamber. Upon defeating his spirit another piece of the sundial of Ra is uncovered.
+4. Resolution: After laying Seti’s spirit to rest for good, they return to Saqaar, having lifted the curse, and are celebrated as heroes. However, their victory is short-lived as they learn that Seti's return has set in motion a greater prophecy.
+Act 4: The Prophecy Unfolds
+1. New Threat: The adventurers discover that the pharaoh's awakening has triggered the return of the god Anubis, who will bring about an age of darkness. They learn this through visions granted by the pieces of the Sun Dial of Ra, one from the Jinn, another from Seti’s tomb.
+2. Ra’s Sundial: To prevent Anubis's return, they must travel to the Temple of Time at the heart of the desert and perform a ritual using the Sundial of Ra. They receive guidance from the priests of Ra, but first must find the remaining 3rd piece of the Sundial.
+3. Travel to the Androsphinx’s Oasis: They learn from the Priests of Ra that the Sundial was rumored to be protected by an Androsphix in a desert Oasis. They must travel through the desert to find the Androsphinx’s Oasis and retrieve the final piece of the Sundial.
+Act 5: Androsphinx & The Lost City
+1. The Androsphinx: The adventurers must face the Androsphinx by traversing his tomb and maze. Upon defeating the Androsphinx, they learn that the temple of time’s location is only revealed to those who are able to complete the trials of the Lost City of Thoth. The Androsphinx’s layer also contains the last piece of Ra’s Sundial.
+2. Lost City of Thoth: The adventurers must complete a series of puzzles and tasks to gain the location of the Temple of Time.
+   1. The Sphinx’s Riddles
+      1. Riddle 1: “I am not alive, but I grow. I don’t have lungs, but I need air. I don’t have a mouth but I can drown. What am I?” - Fire
+      2. Riddle 2: “The more you take, the more you leave behind. What am I?” - Footsteps
+      3. Riddle 3: “I can fly but have no wings. I can cry but have no eyes. Wherever I go, darkness follows. What am I?” - A cloud
+      4. Riddle 4: “I am the beginning of everything, the end of everywhere. I’m the beginning of eternity, and the end of time and space. What am I?” - The letter E
+      5. Riddle 5: “At night they come without being fetched, and by day they are lost without being stolen. What are they?” - Stars
+      6. Riddle 6: “I am invisible, weigh nothing, and if you put me in a barrel, it becomes lighter. What am I?” - A hole
+   2. The Chess Board - The players are to step on the board at one end of the chess board. They will take turns moving, but where they started determines the piece they are ‘supposed’ to be. If they move incorrectly, they will take damage and then be placed back on the square they previously inhabited.
+   3. The Timed Door - Once they enter the room after the chessboard, the door behind them shuts. Once they enter the room a little more, a magical countdown starts and the door in front of them locks. They will step on a stone that resets the magical timer. There are various distractions like instruments in a corner and random symbols on the wall. The task is complete when they avoid stepping on the stone, allowing the magical timer to go all the way down, opening the door in front of them.
+Act 6: Lost City of Thoth
+1. Entering the Temple: The adventurers navigate through the Temple of Time, where time itself is a puzzle. They must use the Sun Dial of Ra to manipulate time and overcome various obstacles. As they progress, they feel the growing presence of Anubis, indicating his impending arrival.
+2. The Failed Ritual: As they reach the inner sanctum, they realize they are too late. The high priest has already completed the ritual to summon Anubis. The god of the underworld begins to materialize, his power growing with each passing moment.
+3. Final Confrontation: The adventurers face Anubis, the god of the underworld, in a climactic battle. They must use all their strength, skills, and the Sun Dial of Ra to combat his divine powers. Anubis commands legions of undead and wields powerful necromantic magic. The adventurers must find a way to weaken him, perhaps by targeting the high priest or disrupting the remaining elements of the ritual.
+4. The Battle's Turning Point: As the battle rages on, the adventurers discover a way to turn the tide. By using the Sun Dial of Ra, they can momentarily trap Anubis in different points in time, weakening his connection to the mortal realm. This gives them the opportunity to land critical blows.
+5. Victory and Aftermath: After a grueling fight, the adventurers manage to defeat Anubis, banishing him back to the underworld. The temple crumbles around them as the temporal distortions settle. They escape just in time, emerging victorious.
+6. Resolution: With Anubis defeated and the prophecy averted, time stabilizes, and the adventurers return to Saqaar, hailed as saviors. The city and the desert are safe once more, and the adventurers are celebrated as legends. The Sun Dial of Ra is placed in a secure location, guarded by the priests to ensure it is never misused again.
+Act Misc: Town of Zarhira
+Merchant town on the north western side of the great desert. 
+Act 1: The Awakening
+City of Saqaar
+Verbal Description
+As you approach the city of Saqaar, you are greeted by a sight unlike any other. Before you rises a colossal structure, an ancient ant hive the size of a mountain, carved meticulously with bedrock by long-gone giant ants. The hive's exterior is a maze of tunnels and chambers, hinting at the vast, intricate network within. Two smaller hives can be seen in the shadow of the central colossal.
+Centuries ago, the giant ants vanished, leaving behind a treasure trove of gems, gold, and even mithril in the tunnels they created. Explorers, lured by tales of these riches, delved into the hive's depths. They discovered a vast underground lake teeming with strange fish far below the surface. At that time, giant aphids still roamed the lower tunnels, their nectar unharvested, a relic of the ants' bygone era.
+In time, the local rulers sent an army to occupy the hive, establishing a thriving city within its vast halls. Over the centuries, Saqaar grew into a mighty empire, with the city council residing at the central hive's peak, ruling over all beneath them. At that time the city was a great empire, ruling over fast stretches of land, forever growing their territory. The three cities hives, with Saqaar as the governing body and center of power, ruled over the desert and land to the west as far as the merchants could travel.
+Centuries passed and the great empire crumbled under the weight of its own power, but still the central city of Saqaar thrives to this day, a center of trade and commerce at the edge of a vast desert.
+The air is thick with the scent of spices and the hum of activity, as merchants, scholars, and adventurers bustle through the hive's grand entrance. Welcome to the ancient city of Saqaar.
+As you are led to the grand entrance by your escort, a frantic merchant approaches.
+‘You all look very capable and I heard of the call to arms by the city council, surely you are here for that and surely you can help me. Please oh please I can’t be ruined by this.’
+Buildings
+Royal Council
+Task: Where the adventurers can progress the main quest.
+
+
+Description
+A large hall with a central cut out in the ceiling and statues surrounding one half of the circular cut out. You can see that the central cut out is in fact a balcony with any number of council members lingering about, listening, waiting. You cannot see anyone, but you can hear the shuffling and mumbled speech of the council before you. You take your stance among the statues and speak with the council directly.
+They speak as one, but each time a different person speaks. They tell you of the plagues and sandstorms that have hit Saqaar, the rumors of the return of Pharaoh Seti, and plead for your assistance. They will reward you handsomely and give you residency in Saqaar.
+Temple of Ra
+Task: Learn of the Sun Dial of Ra, the mysterious visions.
+
+
+Description
+The Temple of Ra stands as a solemn and revered structure, its sandstone walls adorned with intricate carvings depicting ancient deities and sacred symbols. Inside, the air is cool and filled with the scent of incense, as soft chants resonate through the high-vaulted ceilings, inviting those who enter to seek wisdom and peace.
+
+
+Imam Zakariya al-Masri is a wise and elderly man, deeply respected by the community for his knowledge of ancient texts and spiritual guidance. He has a calm demeanor and a deep, resonant voice that commands attention. The adventurers can seek his counsel on spiritual matters, local legends, or even ask for blessings before venturing into the unknown. Imam Zakariya is known for his extensive knowledge of the history and mysteries surrounding the city, which could prove invaluable.
+Market
+Task: Buy goods, unlock cheaper goods with Nazir when completing The Lost Caravan quest.
+
+
+Description
+The market buzzes with life in the heart of Saqaar, a vibrant array of colorful stalls lined with exotic spices, shimmering fabrics, and handcrafted wares. The scent of fresh produce mingles with the sound of lively bartering, as merchants and buyers haggle under the warm desert sun.
+
+
+Fatima bint Rashid is a shrewd and charismatic merchant who runs one of the busiest stalls in the market. She sells an eclectic mix of goods, from exotic spices to rare artifacts. Fatima is well-connected and always has her ear to the ground, making her a valuable source of information about the city's latest events and gossip. Her sharp wit and keen business sense make her a formidable negotiator, but she's also known to be fair to those who show her respect.
+
+
+(Unlock in Quest) Nazir ibn Yusuf is a jovial and well-traveled merchant who brings the wonders of distant lands to the bustling market of Saqaar. His stall is a vibrant display of treasures from across the world, featuring everything from finely woven carpets to rare herbs and spices, and even peculiar trinkets with stories of their own. Nazir’s infectious laughter and warm demeanor make him a beloved figure among the market-goers, always eager to share tales of his latest journey or the origins of his goods.
+Nazir is known for his kindness and genuine interest in the well-being of his customers. He greets everyone with a broad smile and a hearty handshake, making each visit to his stall a pleasant experience. Despite his love for haggling, he is fair and often throws in a little extra for loyal customers or those who simply bring him joy. His deep knowledge of the world and the goods he sells makes him a trusted source for both rare items and fascinating stories, making his stall a must-visit for anyone passing through the market.
+
+
+Shisha Lounge
+Task: Learn of the Cult of the Scarabs and Lost Explorers.
+
+
+Description
+Nestled under a canopy of woven reeds, the Shisha Lounge offers a respite from the heat, with low cushions and ornate hookahs placed around. The air is rich with the fragrant smoke of flavored tobacco, and the relaxed murmur of conversation fills the open-air space as locals and travelers unwind together.
+
+
+Hassan al-Karim is the friendly and outgoing owner of the Shisha Lounge, where locals and travelers alike come to unwind and share stories. He is a master storyteller and has a wealth of knowledge about the city's history and current happenings. Hassan has a knack for making people feel at ease, and he's always willing to share a tale or two with those who ask. His connections with both the common folk and the elite make him a crucial link for gathering local rumors and intelligence.
+Turkish House
+Task: Learn of the Cult of the Scarabs.
+
+
+Description
+The Turkish House beckons with its warm, inviting glow, a place where the smell of roasting meats and the clinking of glasses mix in the cozy, dimly lit tavern. Inside, wooden beams and intricate tilework create an intimate setting, perfect for sharing stories over a drink.
+
+
+Yusuf ibn Farid is the proprietor of the Turkish House, a cozy establishment where patrons can enjoy a drink and lively conversation. He is a jovial man with a hearty laugh, always ready to welcome newcomers with a warm smile. Yusuf is also a former adventurer, and while he’s left that life behind, he enjoys reminiscing about his past exploits. He might share useful advice or stories that could hint at hidden dangers or opportunities in the city.
+Tea House
+Task: Find a room for the night.
+
+
+Description
+The Tea House offers a peaceful retreat from the bustling city, its modest exterior giving way to a quiet, welcoming interior. Simple yet comfortable, it provides travelers with a place to rest and recharge, the scent of fresh tea and the promise of a soft bed making it a haven for the weary
+
+
+Layla al-Saleh is the graceful and attentive owner of the Tea House, a serene retreat for weary travelers. She is known for her hospitality and the soothing atmosphere of her establishment. Layla is a keen observer of people and has a subtle way of gathering information from her guests, which she can share with those she trusts. She offers more than just a place to stay; she provides comfort and wisdom to those in need, and her gentle nature makes her a trusted confidante.
+School of Ancient Knowledge
+Task: Learn of the lost explorers.
+
+
+Professor Amara runs the School of Ancient Knowledge, educating all students who are interested, while also running exploration and excavation sites around the ancient desert. She is in distress as a team of explorers has recently gone missing in a nearby termite mound. 
+
+
+
+
+Side Quests
+1. The Lost Caravan
+1. Introduction: As the adventurers approach the base of Saqaar, they are met by a distressed merchant named Nazir. His caravan, carrying valuable goods, has gone missing in the desert outskirts. Nazir desperately pleads for their help, offering a substantial reward for the safe return of his goods and any survivors.
+2. The Merchant's Plea: Nazir explains that the caravan was en route to Saqaar from a nearby oasis town Zarhira when it vanished. He fears that bandits or desert creatures may have attacked it. The goods include rare spices, silks, and a mysterious artifact that Nazir traded tomb raiders for on his travels. He speculates that the artifact is a power ring. He is willing to part with this artifact if only the party is able to return his wagon of goods. If the party is not interested in the artifact, he is willing to pay for their troubles.
+Steps to Complete the Quest
+1. Gathering Information: The adventurers can start by questioning Nazir. They learn the approximate route the caravan took and any peculiar details about the journey or the goods they were carrying.
+2. Tracking the Caravan: The adventurers set out into the desert, following the directions from Nazir. They must use their tracking skills to find signs of the caravan's passage, such as wheel tracks, discarded items, or signs of a struggle.
+3. Desert Hazards: Along the way, the adventurers face the harsh realities of the desert. They encounter extreme heat, sandstorms, and possibly hostile wildlife, see creature encounter below.
+4. Bandit Ambush: As they get closer to the last known location of the caravan, the adventurers are ambushed by a group of bandits. After a tough battle, they can capture a bandit who reveals that they attacked the caravan and took some of the goods to their hideout, or they can use their tracking abilities to follow the bandits' tracks to their camp.
+5. Rescue Mission: The adventurers track the bandits to their hideout, a hidden cave or an abandoned ruin in the desert. Inside, they find some of the stolen goods and a few surviving members of the caravan. They must defeat the bandits and rescue the survivors.
+6. Desert Creatures: On their way back, the adventurers encounter a new threat: desert creatures drawn by the scent of the goods or the survivors. They must protect the survivors and the goods from these attacks.
+Resolution
+1. Return to Saqaar: With the rescued survivors and recovered goods, the adventurers return to Saqaar. Nazir is overjoyed and rewards them handsomely with 100 gold and a magic ring.
+2. Aftermath: The grateful survivors spread tales of the adventurers' bravery, enhancing their reputation in Saqaar. Nazir becomes a valuable ally, offering them discounts on goods or information about other potential quests.
+Relevant Characters
+Nazir - Distressed merchant who is looking for anyone to help him at the Saqaar city gates. He desperately needs someone to retrieve his goods, as his wagon has not arrived and has been missing for a few days. 
+
+
+Creatures to encounter
+
+
+Thug
+	CR - 1/2
+	Death Knight
+	CR - 17
+	Knight
+	CR - 3
+	Veteran
+	CR - 3
+	Half-Red Dragon Veteran
+	CR - 5
+	Gladiator
+	CR - 5
+	Assassin
+	CR - 8
+	
+
+Reward
+Nazir gifts them with a special ring: Ring of Fire Elemental Command
+2. The Scarab Cult's Plan
+1. Introduction: The adventurers hear whispers in the market about a secretive cult worshiping giant scarabs. Recently, the cult's activities have increased, causing concern among the city's rulers.
+2. The Cult's Motive: Further investigation reveals that the cult believes in a prophecy that the return of the giant ants will bring about a new era of prosperity and dominance for their followers. They are searching for a legendary queen ant egg, believed to be hidden deep within the ancient hive, to hatch and revive the giant ant colony.
+3. The Mission: The adventurers are to infiltrate the cult, uncover their plans, and stop them from finding and hatching the queen ant egg.
+Steps to Complete the Quest
+1. Gathering Information: The adventurers start by gathering information about the cult. They learn that the cult operates out of hidden chambers in the lower levels of the uninhabited western most hive.
+2. Infiltrating the Cult: Disguised as cult sympathizers or invite or through stealth, the adventurers infiltrate the cult's hideout. They witness rituals dedicated to the scarabs and overhear plans to search for the queen ant egg.
+3. Discovering the Plan: Through careful observation and interrogation of captured cult members, the adventurers learn that the cult has found clues leading to the location of the queen ant egg. They also discover the cult's leader is a mage, a fanatical priest who believes in the prophecy.
+4. Race to the Egg: The adventurers must navigate the treacherous tunnels of the hive, facing traps, ancient guardians, and possibly remnants of giant ants. They need to reach the egg before the cult does.
+5. Confrontation: In a dramatic showdown, the adventurers confront the cult's leader and his most loyal followers near the chamber containing the queen ant egg. The leader attempts to perform a dark ritual to hatch the egg, summoning giant scarabs to aid him.
+6. Stopping the Ritual: The adventurers must defeat the cultists and disrupt the ritual, preventing the hatching of the queen ant egg. They might have to destroy the egg or find another way to ensure it remains dormant forever.
+Resolution
+1. Victory: With the cult defeated and the queen ant egg secured, the adventurers return to the city's rulers. They are rewarded for their bravery and efforts in saving Saqaar from potential destruction.
+2. Aftermath: The cult's remaining members scatter, and the adventurers are hailed as heroes. The city experiences a period of peace, and the threat of the giant ants is averted. The adventurers might also discover hidden treasures or ancient knowledge during their quest, adding to their renown and resources.
+Relevant Characters
+Bartender 1 - 
+Bartender 2 - 
+
+
+Creatures to encounter
+
+
+Giant Spider
+	CR - 1
+	Cult Fanatic
+	CR - 2
+	Phase Spider
+	 CR - 3
+	Mage
+	CR - 6
+	Darkmantle
+	CR - 1/2
+	
+
+Reward
+The high priest mage has a magical staff the players can find. Each mage priest also has a Candle of Invocation.
+
+
+3. The Missing Explorers
+1. Introduction: Upon their arrival in Saqaar, the adventurers learn that a group of scholars studying the hive's history has gone missing. The scholars were last seen exploring deeper, uncharted sections of the hive, and their disappearance has caused great concern among the city's academic circles.
+2. Call to Action: The city's head historian, Professor Amara, urgently requests the adventurers' help in finding the missing scholars. She explains that these scholars were on the verge of a significant discovery related to the ancient civilizations that inhabited the city eons ago.
+The players will be faced with a sequence of puzzles while going deep into the depths of nearby hives. The tunnel has the Echo Hall, a large abyss, and rooms filled with statues. Each of these are a task the players must complete, all the while seeing hints that the historians also went this path.
+The Echoing Hall
+Description: In a long, echoing hallway, the players find that certain sounds cause vibrations in the walls, revealing a hidden passageway.
+
+
+Task: The players must play the harmonic minor scale to unlock a hidden door or when playing the wrong notes, the chamber will slowly start to fall apart, collapsing in on itself unless deactivating the trap with the proper melody.
+
+
+Hint of Historians: The players find an old broken lute, and a piece of paper suggesting the scholars attempted to play the Major scale but got it wrong. A note could describe the eerie, increasing note sequence and the enchanting effect it had on the surrounding chamber, as if calming it and opening the door.
+
+
+The Bridge over the Abyss
+Description: The players arrive at the edge of a vast abyss. There's no visible way to cross, but they notice faint traces of energy and markings on the floor that suggest a hidden mechanism.
+
+
+Task: The players must activate a series of pressure plates scattered around the edge of the abyss in the correct order. Each plate, when stepped on and when using the same notes from the echoing hall, creates a temporary and invisible section of the bridge. If stepped on incorrectly, the bridge pieces disappear.
+
+
+Hint of Historians: They might discover remnants of rope or a grappling hook, suggesting the scholars attempted a different, possibly more dangerous method to cross.
+
+
+The Room of Statues
+Description: As the players venture deeper into the hive, they come across a dimly lit chamber filled with an aura of ancient power. Six towering statues, each depicting a figure from mythology, stand in a circle. These statues, covered in dust and etched with timeworn symbols, represent ancient deities or warriors. However, the statues seem to have been moved or rotated out of their original positions, leaving the room's true purpose a mystery.
+
+
+Task: The players must determine the correct orientation and interaction with the statues to unlock the chamber's secrets. The solution involves rotating the statues to face specific directions or towards each other, based on their associated myths and the symbols engraved upon them.
+
+
+The Statues
+
+
+Statue
+	Symbol
+
+
+	Weapon
+	Clue
+	Statue of Shamash (God of the Sun)
+	A sun disk engraved on his chest.
+	Holds a rod and ring, symbols of justice.
+	Should face east, towards the rising sun, symbolizing the dawn of justice and the beginning of the day.
+	Statue of Nergal (God of War and the Underworld)
+	A lion or a scythe engraved on his base.
+	Holds a scythe, symbolizing death and the underworld.
+	Should face west, towards the setting sun, symbolizing the end of life and the coming of night.
+	Statue of Sin (God of the Moon)
+	A crescent moon engraved on his forehead.
+	Holds a horned helmet, symbolizing the crescent moon.
+	Should face north, symbolizing the night sky where the moon resides.
+	Statue of Ishtar (Goddess of Love and War)
+	A star or lion engraved on her armor.
+	Holds a bow and arrows, symbols of her dual nature as both a lover and a warrior.
+	Should face Nergal (God of War and the Underworld), her partner in the mythology, symbolizing the union of war and passion.
+	Statue of Ea (God of Water and Wisdom)
+	A flowing river engraved on the base.
+	Holds a vase pouring water, symbolizing the life-giving properties of water and wisdom.
+	Should face south, towards the waters, representing the origin of life and wisdom.
+	Statue of Marduk (God of Creation and Storms)
+	A dragon or thunderbolt engraved on his chest.
+	Holds a thunderbolt, symbolizing his power over storms and creation.
+	Should face Shamash (God of the Sun), symbolizing the power of creation and light working together.
+	
+
+Androsphinx Statue Chamber
+In the final chamber the players will encounter the 4 explorers sleeping in a chamber with a statue in one corner of an Androsphix. Upon entering the parameter of the Androsphinx, the statue’s eyes will lock onto a player and they must make a Constitution saving throw (DC 13), otherwise they too will fall asleep.
+The statue is almost indestructible, but the players can disable the statue by stepping on the two pressure plates and playing the harmonic minor scale.
+
+
+Reward
+In the chamber of the Androsphinx Statue they will find a magical shield.
+Professor Amara also gifts you with a scroll of heal spell and gold (14g per rescued professor).
+
+
+
+
+Investigate the Statues
+The players must carefully examine the statues, focusing on the symbols engraved on them and their positioning in relation to each other. Players can make an Intelligence (Religion) or Wisdom (Perception) check (DC 14) to understand the significance of the symbols and identify which direction each statue should face.
+* Success: The players correctly identify the deities represented by the statues and the directions or orientations they should face based on the myths.
+* Failure: The players misinterpret the symbols or myths, potentially facing the statues in the wrong direction.
+
+
+
+
+Hint of Historians: As they explore the room, the players find the remains of a previous expedition—scattered notes, a partially completed journal, and marks on the floor near the statues. Players can make an Intelligence (Investigation) check (DC 12) to decipher the scholars' work and glean clues about the correct sequence.
+* Success: 
+You find a worn journal near the base of one of the statues, the pages filled with cryptic notes: 'Shamash faces the dawn, and Nergal the dusk... but the others, we could not align. Beware the wrath of misplaced gods.' Scratch marks on the floor suggest someone else tried to solve this puzzle.
+* Failure: The players struggle to make sense of the scholars' notes, leading to confusion about which statues should face each other or specific directions.
+
+
+
+
+
+
+
+
+
+
+Act 2: The Desert Journey
+
+
+The Desert
+Verbal Description
+As you leave the towering city of Saqaar and step into the vast desert, the contrast is stark and immediate. The bustling sounds of the city fade into the background, replaced by the haunting silence of the endless sands. The sun blazes overhead, its relentless heat beating down on you, causing mirages to dance on the horizon. The dunes stretch out in every direction, an ocean of golden waves. The only landmarks are the occasional jagged rock formations and the distant, shimmering heat waves. An unforgiving landscape lays out ahead of you.
+The wind picks up, carrying grains of sand that sting your skin and obscure your vision. The vastness of the desert is both awe-inspiring and intimidating, a reminder of what lies ahead.
+
+
+Desert Travel Rules
+Traveling the Desert
+* For every 5 miles the players travel in the lower desert, you’ll roll a d20 for potential events:
+   * 1-7: No encounter (but other effects may apply, like dehydration or disorientation).
+   * 8-14: Environmental hazard (mirage, heat exhaustion, sandstorm, or food/water scarcity).
+   * 15-20: Creature encounter.
+
+
+* For every 5 miles the players travel in the upper desert, you’ll roll a d20 for potential events:
+   * 1-12: No encounter (but other effects may apply, like dehydration or disorientation).
+   * 13-17: Environmental hazard (mirage, heat exhaustion, sandstorm, or food/water scarcity).
+   * 18-20: Creature encounter.
+Creature Encounter
+* If players roll a creature encounter, you can roll for type, level, and number of creatures.
+   * Creature Type/Level (d12 for lower desert travel, d10 for upper):
+      * If a draw roll a d2 with the higher being a 2 
+   * Number of Creatures (d6 for upper, d10 for lower):
+      * Roll a d6/d10, with the result determining the number of creatures.
+      * If CR is above 10, then roll a d4/d8
+      * If CR 15 then don’t roll        
+
+
+Dust Mephit
+	CR - 0.5 (Roll 1)
+	Mischievous elemental creatures that can blind and disorient with their dusty breath.
+	Thug
+	CR - 0.5 (Roll 1)
+	
+
+	Ankheg
+	CR - 2 (Roll 2)
+	Burrowing insect-like monsters that can spit acid and drag prey underground.
+	Giant Scorpion
+	CR - 3 (Roll 3)
+
+
+	These massive arachnids lurk beneath the sand, waiting to ambush unsuspecting travelers.
+	Desert knight
+	CR - 3 (Roll 3)
+
+
+	
+
+	Desert Veteran
+	CR - 3 (Roll 3)
+	
+
+	Giant Crocodile
+	CR - 5 (Roll 4)
+
+
+	Massive predators that lurk in desert oases.
+	Dust Devil
+	CR - 5 (Roll 5)
+	
+
+	Fire Elemental
+	CR - 5 (Roll 5)
+	
+
+	Air Elemental
+	CR - 5 (Roll 5)
+	
+
+	Cyclops
+	CR - 6 (Roll 6)
+	Huge one-eyed giants with immense strength.
+	Vrock
+	CR - 6 (Roll 6)
+	Vrocks are dull-witted, capricious fiends that live only to create pain and carnage. A vrock resembles a giant hybrid of humanoid and vulture, its gnarled, bestial body and broad wings stinking of offal.
+	Yuan-ti Abomination
+	CR - 7 (Roll 7)
+	Serpentine humanoids with potent magical abilities and physical prowess.
+	Lost Sorrowsworn
+	CR 7 (Roll 7)
+	
+
+	Assassin
+	CR - 8 (Roll 8)
+	
+
+	Howler
+	CR - 8 (Roll 8)
+	
+
+	Rot Troll
+	CR - 9 (Roll 9)
+	
+
+	Orthon
+	CR - 10 (Roll 9)
+	
+
+	Efreeti
+	CR - 11 (Roll 10)
+	Powerful fire elementals that rule over the City of Brass and are capable of granting wishes.
+	Roc
+	CR - 11 (Roll 10)
+
+
+	Enormous birds of prey that can snatch up entire elephants and would provide a formi
+dable aerial challenge.
+	Yuan-ti Anathema
+	CR - 12 (Roll 11)
+	Huge Monstrosity, Typically Neutral Evil
+	Purple Worm
+	CR - 15 (Roll 12)
+	The massive burrowing monster known as the purple worm terrorizes the creatures of the Underdark as it chews through solid rock in pursuit of prey. A dim-witted, ravenous force of nature, this creature regards anything it encounters as food.
+	
+
+Environmental Hazards
+* If an environmental hazard occurs, roll a d6 to see which one:
+   * 1: Mirage – Players need to make a Wisdom (Perception) or Intelligence (Investigation) check (DC 14) to see through it. Failure could lead them off course, adding extra miles.
+   * 2: Sandstorm – Visibility drops, and players need to make a Constitution saving throw (DC 12) to avoid exhaustion.
+   * 3: Heat Exhaustion – If the party lacks proper water or shade, they each make a DC 13 Constitution saving throw to avoid exhaustion.
+   * 4: Quick Sand – A Dexterity saving throw (DC 14) is required to avoid sinking, with Strength checks to pull out any trapped players.
+   * 5: Food Scarcity – Without enough rations, each party member makes a Constitution save (DC 15) or takes exhaustion.
+   * 6: Water Scarcity – If water is low, a d20 roll determines dehydration severity:
+      * 1-10: Players manage with rationing.
+      * 11-15: Mild dehydration (Constitution save DC 12).
+      * 16-20: Severe dehydration (Constitution save DC 15, or take exhaustion).
+Mirage Effects
+* Mirages can add interesting, illusory features to the journey, tricking players:
+   * Roll d4 to determine the mirage's impact.
+      * 1: Illusory Oasis – If they approach, they discover it vanishes.
+      * 2: False Shelter – They think they see a rock outcropping for shade, but it’s just a trick of the light.
+      * 3: Glimpse of Civilization – A distant city, temple, or even caravan, but it fades as they approach.
+      * 4: Echoes of the Past – They see figures in ancient garb walking or performing rituals in the sand, but these turn out to be ghosts or illusions.
+Resource Management
+* To keep tension high, track rations and water closely. Make d20 checks after certain events (e.g., combat, environmental hazards) to see if supplies were damaged or lost:
+   * Roll d20:
+      * 1-5: Supplies unaffected.
+      * 6-10: 1 day's worth of food or water lost.
+      * 11-15: 2 days' worth of food or water lost.
+      * 16-20: Significant loss – half of remaining supplies are damaged.
+
+
+Creatures to encounter
+The Jinn’s Maze
+One by one the party must enter the maze. Once they have traveled 150ft, they are taken out of the maze and the next hero in line is placed in the spot they left off. The Jinn then damages the player who went 150ft and was transported back. They will do this over and over again until they reach the center and retrieve the first part of Ra’s Sundial.
+The Ancient Ruins
+Verbal Description
+As you approach the ancient ruins, you are met with the sight of colossal stone pillars jutting from the shifting sands, their surfaces adorned with intricate hieroglyphs and carvings of forgotten gods. The entrance, flanked by towering statues of desert deities, stands partially buried, a testament to the passage of countless centuries. As you step closer, the faint whisper of the wind through the ruins seems to carry the echoes of an ancient civilization's prayers and curses.
+
+
+Entrance and Outer Structure
+The ruins are half-buried in the shifting sands of the desert, with towering pillars and crumbling stone walls covered in ancient hieroglyphs. The entrance is marked by colossal statues of desert gods, their features weathered but still imposing.
+Historical Significance
+These ruins belonged to a civilization that revered the gods of the desert, particularly Ra, Anubis, and Sekhmet. 
+Hieroglyphs and Inscriptions: The hieroglyphs detail the history and beliefs of the civilization, including their efforts to appease Seti and bind his spirit to his tomb. They also mention the curse that will befall anyone who disturbs his rest.
+
+
+Key Features and Challenges
+1. Hieroglyphic Clues: In the central chamber, the adventurers find detailed hieroglyphs that describe the exact location of Seti's tomb.
+2. Mummy Guardians: The ruins filled with cursed mummies.
+3. The Djinni: At the heart of the ruins, a Djinni awaits with mummy body guards. The players can attempt to reason with the Djinni to let them see the hieroglyphics, or they can fight.
+Reward
+Location of Seti’s tomb along with a magical ring found in the inner chamber after defeating the Djinni.
+
+
+
+
+Gynosphinx’s  Colosseum
+The party emerges in a desolate colosseum in the desert. They are greeted by a Gynosphinx from atop the colosseum, who informs them that they will fight for his entertainment. They will fight 3 waves of enemies, each harder than the last. In the end they either fight the Gynosphinx or convince him to let them on their way and continue their journey.
+
+
+Reward
+The Gynosphinx is so impressed with your battle skills, it gifts you with the Great sword Flame Tongue.
+
+
+Act 3: The Tomb of Seti
+Verbal Description
+As you crest a final dune, the tomb of Seti comes into view, partially buried beneath the sands of time. The entrance, a grand and foreboding archway, is flanked by towering obelisks adorned with intricate hieroglyphs and carvings of ancient deities. The stone structure is weathered yet imposing, with a darkened portal that seems to draw in the light around it. The air grows still, heavy with an ancient, lingering magic, as if the very desert itself is holding its breath in reverence and fear.
+The walls of the tomb rise up from the sand like the skeletal remains of a colossal beast, their surfaces etched with the stories and curses of a long-forgotten era. Vines of petrified plants cling to the stones, their twisted forms casting eerie shadows in the harsh sunlight. A chilling wind sweeps through the area, carrying whispers of the past and the faint scent of ancient incense.
+As you approach, you notice that the entrance is blocked by a massive stone door, partially ajar, revealing a darkness within that seems impenetrable. The hieroglyphs near the entrance depict scenes of Seti's reign, his fall, and the curses laid upon those who would dare to disturb his rest. Each step closer to the entrance feels heavier, as if the tomb itself resists your presence, guarding its secrets and treasures with an unseen force.
+Standing before the tomb, you can't help but feel a mix of awe and dread, knowing that within these ancient walls lies the key to lifting the curse and the perilous path to confronting Seti's vengeful spirit. The tomb beckons, promising both the rewards of ancient knowledge and the dangers of a timeworn wrath.
+
+
+Boss Encounter
+Sekhemket’s spirit
+Sekhemket’s priest slaves
+
+
+Reward
+In the chamber of Seti you will find the Book of Vile Darkness.
+
+
+Act 4: The Prophecy Unfolds
+Upon returning to the city of Saqaar to inform the council of their triumphs, the individuals holding the pieces of Ra’s Sundial will be given a vision of the world icing over and ending in death. They must go to the Temple of Ra  in the city square to get more information.
+Once they speak with the Imam Zakariya he informs them the artifacts are an ancient tool described as Ra’s Sun Dial, and the vision is that of Anubis’s return to destroy the world. The Imam informs them that Ra’s Sun Dial was thought to be held by a local Androsphix, and that the last piece of the Sun Dial must be found there.
+
+
+Act 5: Androsphinx & The Lost City
+The players encounter the androsphinx and must battle his various minions. After the initial enemies are defeated the androsphinx retreats to his lair and the players must defeat more minions and find their way through his maze. They can attempt to reason with the Androsphinx as he will be impressed they made it to his lair. He will hand over the final piece of Ra’s Sundial, either willingly or after being defeated in battle.
+Willingly or with his dying breath the Androsphinx details how to find Anbus’s Tomb through the lost City of Thoth.
+
+
+Lost City of Thoth: The adventurers must complete a series of puzzles and tasks to gain the location of the Temple of Time.
+1. The Sphinx’s Riddles
+   1. Riddle 1: “I am not alive, but I grow. I don’t have lungs, but I need air. I don’t have a mouth but I can drown. What am I?” - Fire
+   2. Riddle 2: “The more you take, the more you leave behind. What am I?” - Footsteps
+   3. Riddle 3: “I can fly but have no wings. I can cry but have no eyes. Wherever I go, darkness follows. What am I?” - A cloud
+   4. Riddle 4: “I am the beginning of everything, the end of everywhere. I’m the beginning of eternity, and the end of time and space. What am I?” - The letter E
+   5. Riddle 5: “At night they come without being fetched, and by day they are lost without being stolen. What are they?” - Stars
+   6. Riddle 6: “I am invisible, weigh nothing, and if you put me in a barrel, it becomes lighter. What am I?” - A hole
+2. The Chess Board - The players are to step on the board at one end of the chess board. They will take turns moving, but where they started determines the piece they are ‘supposed’ to be. If they move incorrectly, they will take damage and then be placed back on the square they previously inhabited.
+3. The Timed Door - Once they enter the room after the chessboard, the door behind them shuts. Once they enter the room a little more, a magical countdown starts and the door in front of them locks. They will step on a stone that resets the magical timer. There are various distractions like instruments in a corner and random symbols on the wall. The task is complete when they avoid stepping on the stone, allowing the magical timer to go all the way down, opening the door in front of them.
+Act 6: Temple of Anubis
+
+
+Upon getting through the timed door, the players enter a great valley that contains the entrance to Ra’s temple. They must make their way through the 3 chambers and eventually fight the risen God Anubis and his high priest. The Sun Dial will activate in this chamber, creating shifts in battle against Anubis.
+Reward
+Anubis’s High Priest is wearing a special magical cloak.
+
+
+Act Misc:
+Town of Zarhira
+The Sultan's Rest
+
+
+Task:
+Description
+The Sultan's Rest is a grand inn, its exterior a vision of opulence with its ivory-colored stone walls and golden arches that catch the sun. Ornate patterns inspired by desert flora and geometric designs cover the facade, welcoming weary travelers. Inside, the air is perfumed with fragrant oils, and soft silk curtains billow from every corner, separating the rooms for added privacy. The floors are lined with plush carpets, muffling the sounds of footsteps, creating an atmosphere of quiet luxury.
+The inn is managed by Fadila al-Nisr, a middle-aged woman with a sharp mind and a warm demeanor. Known for her ability to remember the names and preferences of every traveler who passes through, Fadila has built the inn’s reputation on hospitality and discretion. Her network of contacts stretches far beyond the city, and for those who know how to ask, she can arrange almost anything, from rare goods to hard-to-find information.
+
+
+Desert Rose Tavern
+
+Task:
+Description
+The Desert Rose Tavern is a vibrant oasis of life amidst the desert, with its wooden beams and colorful draperies that sway in the desert breeze. The scent of roasted meats and fresh-baked bread wafts through the air, mingling with the laughter and lively chatter of patrons. The interior is rustic yet welcoming, with low tables surrounded by plush cushions where travelers and locals alike gather to share tales and drink the tavern’s famous spiced wine.
+Behind the counter stands Hassan "The Bull" Farouk, a former mercenary turned tavern owner. Tall and broad-shouldered, with a booming laugh and an even louder voice, Hassan is known for his generosity and for keeping the peace in his establishment. He has a past full of adventure and is always willing to swap stories over a drink, offering advice or even the occasional job for those who need it. Despite his jovial nature, it’s clear that Hassan doesn’t tolerate trouble in his tavern.
+
+
+Oasis Bazaar
+
+Task:
+Description
+The Oasis Bazaar is a bustling market nestled alongside a shimmering water hole, the life-giving source around which the town thrives. The scent of spices, fresh dates, and exotic fruits fills the warm air, mixing with the fragrance of nearby water and blooming flowers. Stalls are set up in a winding, colorful maze of tents, vibrant with rich fabrics and canopies designed to shield from the desert sun. The soothing sounds of flowing water and the calls of merchants blend together, creating a lively and welcoming atmosphere.
+Visitors to the market can find everything from rare artifacts to common wares, while enjoying the cool shade offered by the nearby palm trees. Here, travelers and townsfolk alike barter, gossip, and rest before their next journey into the desert.
+Vendors
+1. Layla al-Farid – Jeweler
+
+
+Layla is known for her exquisite craftsmanship, her tiny stall brimming with delicate necklaces, bracelets, and rings made from silver and gemstones sourced from deep within the desert. Her eyes are sharp, and her hands deft as she works, able to craft intricate designs with a speed and precision that has earned her fame throughout the region. She often weaves stories into her jewelry, claiming each piece carries the energy of the desert’s mysteries, and will bring protection or fortune to those who wear them. For those with deeper pockets, Layla also deals in rare and magical amulets, each with its own legend attached.
+2. Ibrahim the Spice Merchant – Spices & Herbs
+
+
+Ibrahim’s stall is a feast for the senses, with barrels of spices stacked high, releasing potent aromas of saffron, cumin, cinnamon, and more. His dark, weathered skin and bright, knowing eyes mark him as a man who has spent his life traveling across the deserts in search of the finest ingredients. Ibrahim is a master of concoctions, and customers come to him not just for culinary needs, but for remedies and potions made from the rarest herbs. He often entertains his visitors with stories from his travels, speaking of far-off lands, forgotten cities, and hidden treasures.
+
+
+The Lost Forest
+Description
+As you crest the final rise of the barren dunes, the harsh sands suddenly give way to a breathtaking sight. Nestled in a hidden valley, cradled by steep mountains on three sides, lies a forest unlike anything you’ve seen in these sun-blasted lands. Towering trees with thick canopies form a cool, green ceiling, their leaves shifting and whispering as if they’re sharing secrets only they understand. Soft moss carpets the ground, muffling your footsteps as you step forward, and slender vines drape from the branches like delicate lace. A soft mist lingers in the air, filling your lungs with the scent of damp earth and wildflowers, mingling with a faint but unmistakable sense of age and mystery. Sunlight filters through the dense foliage, casting patches of warm gold on the forest floor.
+This place feels like a lush anomaly - a haven of life offering refuge and sustenance after the merciless desert. And here, carried on the gentle breeze, come faint whispers, soft laughter, and melodic female murmurs, as if spirits or fey unseen are watching from the shadows. Their voices ebb and flow like a song known only to the forest, inviting yet distant, teasing you to come closer.
+
+
+Encounter
+As you settle down to rest, the forest falls into an even deeper quiet, as if holding its breath. Just when you begin to relax, a soft rustle draws your eyes to the trees nearby. At first, you think it’s only the branches swaying, but then you see her — a figure emerging gracefully from the bark, as though she were part of the tree itself.
+
+
+Her skin has the hue and texture of aged wood, yet shimmers with a delicate green glow under the dappled light. Vines twist around her slender limbs, adorned with small leaves and blooming flowers that seem to change and grow before your eyes. Her hair flows like cascading vines, with blossoms nestled among the strands, and her eyes — large and a deep, piercing green — seem to hold the very essence of the forest within them.
+
+
+The Dryad regards you with a curious, unreadable expression, her head tilting slightly, as if she is listening to something only she can hear. When she finally speaks, her voice is soft and musical, like wind through the branches, layered with the whispers of countless leaves.
+
+
+"Travelers from the sands… What brings you into our sanctuary, into the green heart that beats beyond the desert’s reach?"
+If encounter goes poorly:
+Players will need to fight the Dryad, along with her companions the two unicorns and the two treants.
+
+
+
+
+If encounter goes well:
+The Dryad studies you with quiet intensity, her emerald eyes seeming to read far beyond the surface. She gestures softly to the forest around her, its leaves shivering as if in response.
+"This forest remembers many things," she murmurs, her voice a gentle breeze through the leaves. "Echoes of a time when gods still walked the sands. It has seen Pharaohs rise and fall, curses cast and broken." Her gaze sharpens. "And it knows that which stirs beneath your steps, the threads of destiny you carry. You follow a path that will decide much, and not only for this forest."
+She moves closer, her expression unreadable yet laced with something akin to concern. "In ages past, powers were bound to protect this land, powers to keep the gods of old at bay. Now, whispers reach me, whispers of a god who seeks to rise, a god of the dead. One whose return could change the balance of life and death itself."
+Her eyes lock onto yours, almost pleading. "This forest stands as a sanctuary for all that grows in the light and in the shade. Should the veil between worlds weaken, should death hold dominion… such places may fall to ruin. Our fate is tied to yours, whether we will it or not."
+With a grave look, she adds, "If you continue on your path, you may yet avert this shadow. Should you succeed and find need of a sanctuary, or counsel, know that the forest will welcome you once more. The roots here remember, and perhaps, one day, they may call you back."
+She steps back, her form merging slightly into the bark of a nearby tree. "I will watch for you, travelers of fate. Should your path bring you again to this valley, the forest will not forget."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Index
+Creatures
+
+
+Thug
+	  	0.5
+	Dust Mephit
+	  	0.5
+	Dryad
+	  	1
+	Giant Spider
+	  	1
+	Ankheg
+	  	2
+	Cult Fanatic
+	  	2
+	Yuan-ti Malison
+	  	3
+	Knight
+	  	3
+	Veteran
+	  	3
+	Giant Scorpion
+	  	3
+
+
+	Mummy
+	  	3
+
+
+	Phase Spider
+	  	 3
+	Lamias
+	  	4
+
+
+	Couatl
+	  	4
+	Roper
+	  	5
+	Wraith
+	  	5
+	Unicorn
+	  	5
+	Fire Elemental
+	  	5
+	Half-Red Dragon Veteran
+	  	5
+	Gladiator
+	  	5
+	Giant Crocodile
+	  	5
+
+
+	Dust Devil
+	  	5
+	Air Elemental
+	  	5
+	Cyclops
+	  	6
+	Vrock
+	  	6
+	Mage
+		6
+	Medusa
+	  	6
+	Yuan-ti Abomination
+	  	7
+
+
+	Lost Sorrowsworn
+	  	7
+	Assassin
+	  	8
+	Howler
+	  	8
+	Treant
+	  	9
+	Rot Troll
+	  	9
+	Guardian Naga
+	  	10
+	Orthon
+	  	10
+	Efreeti
+	  	11
+	Roc
+	  	11
+
+
+	Gynosphinx
+	  	11
+	Yuan-ti Anathema
+	  	12
+	Adult Brass Dragon
+	  	13
+	Mummy Lord
+	  	15
+
+
+	Purple Worm
+	  	15
+	Death Knight
+	  	17
+	Androsphinx
+	  	17
+	Adult Blue Dracolich
+	  	17
+	Ancient Brass Dragon
+	  	20
+	
+
+
+
+Items
+
+
+ Ring of Djinni Summoning
+	
+
+	
+
+	 Shield of Missile Attraction
+	
+
+	
+
+	 Ring of Fire Elemental Command
+	
+
+	
+
+	 Ring of Free Action
+	
+
+	
+
+	 Boomerang, +2
+	
+
+	
+
+	 Flame Tongue
+	
+
+	
+
+	 Staff of Swarming Insects
+	
+
+	
+
+	 Sun Blade
+	
+
+	
+
+	 Candle of Invocation
+	
+
+	
+
+	 Book of Vile Darkness
+	
+
+	
+
+	 Nine Lives Stealer
+	
+
+	
+
+	 Marvelous Pigments
+	
+
+	
+
+	 Wings of Flying
