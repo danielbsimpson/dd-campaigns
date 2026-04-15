@@ -15,7 +15,7 @@ The adventurers are recruited by three foreign merchants to save the great city 
 
 | File | Description |
 |---|---|
-| [The Curse of the Pharaoh.docx](The%20Curse%20of%20the%20Pharaoh/The%20Curse%20of%20the%20Pharaoh.docx) | Full campaign booklet |
+| [The Curse of the Pharaoh.txt](The%20Curse%20of%20the%20Pharaoh/The%20Curse%20of%20the%20Pharaoh.txt) | Full campaign booklet |
 | [README.md](The%20Curse%20of%20the%20Pharaoh/README.md) | Campaign summary |
 | [creatures.md](The%20Curse%20of%20the%20Pharaoh/creatures.md) | Creature reference |
 
@@ -30,7 +30,7 @@ A Viking warrior arrives seeking champions. The Kingdom of Nordheim is under sie
 
 | File | Description |
 |---|---|
-| [The Salvation of Nordheim.docx](The%20Salvation%20of%20Nordheim/The%20Salvation%20of%20Nordheim.docx) | Full campaign booklet |
+| [The Salvation of Nordheim.txt](The%20Salvation%20of%20Nordheim/The%20Salvation%20of%20Nordheim.txt) | Full campaign booklet |
 | [README.md](The%20Salvation%20of%20Nordheim/README.md) | Campaign summary |
 | [creatures.md](The%20Salvation%20of%20Nordheim/creatures.md) | Creature reference with full stat blocks |
 
