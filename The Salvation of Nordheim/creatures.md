@@ -8,22 +8,22 @@ All creatures the party may encounter, organized by location. CR values are prov
 
 | Creature | CR | Type | Location |
 |---|---|---|---|
-| Giant Wolf Spider | 1/4 | Beast | Travel to Hafnheim |
-| Giant Centipede | 1/4 | Beast | Travel to Hafnheim |
-| Giant Weasel | 1 | Beast | Travel to Hafnheim |
-| Brown Bear | 1 | Beast | Travel to Hafnheim |
-| Giant Boar | 2 | Beast | Travel to Hafnheim |
-| Bandit / Thug | 1/2–1/2 | Humanoid | Blackshore Raiders |
+| [Giant Wolf Spider](https://www.dndbeyond.com/monsters/giant-wolf-spider) | 1/4 | Beast | Travel to Hafnheim |
+| [Giant Centipede](https://www.dndbeyond.com/monsters/giant-centipede) | 1/4 | Beast | Travel to Hafnheim |
+| [Giant Weasel](https://www.dndbeyond.com/monsters/giant-weasel) | 1 | Beast | Travel to Hafnheim |
+| [Brown Bear](https://www.dndbeyond.com/monsters/brown-bear) | 1 | Beast | Travel to Hafnheim |
+| [Giant Boar](https://www.dndbeyond.com/monsters/giant-boar) | 2 | Beast | Travel to Hafnheim |
+| [Bandit](https://www.dndbeyond.com/monsters/bandit) / [Thug](https://www.dndbeyond.com/monsters/thug) | 1/2–1/2 | Humanoid | Blackshore Raiders |
 | Grimm Blackthorn (Bandit Captain) | 5 | Humanoid | Blackshore Raiders |
-| Young White Dragon | 6 | Dragon | Cattle Conundrum |
-| Winter Wolf | 2 | Beast | Travel to Nordheim |
+| [Young White Dragon](https://www.dndbeyond.com/monsters/young-white-dragon) | 6 | Dragon | Cattle Conundrum |
+| [Winter Wolf](https://www.dndbeyond.com/monsters/winter-wolf) | 2 | Beast | Travel to Nordheim |
 | Ice Goblin | 1/2 | Humanoid | Travel to Nordheim |
 | Frost Giant Scout | 5 | Giant | Travel to Nordheim |
 | Winter Wight | 3 | Undead | Travel to Nordheim |
-| Ice Mephit | 1/2 | Elemental | Travel to Nordheim |
-| Remorhaz | 11 | Monstrosity | Travel to Nordheim |
+| [Ice Mephit](https://www.dndbeyond.com/monsters/ice-mephit) | 1/2 | Elemental | Travel to Nordheim |
+| [Remorhaz](https://www.dndbeyond.com/monsters/remorhaz) | 11 | Monstrosity | Travel to Nordheim |
 | Dire Polar Bear | 4 | Beast | Travel to Nordheim |
-| Frost Salamander | 9 | Elemental | Travel to Nordheim |
+| [Frost Salamander](https://www.dndbeyond.com/monsters/frost-salamander) | 9 | Elemental | Travel to Nordheim |
 | Ice Mage | varies | Humanoid | Ice Church |
 | Ice Trolls | varies | Giant | Ice Church |
 | Malevolent Necromancer | 6 | Undead (Ghost) | Nordholm Abbey |

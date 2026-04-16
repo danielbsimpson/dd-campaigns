@@ -8,18 +8,18 @@ All creatures encountered in this campaign, organised by act and location. D&D B
 
 | Creature | CR | Type | Key Location | Role |
 |---|---|---|---|---|
-| Specter | 1 | Undead | Act 1 Q4 — Weeping Willow Grove | Grief-drawn haunts |
-| Ghast | 2 | Undead | Acts 1 Q3, 4 | Cemetery / river bank scavengers |
-| Will-o'-Wisp | 2 | Undead | Act 1 Q4 — Weeping Willow Grove | Lures militia watchers |
-| Water Weird * | 3 | Elemental | Acts 2, 3 | River guardians |
-| Wight | 3 | Undead | Act 4 | River approach blockers |
-| Ghost | 4 | Undead | Acts 2, 4 | Jorge Espinoza (Act 2); grief-drawn (Act 4) |
-| Shadow | 1/2 | Undead | Act 3 — Hacienda Entry Hall | Residual grief manifestations |
-| Wraith | 5 | Undead | Act 3 — Children's Room | The children's fused spirit |
-| Zombie | 1/4 | Undead | Act 5 (summoned) | La Llorona legendary action fodder |
-| Ghoul | 1 | Undead | Act 5 (summoned) | La Llorona legendary action fodder |
-| Revenant * | 13 | Undead | Act 3 — Flooded Basement | Mateo's spiritual echo |
-| La Llorona (Esperanza) | 13 | Undead (custom) | Act 5 — Weeping Willow Grove | Main villain / final boss |
+| [Shadow](https://www.dndbeyond.com/monsters/17006-shadow) | 1/2 | Undead | Act 3 — Hacienda Entry Hall | Residual grief manifestations |
+| [Zombie](https://www.dndbeyond.com/monsters/17077-zombie) | 1/4 | Undead | Act 5 (summoned) | La Llorona legendary action fodder |
+| [Ghoul](https://www.dndbeyond.com/monsters/16873-ghoul) | 1 | Undead | Act 5 (summoned) | La Llorona legendary action fodder |
+| [Specter](https://www.dndbeyond.com/monsters/17010-specter) | 1 | Undead | Act 1 Q4 — Weeping Willow Grove | Grief-drawn haunts |
+| [Ghast](https://www.dndbeyond.com/monsters/16872-ghast) | 2 | Undead | Acts 1 Q3, 4 | Cemetery / river bank scavengers |
+| [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17063-will-o-wisp) | 2 | Undead | Act 1 Q4 — Weeping Willow Grove | Lures militia watchers |
+| [Water Weird](https://www.dndbeyond.com/monsters/water-weird) * | 3 | Elemental | Acts 2, 3 | River guardians |
+| [Wight](https://www.dndbeyond.com/monsters/17064-wight) | 3 | Undead | Act 4 | River approach blockers |
+| [Ghost](https://www.dndbeyond.com/monsters/16876-ghost) | 4 | Undead | Acts 2, 4 | Jorge Espinoza (Act 2); grief-drawn (Act 4) |
+| [Wraith](https://www.dndbeyond.com/monsters/17076-wraith) | 5 | Undead | Act 3 — Children's Room | The children's fused spirit |
+| [Revenant](https://www.dndbeyond.com/monsters/revenant) * | 13 | Undead | Act 3 — Flooded Basement | Mateo's spiritual echo |
+| [La Llorona (Esperanza)](https://www.dndbeyond.com/monsters/16804-banshee) | 13 | Undead (custom) | Act 5 — Weeping Willow Grove | Main villain / final boss |
 
 ---
 
