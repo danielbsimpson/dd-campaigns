@@ -19,7 +19,7 @@ All named and notable characters the party may encounter, organized by act and l
 | Chief Priest Arjuna | High priest of Indra / under attack | Temple of Indra |
 | General Abhaya | Army commander / replaced by a Nycaloth | Palace / Military Barracks |
 | General Abhaya (real) | Imprisoned officer | Hidden prison beneath the barracks |
-| Guardian Naga | Bound ancient guardian / conditional ally | Jungle temple entrance |
+| [Guardian Naga](https://www.dndbeyond.com/monsters/guardian-naga) | Bound ancient guardian / conditional ally | Jungle temple entrance |
 
 ---
 
@@ -90,7 +90,7 @@ All named and notable characters the party may encounter, organized by act and l
 
 | Character | Role | Notes |
 |---|---|---|
-| General Abhaya (Nycaloth impostor) | Army commander — impostor | Not the real general. A **Nycaloth** (CR 9) has replaced General Abhaya and is issuing unusual orders — rotating proven officers out of sensitive posts, replacing them with unfamiliar faces, and behaving with a cold precision entirely at odds with the general's known character. If not exposed before the Maharaja's upcoming coronation ceremony, a staged assassination attempt will consolidate Vikramasura's control over the city in a single night. Defeating or exposing the Nycaloth earns the party General Abhaya's military ring and the Ring of Mind Shielding. |
+| General Abhaya (Nycaloth impostor) | Army commander — impostor | Not the real general. A **[Nycaloth](https://www.dndbeyond.com/monsters/nycaloth)** (CR 9) has replaced General Abhaya and is issuing unusual orders — rotating proven officers out of sensitive posts, replacing them with unfamiliar faces, and behaving with a cold precision entirely at odds with the general's known character. If not exposed before the Maharaja's upcoming coronation ceremony, a staged assassination attempt will consolidate Vikramasura's control over the city in a single night. Defeating or exposing the Nycaloth earns the party General Abhaya's military ring and the Ring of Mind Shielding. |
 | General Abhaya (real) | Imprisoned army commander | The genuine commander of Vethara's army — loyal, known to his officers, and very much alive, imprisoned in a hidden cell beneath the military barracks where the Nycaloth stored him. Once freed, he provides his military ring (granting command of city guard resources for direct palace access in Act 3) and stands alongside Captain Priya during the post-Act 5 cleanup of the remaining fiend network. |
 
 ---
@@ -113,13 +113,13 @@ All named and notable characters the party may encounter, organized by act and l
 
 | Character | Role | Notes |
 |---|---|---|
-| Guardian Naga | Bound ancient guardian / conditional ally | An ancient **Guardian Naga** (CR 10) that has been magically bound to the temple gate for decades against its will, forced to serve as a deterrent. It is exhausted, bitter, and deeply resentful of Vikramasura. It is not an enemy — it is a prisoner. If the party speaks with it and offers to break the binding once the Rakshasa is defeated, the Naga will stand aside and share everything it knows about the temple's interior: where the ritual circles are, the layout of all three tiers, and the fastest route to the inner sanctum. It is one of the most valuable strategic assets in the campaign if the party treats it with respect rather than hostility. |
+| Guardian Naga | Bound ancient guardian / conditional ally | An ancient **[Guardian Naga](https://www.dndbeyond.com/monsters/guardian-naga)** (CR 10) that has been magically bound to the temple gate for decades against its will, forced to serve as a deterrent. It is exhausted, bitter, and deeply resentful of Vikramasura. It is not an enemy — it is a prisoner. If the party speaks with it and offers to break the binding once the Rakshasa is defeated, the Naga will stand aside and share everything it knows about the temple's interior: where the ritual circles are, the layout of all three tiers, and the fastest route to the inner sanctum. It is one of the most valuable strategic assets in the campaign if the party treats it with respect rather than hostility. |
 
 ---
 
 ## Act 5 — The Temple of Vikramasura
 
-> No new named characters appear in Act 5. The final antagonists are Vikramasura, the summoned Efreeti, and unnamed Temple Acolytes maintaining the ritual. See [creatures.md](creatures.md) for full stat blocks on all Act 5 combatants.
+> No new named characters appear in Act 5. The final antagonists are Vikramasura, the summoned [Efreeti](https://www.dndbeyond.com/monsters/efreeti), and unnamed Temple Acolytes maintaining the ritual. See [creatures.md](creatures.md) for full stat blocks on all Act 5 combatants.
 
 ---
 

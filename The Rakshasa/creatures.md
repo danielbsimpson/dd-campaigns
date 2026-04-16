@@ -8,21 +8,20 @@ All creatures encountered in this campaign, organised by act and location. D&D B
 
 | Creature | CR | Type | Key Location | Role |
 |---|---|---|---|---|
-| Cult Fanatic | 2 | Humanoid | Act 2 — Shadow Network | Bone Devil vault guards |
-| Bearded Devil | 3 | Fiend (Devil) | Acts 1 & 1Q4 | Muscle / infernal infantry |
-| Shadow Demon * | 4 | Fiend (Demon) | Acts 1, 4, 5T1 | Scouts / ambush |
-| Night Hag | 5 | Fiend | Act 1 Q2 — Temple of Indra | Soul-harvesting coven (×3) |
-| Cambion * | 5 | Fiend (Devil) | Acts 1 Q1, 5T1 | Smuggling ring leader |
-| Guardian Naga | 10 (**ally**) | Monstrosity | Act 4 — Temple entrance | Conditional ally |
-| Yuan-ti Abomination * | 7 | Monstrosity | Act 4 — Jungle Road | Watchtower cultists |
-| Oni | 7 | Giant | Acts 1 Q3, 4 | Shapeshifter infiltrator |
-| Chain Devil | 8 | Fiend (Devil) | Acts 1 Q3, 4 | Prison warden / ambusher |
-| Bone Devil | 9 | Fiend (Devil) | Acts 2, 5T2 | Vault guardian |
-| Nycaloth * | 9 | Fiend (Yugoloth) | Act 1 Q4 | Impersonating General Abhaya |
-| Guardian Naga | 10 | Monstrosity | Act 4 — Temple entrance | Conditional ally |
-| Efreeti | 11 | Elemental | Act 5 T3 — Inner Sanctum | Phase 2 boss (summoned) |
-| Erinyes | 12 | Fiend (Devil) | Acts 3, 5T2 | Vikramasura's personal guard |
-| Vikramasura (Rakshasa) | 13 | Fiend | Acts 3 & 5T3 | Main villain / final boss |
+| [Cult Fanatic](https://www.dndbeyond.com/monsters/16836-cult-fanatic) | 2 | Humanoid | Act 2 — Shadow Network | Bone Devil vault guards |
+| [Bearded Devil](https://www.dndbeyond.com/monsters/16803-bearded-devil) | 3 | Fiend (Devil) | Acts 1 & 1Q4 | Muscle / infernal infantry |
+| [Shadow Demon](https://www.dndbeyond.com/monsters/shadow-demon) * | 4 | Fiend (Demon) | Acts 1, 4, 5T1 | Scouts / ambush |
+| [Night Hag](https://www.dndbeyond.com/monsters/16965-night-hag) | 5 | Fiend | Act 1 Q2 — Temple of Indra | Soul-harvesting coven (×3) |
+| [Cambion](https://www.dndbeyond.com/monsters/cambion) * | 5 | Fiend (Devil) | Acts 1 Q1, 5T1 | Smuggling ring leader |
+| [Yuan-ti Abomination](https://www.dndbeyond.com/monsters/yuan-ti-abomination) * | 7 | Monstrosity | Act 4 — Jungle Road | Watchtower cultists |
+| [Oni](https://www.dndbeyond.com/monsters/16971-oni) | 7 | Giant | Acts 1 Q3, 4 | Shapeshifter infiltrator |
+| [Chain Devil](https://www.dndbeyond.com/monsters/16822-chain-devil) | 8 | Fiend (Devil) | Acts 1 Q3, 4 | Prison warden / ambusher |
+| [Bone Devil](https://www.dndbeyond.com/monsters/16813-bone-devil) | 9 | Fiend (Devil) | Acts 2, 5T2 | Vault guardian |
+| [Nycaloth](https://www.dndbeyond.com/monsters/nycaloth) * | 9 | Fiend (Yugoloth) | Act 1 Q4 | Impersonating General Abhaya |
+| [Guardian Naga](https://www.dndbeyond.com/monsters/16916-guardian-naga) | 10 (**ally**) | Monstrosity | Act 4 — Temple entrance | Conditional ally |
+| [Efreeti](https://www.dndbeyond.com/monsters/16854-efreeti) | 11 | Elemental | Act 5 T3 — Inner Sanctum | Phase 2 boss (summoned) |
+| [Erinyes](https://www.dndbeyond.com/monsters/16858-erinyes) | 12 | Fiend (Devil) | Acts 3, 5T2 | Vikramasura's personal guard |
+| [Vikramasura (Rakshasa)](https://www.dndbeyond.com/monsters/16990-rakshasa) | 13 | Fiend | Acts 3 & 5T3 | Main villain / final boss |
 
 ---
 
