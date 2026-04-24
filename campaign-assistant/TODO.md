@@ -6,19 +6,19 @@ Tracks everything that needs to be built for the campaign assistant to reach a w
 
 ## Project Bootstrap
 
-- [ ] Create `requirements.txt` — Streamlit, anthropic, httpx (for Ollama), python-dotenv, pydantic
-- [ ] Create `.env.example` with all supported variables and inline comments
-- [ ] Create `app/__init__.py` and all module `__init__.py` files
-- [ ] Set up `.gitignore` — exclude `.env`, `*.db`, `.venv/`, `__pycache__/`
+- [x] Create `requirements.txt` — Streamlit, anthropic, httpx (for Ollama), python-dotenv, pydantic
+- [x] Create `.env.example` with all supported variables and inline comments
+- [x] Create `app/__init__.py` and all module `__init__.py` files
+- [x] Set up `.gitignore` — exclude `.env`, `*.db`, `.venv/`, `__pycache__/`
 
 ---
 
 ## Configuration (`app/config.py`)
 
-- [ ] Load `.env` with `python-dotenv`
-- [ ] Validate required variables based on selected `LLM_PROVIDER` (fail fast with a clear message if missing)
-- [ ] Expose a typed `Settings` dataclass/Pydantic model used across the app
-- [ ] Support `CAMPAIGN_FOLDER` as a single path (v1) — multiple campaigns can be a v2 feature
+- [x] Load `.env` with `python-dotenv`
+- [x] Validate required variables based on selected `LLM_PROVIDER` (fail fast with a clear message if missing)
+- [x] Expose a typed `Settings` dataclass/Pydantic model used across the app
+- [x] Support `CAMPAIGN_FOLDER` as a single path (v1) — multiple campaigns can be a v2 feature
 
 ---
 
