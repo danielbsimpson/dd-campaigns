@@ -1,6 +1,20 @@
 # D&D Campaigns
 
-A collection of homebrew D&D 5e campaign booklets. Each campaign is self-contained with a full narrative structure, NPC roster, location guide, and creature reference with D&D Beyond links.
+A collection of homebrew D&D 5e campaign booklets and a web-based DM assistant. Each campaign is self-contained with a full narrative structure, NPC roster, location guide, and creature reference with D&D Beyond links.
+
+---
+
+## Campaign Assistant
+
+**[campaign-assistant/](campaign-assistant/)** — A Streamlit web app that acts as an AI-powered DM tool. Point it at any campaign folder and it will:
+
+- **Answer questions mid-session** — ask about stat blocks, NPC motivations, lore, traps, and more
+- **Run a post-session debrief** — guided questionnaire that captures key events, decisions, and discoveries
+- **Generate a pre-session recap** — produces a focused DM briefing drawing on past notes and campaign content
+
+Powered by [Anthropic Claude](https://www.anthropic.com/) or a local model via [Ollama](https://ollama.com/). All session data stays in a local SQLite database.
+
+→ See [campaign-assistant/README.md](campaign-assistant/README.md) for setup and usage instructions.
 
 ---
 
@@ -78,6 +92,12 @@ A desperate council member rides three days to find help because her own town re
 dd-campaigns/
 ├── README.md                          ← you are here
 ├── campaign_ideas.txt                 ← backlog of future campaign concepts
+├── campaign-assistant/                ← AI-powered DM assistant (Streamlit app)
+│   ├── app/                           ← Python application package
+│   ├── prompts/                       ← LLM prompt templates
+│   ├── requirements.txt
+│   ├── .env.example
+│   └── README.md
 ├── The Curse of the Pharaoh/
 │   ├── README.md
 │   ├── characters.md
