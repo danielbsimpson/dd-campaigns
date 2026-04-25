@@ -19,63 +19,35 @@ Tracks everything that needs to be built for the campaign assistant to reach a w
 - [x] Validate required variables based on selected `LLM_PROVIDER` (fail fast with a clear message if missing)
 - [x] Expose a typed `Settings` dataclass/Pydantic model used across the app
 - [x] Support `CAMPAIGN_FOLDER` as a single path (v1) — multiple campaigns can be a v2 feature
+- [ ] **Phase 1:** restrict `LLM_PROVIDER` literal to `"ollama"` | `"lmstudio"` only; cloud provider values are rejected with a clear "not yet supported" message pointing to the roadmap
+- [ ] **Phase 2:** expand `LLM_PROVIDER` literal to include cloud providers as each client is implemented
 
 ---
 
 ## LLM Clients (`app/llm/`)
 
-### Core Interface
+> **Phasing note:** Build and validate everything locally first. Cloud providers and credential storage are defined here for completeness but are not implemented until Phase 2 — after local inference is working end-to-end. Stub files for cloud clients are created early so the registry compiles, but their `complete()` methods raise `NotImplementedError` until Phase 2.
+
+### Phase 1 — Core Interface & Local Providers
 
 - [ ] Define abstract `BaseLLMClient` in `base.py` with a `complete(system: str, user: str) -> str` interface
-- [ ] Factory function `get_llm_client(provider: str, credentials: dict) -> BaseLLMClient` — constructs the correct client at runtime from UI-supplied credentials (not just `.env`)
-- [ ] `ProviderRegistry` — a dict mapping provider keys to (client class, required credential fields, optional fields) so the settings UI can render the right form dynamically
-
-### Cloud Providers
-
-- [ ] `anthropic_client.py` — Anthropic (Claude)
-  - [ ] Use the `anthropic` Python SDK
-  - [ ] Support model selection: `claude-opus-4-5`, `claude-sonnet-4-5`, `claude-haiku-3-5`
-  - [ ] Handle API errors gracefully (rate limits, auth failures) with user-facing messages
-- [ ] `openai_client.py` — OpenAI
-  - [ ] Use the `openai` Python SDK
-  - [ ] Support model selection: `gpt-4o`, `gpt-4o-mini`, `gpt-4-turbo`
-  - [ ] Handle quota and auth errors
-- [ ] `gemini_client.py` — Google Gemini
-  - [ ] Use `google-generativeai` SDK
-  - [ ] Support model selection: `gemini-2.0-flash`, `gemini-1.5-pro`, `gemini-1.5-flash`
-  - [ ] Handle safety filter blocks — surface them as user-facing warnings, not crashes
-- [ ] `groq_client.py` — Groq (fast cloud inference, free tier)
-  - [ ] Use `groq` Python SDK
-  - [ ] Support model selection: `llama-3.3-70b-versatile`, `llama-3.1-8b-instant`, `mixtral-8x7b-32768`
-  - [ ] Good fallback option for users without a paid API key
-- [ ] `mistral_client.py` — Mistral AI
-  - [ ] Use `mistralai` Python SDK
-  - [ ] Support model selection: `mistral-large-latest`, `mistral-small-latest`, `open-mixtral-8x7b`
-
-### Local Providers (GPU)
-
-- [ ] `ollama_client.py` — Ollama (primary local backend)
+- [ ] `ProviderRegistry` — a dict mapping provider keys to (client class, required credential fields, optional fields); register only local providers initially; cloud provider entries added in Phase 2
+- [ ] Factory function `get_llm_client(provider: str, config: dict) -> BaseLLMClient` — constructs the correct client; in Phase 1 only `"ollama"` and `"lmstudio"` are valid
+- [ ] `ollama_client.py` — Ollama (primary local backend, **default**)
   - [ ] Call Ollama's REST API (`/api/chat`) via `httpx`
-  - [ ] Respect `OLLAMA_BASE_URL` (default `http://localhost:11434`) and `OLLAMA_MODEL` config
+  - [ ] Respect `OLLAMA_BASE_URL` (default `http://localhost:11434`) and `OLLAMA_MODEL` from config
   - [ ] Default recommended model: `llama3.1:8b` — fits comfortably in 8 GB VRAM (RTX 4060) at Q4 quantisation (~4.5 GB)
   - [ ] Other well-tested options for 8 GB VRAM: `mistral:7b-instruct`, `phi3:medium` (~7 GB Q4), `qwen2.5:7b`
   - [ ] On startup, query `/api/tags` to list locally available models and populate a dropdown in settings
   - [ ] Detect whether Ollama is using GPU: parse `/api/show` response for `nvidia` in `details` — show GPU/CPU badge in settings UI
   - [ ] Handle connection errors when Ollama is not running with a clear "Start Ollama first" message
   - [ ] Document GPU setup: requires CUDA toolkit + Ollama ≥ 0.1.29; RTX 4060 requires CUDA 12.x driver
-- [ ] `lmstudio_client.py` — LM Studio (OpenAI-compatible local server)
-  - [ ] Call LM Studio's `/v1/chat/completions` endpoint (OpenAI-compatible) via `httpx` or `openai` SDK with base URL override
+- [ ] `lmstudio_client.py` — LM Studio (OpenAI-compatible local server, secondary local option)
+  - [ ] Call LM Studio's `/v1/chat/completions` endpoint via `httpx`
   - [ ] Default base URL: `http://localhost:1234`
   - [ ] Query `/v1/models` to list loaded model and populate the model field automatically
   - [ ] GPU acceleration is automatic via LM Studio's built-in CUDA/Metal support; no extra config required
-
-### Credential & Settings Storage
-
-- [ ] `app/llm/credentials.py` — secure local credential store
-  - [ ] Persist provider credentials to the SQLite DB in an `llm_credentials` table (provider, key_name, encrypted_value)
-  - [ ] Encrypt values at rest using `cryptography` (Fernet) with a machine-local key stored in the user's home dir (`~/.campaign_assistant_key`) — prevents casual credential exposure if the DB file is shared
-  - [ ] `save_credential(provider, key_name, value)`, `load_credential(provider, key_name) -> str | None`, `delete_credential(provider, key_name)`
-  - [ ] Never log or print credential values; redact in error messages
+- [ ] Create empty stub files for cloud clients: `anthropic_client.py`, `openai_client.py`, `gemini_client.py`, `groq_client.py`, `mistral_client.py` — each contains the class inheriting `BaseLLMClient` with `complete()` raising `NotImplementedError("Cloud provider not yet configured")`; stubs allow the registry to be fully defined without any cloud SDK dependencies being imported at runtime
 
 ---
 
@@ -245,15 +217,21 @@ Allows the DM to speak answers into the microphone at the end of a session rathe
   - [ ] Load config and campaign content on startup; show errors inline if config is missing
   - [ ] On first launch (no credentials saved), redirect automatically to the Settings tab with a setup banner
 
-- [ ] `ui/settings.py` — LLM provider & credential management
-  - [ ] Provider selector: radio/select showing all registered providers with icons (cloud vs local)
-  - [ ] Dynamic credential form driven by `ProviderRegistry` — renders only the fields required for the selected provider (e.g. API key for cloud, base URL + model for local)
-  - [ ] "Test Connection" button — calls `BaseLLMClient.complete()` with a short ping prompt and shows success/failure inline
-  - [ ] For Ollama/LM Studio: shows a dropdown of locally available models fetched live from the server; "Refresh" button to re-query
-  - [ ] GPU detection badge for local providers — green "GPU (CUDA)" or amber "CPU only"
-  - [ ] For Ollama: "Recommended models for 8 GB VRAM" hint with `ollama pull` command pre-filled for `llama3.1:8b`
-  - [ ] Save button writes credentials via `credentials.py`; existing values shown redacted (•••• last 4 chars)
-  - [ ] Campaign folder path field with a folder-exists validation indicator
+- [ ] `ui/settings.py` — provider & configuration management
+  - [ ] **Phase 1 — Local providers only:**
+    - [ ] Provider selector showing `Ollama` (default) and `LM Studio`
+    - [ ] Ollama section: base URL field, model dropdown populated live from `/api/tags`, "Refresh" button, GPU/CPU badge
+    - [ ] LM Studio section: base URL field, model field auto-populated from `/v1/models`
+    - [ ] "Test Connection" button — calls `BaseLLMClient.complete()` with a short ping prompt and shows success/failure inline
+    - [ ] GPU detection badge — green "GPU (CUDA)" or amber "CPU only"
+    - [ ] "Recommended models for 8 GB VRAM" hint with `ollama pull llama3.1:8b` pre-filled
+    - [ ] Campaign folder path field with a folder-exists validation indicator
+    - [ ] Settings persisted to a local `settings.json` (no encryption needed for Phase 1 — no secrets stored)
+  - [ ] **Phase 2 — Cloud providers** *(see the dedicated Phase 2 section later in this file)*:
+    - [ ] Expand provider selector to include cloud options (Anthropic, OpenAI, Gemini, Groq, Mistral)
+    - [ ] Dynamic credential form per cloud provider driven by `ProviderRegistry`
+    - [ ] API key fields wired to `credentials.py` (encrypted storage); existing values shown redacted (•••• last 4 chars)
+    - [ ] "Test Connection" updated to handle cloud auth errors distinctly from network errors
 
 - [ ] `ui/query.py` — in-session query tab
   - [ ] Text input for the DM's question
@@ -289,6 +267,43 @@ Allows the DM to speak answers into the microphone at the end of a session rathe
   - [ ] Locations: list of visited/unvisited locations; inline edit for state notes
   - [ ] Threads: Kanban-style columns for Active / Resolved / Abandoned; click a thread to expand full description and session history; quick-add and resolve buttons
   - [ ] All edits save immediately via the database helpers; no separate Save button needed
+
+---
+
+## Phase 2 — Cloud Providers & Credential Storage
+
+> Implement only after the full local workflow (query, debrief, recap, world state) is working end-to-end and validated.
+
+### Cloud LLM Providers (`app/llm/`)
+
+- [ ] Update `config.py` to accept cloud providers in the `LLM_PROVIDER` literal once a cloud client is implemented
+- [ ] `anthropic_client.py` — Anthropic (Claude)
+  - [ ] Use the `anthropic` Python SDK
+  - [ ] Support model selection: `claude-opus-4-5`, `claude-sonnet-4-5`, `claude-haiku-3-5`
+  - [ ] Handle API errors gracefully (rate limits, auth failures) with user-facing messages
+- [ ] `openai_client.py` — OpenAI
+  - [ ] Use the `openai` Python SDK
+  - [ ] Support model selection: `gpt-4o`, `gpt-4o-mini`, `gpt-4-turbo`
+  - [ ] Handle quota and auth errors
+- [ ] `gemini_client.py` — Google Gemini
+  - [ ] Use `google-generativeai` SDK
+  - [ ] Support model selection: `gemini-2.0-flash`, `gemini-1.5-pro`, `gemini-1.5-flash`
+  - [ ] Handle safety filter blocks — surface them as user-facing warnings, not crashes
+- [ ] `groq_client.py` — Groq (fast cloud inference, free tier)
+  - [ ] Use `groq` Python SDK
+  - [ ] Support model selection: `llama-3.3-70b-versatile`, `llama-3.1-8b-instant`, `mixtral-8x7b-32768`
+- [ ] `mistral_client.py` — Mistral AI
+  - [ ] Use `mistralai` Python SDK
+  - [ ] Support model selection: `mistral-large-latest`, `mistral-small-latest`, `open-mixtral-8x7b`
+
+### Credential & Settings Storage (`app/llm/credentials.py`)
+
+- [ ] Persist provider credentials to the SQLite DB in an `llm_credentials` table (provider, key_name, encrypted_value)
+- [ ] Encrypt values at rest using `cryptography` (Fernet) with a machine-local key stored in the user's home dir (`~/.campaign_assistant_key`) — prevents casual credential exposure if the DB file is shared
+- [ ] `save_credential(provider, key_name, value)`, `load_credential(provider, key_name) -> str | None`, `delete_credential(provider, key_name)`
+- [ ] Never log or print credential values; redact in error messages
+- [ ] Update settings UI to show cloud provider credential forms wired to `credentials.py`; existing values shown redacted (•••• last 4 chars)
+- [ ] Uncomment cloud SDK dependencies in `requirements.txt` and `cryptography>=42.0.0`
 
 ---
 
