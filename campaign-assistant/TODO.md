@@ -197,6 +197,46 @@ Centralises *what* gets included in each LLM context request and *why*. Keeps `c
 
 ---
 
+## Voice Input (`app/voice/`)
+
+Allows the DM to speak answers into the microphone at the end of a session rather than typing. The primary use case is the post-session debrief — the DM talks through what happened while it's still fresh, and the assistant transcribes each answer into its text field. Secondary use case is the in-session query tab.
+
+### `transcriber.py` — speech-to-text backend
+
+- [ ] Define abstract `BaseTranscriber` with a single method `transcribe(audio_bytes: bytes) -> str`
+- [ ] `FasterWhisperTranscriber` — local GPU transcription (default)
+  - [ ] Use the `faster-whisper` library (CTranslate2-based, significantly faster than OpenAI's `whisper` package on CUDA)
+  - [ ] Default model: `medium` — best accuracy/speed balance on an RTX 4060 (~2 GB VRAM, real-time factor < 0.3×)
+  - [ ] Also support `small` (faster, lower VRAM) and `large-v3` (highest accuracy, ~4 GB VRAM — leaves headroom alongside an 8B LLM if they don't run simultaneously)
+  - [ ] Load the model once at startup and hold it in session state; unload when voice is disabled to reclaim VRAM
+  - [ ] Force `device="cuda"`, `compute_type="float16"` when a CUDA device is detected; fall back to `device="cpu"`, `compute_type="int8"` silently
+  - [ ] Expose `language` param (default `"en"`); can be overridden in settings for multilingual campaigns
+- [ ] `WhisperAPITranscriber` — cloud fallback
+  - [ ] Call OpenAI's `/v1/audio/transcriptions` endpoint via `httpx`
+  - [ ] Reuse the OpenAI API key from `credentials.py` if already saved; otherwise prompt in settings
+  - [ ] Use `whisper-1` model (the only available option on the API)
+- [ ] `TranscriberRegistry` — maps backend keys (`"local"`, `"openai_api"`) to their classes, mirroring `ProviderRegistry` in the LLM module
+- [ ] Factory: `get_transcriber(backend: str) -> BaseTranscriber` — used by the UI
+
+### `recorder.py` — in-browser mic capture
+
+- [ ] Use `audio_recorder_streamlit` (lightweight Streamlit component, no WebRTC server required) to capture mic audio as WAV bytes
+- [ ] Return raw `bytes`; all format handling stays in `transcriber.py`
+- [ ] Expose a `record_button(label: str, key: str) -> bytes | None` helper used by the UI — returns `None` if the user hasn't recorded anything yet
+- [ ] Handle browser permission denial gracefully — show an inline warning rather than an unhandled component error
+
+### Settings integration
+
+- [ ] Add a **Voice** section to `ui/settings.py`:
+  - [ ] Enable/disable toggle — when off, all mic buttons are hidden across the app; Whisper model is unloaded if it was in memory
+  - [ ] Backend selector: `Local (faster-whisper)` | `OpenAI Whisper API`
+  - [ ] Model size selector (local only): `small` / `medium` (default) / `large-v3` — show estimated VRAM usage next to each option
+  - [ ] Language field (default `en`) — free text, accepts any Whisper-supported language code
+  - [ ] "Test Mic" button: records a short clip and displays the transcription so the DM can verify the setup before a session
+  - [ ] VRAM budget warning: if the selected Whisper model + the selected LLM model together exceed ~7 GB, show an amber warning suggesting the DM use a smaller Whisper model or run them sequentially
+
+---
+
 ## Streamlit UI (`app/ui/` and `app/main.py`)
 
 - [ ] `main.py` — top-level Streamlit app
@@ -217,12 +257,16 @@ Centralises *what* gets included in each LLM context request and *why*. Keeps `c
 
 - [ ] `ui/query.py` — in-session query tab
   - [ ] Text input for the DM's question
+  - [ ] Mic button beside the text input (visible only when voice is enabled in settings) — recording populates the text field and auto-submits
   - [ ] Submit button (also triggers on Enter)
   - [ ] Display LLM response in a styled card with a collapsible "Context used" expander showing which memory layers were included
   - [ ] Keep a short query history in session state for the current session
 
 - [ ] `ui/debrief.py` — post-session debrief tab
   - [ ] Render each question from `questions.py` as a text area
+  - [ ] When voice is enabled: show a mic button beneath each question — clicking records until the user stops, then transcribes and populates the text area (text remains fully editable after transcription)
+  - [ ] "Record All" mode: cycles through each unanswered question sequentially — reads the question text aloud via `st.info`, records, transcribes, advances automatically; DM can interrupt and edit at any point
+  - [ ] Visual transcription state per question: idle → recording (red pulse) → transcribing (spinner) → done (green tick)
   - [ ] Session number auto-increments from the last saved session; allow manual override
   - [ ] Save button writes all answers to the database
   - [ ] After save: show a "Review & Update" panel surfacing:
@@ -258,6 +302,7 @@ Centralises *what* gets included in each LLM context request and *why*. Keeps `c
 - [ ] Unit tests for `credentials.py` — verify encrypt/decrypt round-trip; verify nothing is logged in plaintext
 - [ ] Integration test for each LLM client — mock HTTP responses, verify prompt formatting and error handling
 - [ ] Integration test for `ProviderRegistry` + factory — verify all registered providers construct without error given valid credentials
+- [ ] Unit tests for `transcriber.py` — mock `faster-whisper` and the OpenAI API, verify both backends return a string and handle empty audio gracefully
 - [ ] Manual end-to-end test checklist (documented in `tests/e2e_checklist.md`)
 
 ### LLM Accuracy Evaluation (`tests/accuracy/`)
@@ -343,6 +388,5 @@ Validates that the assistant returns *correct, grounded* answers from campaign c
 - [ ] Export recap as a PDF or shareable markdown file
 - [ ] Automatic session number detection from the database
 - [ ] Support additional LLM providers (Cohere, Together AI, OpenRouter aggregator)
-- [ ] Whisper integration for voice-to-text debrief input
 - [ ] PC initiative tracker / combat helper tab surfacing creature stat blocks from `creatures.md` inline
 - [ ] Automatic entity extraction: after saving debrief answers, use the LLM to suggest NPC/location/thread updates rather than requiring manual DM review
