@@ -19,7 +19,7 @@ Tracks everything that needs to be built for the campaign assistant to reach a w
 - [x] Validate required variables based on selected `LLM_PROVIDER` (fail fast with a clear message if missing)
 - [x] Expose a typed `Settings` dataclass/Pydantic model used across the app
 - [x] Support `CAMPAIGN_FOLDER` as a single path (v1) — multiple campaigns can be a v2 feature
-- [ ] **Phase 1:** restrict `LLM_PROVIDER` literal to `"ollama"` | `"lmstudio"` only; cloud provider values are rejected with a clear "not yet supported" message pointing to the roadmap
+- [x] **Phase 1:** restrict `LLM_PROVIDER` literal to `"ollama"` | `"lmstudio"` only; cloud provider values are rejected with a clear "not yet supported" message pointing to the roadmap
 - [ ] **Phase 2:** expand `LLM_PROVIDER` literal to include cloud providers as each client is implemented
 
 ---
@@ -30,24 +30,24 @@ Tracks everything that needs to be built for the campaign assistant to reach a w
 
 ### Phase 1 — Core Interface & Local Providers
 
-- [ ] Define abstract `BaseLLMClient` in `base.py` with a `complete(system: str, user: str) -> str` interface
-- [ ] `ProviderRegistry` — a dict mapping provider keys to (client class, required credential fields, optional fields); register only local providers initially; cloud provider entries added in Phase 2
-- [ ] Factory function `get_llm_client(provider: str, config: dict) -> BaseLLMClient` — constructs the correct client; in Phase 1 only `"ollama"` and `"lmstudio"` are valid
-- [ ] `ollama_client.py` — Ollama (primary local backend, **default**)
-  - [ ] Call Ollama's REST API (`/api/chat`) via `httpx`
-  - [ ] Respect `OLLAMA_BASE_URL` (default `http://localhost:11434`) and `OLLAMA_MODEL` from config
-  - [ ] Default recommended model: `llama3.1:8b` — fits comfortably in 8 GB VRAM (RTX 4060) at Q4 quantisation (~4.5 GB)
-  - [ ] Other well-tested options for 8 GB VRAM: `mistral:7b-instruct`, `phi3:medium` (~7 GB Q4), `qwen2.5:7b`
-  - [ ] On startup, query `/api/tags` to list locally available models and populate a dropdown in settings
-  - [ ] Detect whether Ollama is using GPU: parse `/api/show` response for `nvidia` in `details` — show GPU/CPU badge in settings UI
-  - [ ] Handle connection errors when Ollama is not running with a clear "Start Ollama first" message
-  - [ ] Document GPU setup: requires CUDA toolkit + Ollama ≥ 0.1.29; RTX 4060 requires CUDA 12.x driver
-- [ ] `lmstudio_client.py` — LM Studio (OpenAI-compatible local server, secondary local option)
-  - [ ] Call LM Studio's `/v1/chat/completions` endpoint via `httpx`
-  - [ ] Default base URL: `http://localhost:1234`
-  - [ ] Query `/v1/models` to list loaded model and populate the model field automatically
-  - [ ] GPU acceleration is automatic via LM Studio's built-in CUDA/Metal support; no extra config required
-- [ ] Create empty stub files for cloud clients: `anthropic_client.py`, `openai_client.py`, `gemini_client.py`, `groq_client.py`, `mistral_client.py` — each contains the class inheriting `BaseLLMClient` with `complete()` raising `NotImplementedError("Cloud provider not yet configured")`; stubs allow the registry to be fully defined without any cloud SDK dependencies being imported at runtime
+- [x] Define abstract `BaseLLMClient` in `base.py` with a `complete(system: str, user: str) -> str` interface
+- [x] `ProviderRegistry` — a dict mapping provider keys to (client class, required credential fields, optional fields); register only local providers initially; cloud provider entries added in Phase 2
+- [x] Factory function `get_llm_client(provider: str, config: dict) -> BaseLLMClient` — constructs the correct client; in Phase 1 only `"ollama"` and `"lmstudio"` are valid
+- [x] `ollama_client.py` — Ollama (primary local backend, **default**)
+  - [x] Call Ollama's REST API (`/api/chat`) via `httpx`
+  - [x] Respect `OLLAMA_BASE_URL` (default `http://localhost:11434`) and `OLLAMA_MODEL` from config
+  - [x] Default recommended model: `llama3.1:8b` — fits comfortably in 8 GB VRAM (RTX 4060) at Q4 quantisation (~4.5 GB)
+  - [x] Other well-tested options for 8 GB VRAM: `mistral:7b-instruct`, `phi3:medium` (~7 GB Q4), `qwen2.5:7b`
+  - [x] On startup, query `/api/tags` to list locally available models and populate a dropdown in settings
+  - [x] Detect whether Ollama is using GPU: checks `/api/ps` for VRAM usage and falls back to `nvidia-smi` — shows GPU/CPU badge in settings UI
+  - [x] Handle connection errors when Ollama is not running with a clear "Start Ollama first" message
+  - [x] Document GPU setup: requires CUDA toolkit + Ollama ≥ 0.1.29; RTX 4060 requires CUDA 12.x driver
+- [x] `lmstudio_client.py` — LM Studio (OpenAI-compatible local server, secondary local option)
+  - [x] Call LM Studio's `/v1/chat/completions` endpoint via `httpx`
+  - [x] Default base URL: `http://localhost:1234`
+  - [x] Query `/v1/models` to list loaded model and populate the model field automatically
+  - [x] GPU acceleration is automatic via LM Studio's built-in CUDA/Metal support; no extra config required
+- [x] Create individual stub files for cloud clients: `anthropic_client.py`, `openai_client.py`, `gemini_client.py`, `groq_client.py`, `mistral_client.py` — each contains the class inheriting `BaseLLMClient` with `complete()` raising `LLMError`; stubs allow the registry to be fully defined without any cloud SDK dependencies being imported at runtime; `cloud_stubs.py` re-exports all stubs for backward compatibility
 
 ---
 
