@@ -1,3 +1,4 @@
+"""LLM abstractions — client interface, error type, provider registry, and factory."""
 from __future__ import annotations
 
 from abc import ABC, abstractmethod
@@ -42,6 +43,33 @@ class BaseLLMClient(ABC):
 
 class LLMError(Exception):
     """Raised when an LLM backend returns an error the UI should surface."""
+
+
+class CloudStubClient(BaseLLMClient):
+    """Shared base for Phase 2 cloud provider stubs.
+
+    Subclasses set ``PROVIDER_LABEL``, ``DEFAULT_MODEL``, and
+    ``SUPPORTED_MODELS``. ``complete()`` raises LLMError until the real
+    client is implemented in Phase 2.
+    """
+
+    PROVIDER_LABEL: str = "This cloud provider"
+    DEFAULT_MODEL: str = ""
+    #: Supported models (populated in Phase 2 when the real client is built).
+    SUPPORTED_MODELS: list[str] = []
+
+    def __init__(self, api_key: str = "", model: str = "", **kwargs: object) -> None:
+        self.api_key = api_key
+        self.model = model or self.DEFAULT_MODEL
+
+    def complete(self, system: str, user: str) -> str:
+        raise LLMError(
+            f"{self.PROVIDER_LABEL} is not yet configured. "
+            "Cloud providers are enabled in Phase 2."
+        )
+
+    def list_models(self) -> list[str]:
+        return list(self.SUPPORTED_MODELS)
 
 
 # ---------------------------------------------------------------------------
@@ -91,5 +119,7 @@ def get_llm_client(provider: str, config: dict[str, Any]) -> BaseLLMClient:
             + ", ".join(missing)
         )
 
-    kwargs = {**info.optional_fields, **{k: config[k] for k in config if k in info.required_fields + list(info.optional_fields)}}
+    accepted_keys = set(info.required_fields) | set(info.optional_fields)
+    provided = {k: v for k, v in config.items() if k in accepted_keys}
+    kwargs = {**info.optional_fields, **provided}
     return info.client_class(**kwargs)

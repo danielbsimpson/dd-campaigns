@@ -1,36 +1,20 @@
+"""Settings tab — Phase 1: local providers only."""
 from __future__ import annotations
 
-"""Settings tab — Phase 1: local providers only."""
-
-import json
 from pathlib import Path
 
 import streamlit as st
 
+from ..config import load_settings_overrides, save_settings_overrides
 from ..llm import get_llm_client, LLMError
 from ..llm.ollama_client import OllamaClient
 from ..llm.lmstudio_client import LMStudioClient
-
-_SETTINGS_FILE = Path(__file__).parent.parent.parent / "settings.json"
-
-
-def _load_saved() -> dict:
-    if _SETTINGS_FILE.exists():
-        try:
-            return json.loads(_SETTINGS_FILE.read_text(encoding="utf-8"))
-        except Exception:
-            pass
-    return {}
-
-
-def _save(data: dict) -> None:
-    _SETTINGS_FILE.write_text(json.dumps(data, indent=2), encoding="utf-8")
 
 
 def render(settings) -> None:
     st.header("Settings")
 
-    saved = _load_saved()
+    saved = load_settings_overrides()
 
     # ------------------------------------------------------------------
     # LLM provider
@@ -92,7 +76,7 @@ def render(settings) -> None:
         else:
             new_settings["lmstudio_base_url"] = st.session_state.get("lmstudio_base_url", settings.lmstudio_base_url)
             new_settings["lmstudio_model"] = st.session_state.get("lmstudio_model", settings.lmstudio_model)
-        _save(new_settings)
+        save_settings_overrides(new_settings)
         st.rerun()
 
 
@@ -108,8 +92,9 @@ def _ollama_section(saved: dict, settings) -> None:
     gpu_detected: bool | None = None
     col1, col2 = st.columns([3, 1])
     with col2:
-        if st.button("Refresh models"):
-            st.session_state["ollama_models_refreshed"] = True
+        # The button triggers a Streamlit rerun, which re-fetches the model
+        # list below — no extra state is needed.
+        st.button("Refresh models")
 
     if base_url:
         client = OllamaClient(base_url=base_url)

@@ -1,17 +1,11 @@
-from __future__ import annotations
-
 """In-session query tab."""
+from __future__ import annotations
 
 import streamlit as st
 
-from ..llm import get_llm_client, LLMError
+from ..llm import LLMError
 from ..session.memory import build_query_context
-
-
-def _load_prompt_template() -> str:
-    from pathlib import Path
-    path = Path(__file__).parent.parent.parent / "prompts" / "query.txt"
-    return path.read_text(encoding="utf-8")
+from .common import client_from_settings, render_system_prompt
 
 
 def render(settings, campaign_files: dict[str, str], campaign_name: str) -> None:
@@ -34,14 +28,8 @@ def render(settings, campaign_files: dict[str, str], campaign_name: str) -> None
                     campaign_files=campaign_files,
                     query_text=question,
                 )
-                system = _load_prompt_template().replace("{campaign_context}", context)
-                client = get_llm_client(
-                    settings.llm_provider,
-                    {
-                        "base_url": getattr(settings, f"{settings.llm_provider}_base_url", ""),
-                        "model": getattr(settings, f"{settings.llm_provider}_model", ""),
-                    },
-                )
+                system = render_system_prompt("query.txt", context)
+                client = client_from_settings(settings)
                 answer = client.complete(system=system, user=question)
                 st.session_state.query_history.insert(0, {"q": question, "a": answer})
             except LLMError as exc:

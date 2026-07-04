@@ -1,10 +1,36 @@
+"""SQLite persistence layer — schema, migrations, and CRUD helpers for all memory layers."""
 from __future__ import annotations
 
 import sqlite3
+from collections.abc import Generator
 from contextlib import contextmanager
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from pathlib import Path
-from typing import Generator
+
+# Separators used by GROUP_CONCAT when aggregating debrief answers in
+# get_recent_sessions(). Parsers must use parse_debrief_answers().
+ANSWER_PAIR_SEP = "|||"
+ANSWER_KEY_SEP = "::"
+
+
+def _utc_now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def parse_debrief_answers(raw: str | None) -> list[tuple[str, str]]:
+    """Parse the GROUP_CONCAT'd ``answers`` column from get_recent_sessions().
+
+    Returns (question_key, answer_text) pairs, skipping empty answers.
+    """
+    pairs: list[tuple[str, str]] = []
+    if not raw:
+        return pairs
+    for chunk in raw.split(ANSWER_PAIR_SEP):
+        if ANSWER_KEY_SEP in chunk:
+            key, _, text = chunk.partition(ANSWER_KEY_SEP)
+            if text.strip():
+                pairs.append((key, text.strip()))
+    return pairs
 
 
 # ---------------------------------------------------------------------------
@@ -246,7 +272,7 @@ def get_recent_sessions(db_path: str, campaign_name: str, n: int = 3) -> list[sq
     conn = _connect(db_path)
     try:
         return conn.execute(
-            """SELECT s.*, GROUP_CONCAT(da.question_key || '::' || da.answer_text, '|||') AS answers
+            f"""SELECT s.*, GROUP_CONCAT(da.question_key || '{ANSWER_KEY_SEP}' || da.answer_text, '{ANSWER_PAIR_SEP}') AS answers
                FROM sessions s
                LEFT JOIN debrief_answers da ON da.session_id = s.id
                WHERE s.campaign_name = ?
@@ -276,11 +302,11 @@ def save_recap(db_path: str, session_id: int, recap_text: str) -> int:
 def upsert_npc(db_path: str, campaign_name: str, name: str, **fields: object) -> None:
     allowed = {"role", "disposition", "last_seen_session", "notes"}
     data = {k: v for k, v in fields.items() if k in allowed}
-    data["updated_at"] = datetime.utcnow().isoformat()
     with _cursor(db_path) as cur:
         cur.execute(
             """INSERT INTO npcs (campaign_name, name, role, disposition, last_seen_session, notes, updated_at)
-               VALUES (:campaign, :name, :role, :disposition, :last_seen, :notes, :updated_at)
+               VALUES (:campaign, :name, COALESCE(:role, ''), COALESCE(:disposition, 'unknown'),
+                       :last_seen, COALESCE(:notes, ''), :updated_at)
                ON CONFLICT(campaign_name, name) DO UPDATE SET
                  role              = COALESCE(:role, role),
                  disposition       = COALESCE(:disposition, disposition),
@@ -294,7 +320,7 @@ def upsert_npc(db_path: str, campaign_name: str, name: str, **fields: object) ->
                 "disposition": data.get("disposition"),
                 "last_seen": data.get("last_seen_session"),
                 "notes": data.get("notes"),
-                "updated_at": data["updated_at"],
+                "updated_at": _utc_now_iso(),
             },
         )
 
@@ -322,11 +348,10 @@ def get_npcs(db_path: str, campaign_name: str, disposition: str | None = None) -
 def upsert_location(db_path: str, campaign_name: str, name: str, **fields: object) -> None:
     allowed = {"visited", "first_seen_session", "state_notes"}
     data = {k: v for k, v in fields.items() if k in allowed}
-    data["updated_at"] = datetime.utcnow().isoformat()
     with _cursor(db_path) as cur:
         cur.execute(
             """INSERT INTO locations (campaign_name, name, visited, first_seen_session, state_notes, updated_at)
-               VALUES (:campaign, :name, :visited, :first_seen, :state_notes, :updated_at)
+               VALUES (:campaign, :name, COALESCE(:visited, 0), :first_seen, COALESCE(:state_notes, ''), :updated_at)
                ON CONFLICT(campaign_name, name) DO UPDATE SET
                  visited           = COALESCE(:visited, visited),
                  first_seen_session= COALESCE(:first_seen, first_seen_session),
@@ -335,10 +360,11 @@ def upsert_location(db_path: str, campaign_name: str, name: str, **fields: objec
             {
                 "campaign": campaign_name,
                 "name": name,
-                "visited": int(data.get("visited", 0)),  # type: ignore[arg-type]
+                # None when not provided so COALESCE preserves the existing value.
+                "visited": int(data["visited"]) if "visited" in data else None,  # type: ignore[arg-type]
                 "first_seen": data.get("first_seen_session"),
                 "state_notes": data.get("state_notes"),
-                "updated_at": data["updated_at"],
+                "updated_at": _utc_now_iso(),
             },
         )
 
@@ -361,11 +387,10 @@ def get_visited_locations(db_path: str, campaign_name: str) -> list[sqlite3.Row]
 def upsert_faction(db_path: str, campaign_name: str, name: str, **fields: object) -> None:
     allowed = {"standing", "notes"}
     data = {k: v for k, v in fields.items() if k in allowed}
-    data["updated_at"] = datetime.utcnow().isoformat()
     with _cursor(db_path) as cur:
         cur.execute(
             """INSERT INTO factions (campaign_name, name, standing, notes, updated_at)
-               VALUES (:campaign, :name, :standing, :notes, :updated_at)
+               VALUES (:campaign, :name, COALESCE(:standing, 0), COALESCE(:notes, ''), :updated_at)
                ON CONFLICT(campaign_name, name) DO UPDATE SET
                  standing   = COALESCE(:standing, standing),
                  notes      = COALESCE(:notes, notes),
@@ -375,7 +400,7 @@ def upsert_faction(db_path: str, campaign_name: str, name: str, **fields: object
                 "name": name,
                 "standing": data.get("standing"),
                 "notes": data.get("notes"),
-                "updated_at": data["updated_at"],
+                "updated_at": _utc_now_iso(),
             },
         )
 
@@ -398,12 +423,12 @@ def get_factions(db_path: str, campaign_name: str) -> list[sqlite3.Row]:
 def upsert_pc(db_path: str, campaign_name: str, character_name: str, **fields: object) -> None:
     allowed = {"player_name", "class", "level", "backstory_notes", "active"}
     data = {k: v for k, v in fields.items() if k in allowed}
-    data["updated_at"] = datetime.utcnow().isoformat()
     with _cursor(db_path) as cur:
         cur.execute(
             """INSERT INTO player_characters
                  (campaign_name, character_name, player_name, class, level, backstory_notes, active, updated_at)
-               VALUES (:campaign, :char, :player, :class, :level, :backstory, :active, :updated_at)
+               VALUES (:campaign, :char, COALESCE(:player, ''), COALESCE(:class, ''),
+                       COALESCE(:level, 1), COALESCE(:backstory, ''), COALESCE(:active, 1), :updated_at)
                ON CONFLICT(campaign_name, character_name) DO UPDATE SET
                  player_name     = COALESCE(:player, player_name),
                  class           = COALESCE(:class, class),
@@ -418,8 +443,9 @@ def upsert_pc(db_path: str, campaign_name: str, character_name: str, **fields: o
                 "class": data.get("class"),
                 "level": data.get("level"),
                 "backstory": data.get("backstory_notes"),
-                "active": int(data.get("active", 1)),  # type: ignore[arg-type]
-                "updated_at": data["updated_at"],
+                # None when not provided so COALESCE preserves the existing value.
+                "active": int(data["active"]) if "active" in data else None,  # type: ignore[arg-type]
+                "updated_at": _utc_now_iso(),
             },
         )
 
@@ -457,7 +483,7 @@ def create_thread(
     db_path: str,
     campaign_name: str,
     title: str,
-    type: str,
+    thread_type: str,
     description: str,
     session_id: int | None = None,
 ) -> int:
@@ -465,7 +491,7 @@ def create_thread(
         cur.execute(
             """INSERT INTO threads (campaign_name, title, type, description, introduced_session)
                VALUES (?, ?, ?, ?, ?)""",
-            (campaign_name, title, type, description, session_id),
+            (campaign_name, title, thread_type, description, session_id),
         )
         thread_id: int = cur.lastrowid  # type: ignore[assignment]
         if session_id is not None:

@@ -1,19 +1,23 @@
-from __future__ import annotations
-
 """World state browser tab — NPCs, Locations, Threads."""
+from __future__ import annotations
 
 import streamlit as st
 
 from ..session.database import (
     get_npcs,
     get_active_threads,
-    get_factions,
     get_visited_locations,
     upsert_npc,
     upsert_location,
     create_thread,
     resolve_thread,
 )
+
+# Canonical NPC dispositions, in display order.
+_DISPOSITIONS = ["friendly", "neutral", "hostile", "unknown", "dead"]
+# Dispositions offered when creating a new NPC ("dead" excluded, "unknown" default).
+_NEW_NPC_DISPOSITIONS = ["unknown", "friendly", "neutral", "hostile"]
+_THREAD_TYPES = ["quest", "mystery", "foreshadowing", "consequence"]
 
 
 def render(settings, campaign_name: str) -> None:
@@ -35,8 +39,7 @@ def render(settings, campaign_name: str) -> None:
 def _npc_panel(db: str, campaign_name: str) -> None:
     st.subheader("NPCs")
 
-    dispositions = ["", "friendly", "neutral", "hostile", "unknown", "dead"]
-    filter_disp = st.selectbox("Filter by disposition", dispositions, index=0)
+    filter_disp = st.selectbox("Filter by disposition", [""] + _DISPOSITIONS, index=0)
     npcs = get_npcs(db, campaign_name, disposition=filter_disp if filter_disp else None)
 
     if not npcs:
@@ -46,9 +49,9 @@ def _npc_panel(db: str, campaign_name: str) -> None:
             with st.expander(f"{npc['name']} — {npc['disposition']}"):
                 new_disp = st.selectbox(
                     "Disposition",
-                    ["friendly", "neutral", "hostile", "unknown", "dead"],
-                    index=["friendly", "neutral", "hostile", "unknown", "dead"].index(npc["disposition"])
-                    if npc["disposition"] in ["friendly", "neutral", "hostile", "unknown", "dead"] else 3,
+                    _DISPOSITIONS,
+                    index=_DISPOSITIONS.index(npc["disposition"])
+                    if npc["disposition"] in _DISPOSITIONS else _DISPOSITIONS.index("unknown"),
                     key=f"disp_{npc['id']}",
                 )
                 new_notes = st.text_area("Notes", value=npc["notes"], key=f"notes_{npc['id']}")
@@ -61,7 +64,7 @@ def _npc_panel(db: str, campaign_name: str) -> None:
     with st.expander("Add NPC"):
         name = st.text_input("Name", key="new_npc_name")
         role = st.text_input("Role", key="new_npc_role")
-        disp = st.selectbox("Disposition", ["unknown", "friendly", "neutral", "hostile"], key="new_npc_disp")
+        disp = st.selectbox("Disposition", _NEW_NPC_DISPOSITIONS, key="new_npc_disp")
         if st.button("Add NPC") and name.strip():
             upsert_npc(db, campaign_name, name.strip(), role=role, disposition=disp)
             st.success(f"{name} added.")
@@ -118,7 +121,7 @@ def _thread_panel(db: str, campaign_name: str) -> None:
     st.divider()
     with st.expander("Add Thread"):
         title = st.text_input("Title", key="new_thread_title")
-        ttype = st.selectbox("Type", ["quest", "mystery", "foreshadowing", "consequence"], key="new_thread_type")
+        ttype = st.selectbox("Type", _THREAD_TYPES, key="new_thread_type")
         desc = st.text_area("Description", key="new_thread_desc")
         if st.button("Add Thread") and title.strip():
             create_thread(db, campaign_name, title.strip(), ttype, desc)

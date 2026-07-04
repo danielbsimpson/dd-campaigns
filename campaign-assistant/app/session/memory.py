@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 """Memory retrieval orchestrator.
 
 Decides *what* goes into each LLM context request and assembles it into a
@@ -8,8 +6,7 @@ labelled string ready for injection into a prompt template.
 Token budget is approximated via character count (1 token ≈ 4 chars).
 Swap to tiktoken or provider-native counting in v2.
 """
-
-import sqlite3
+from __future__ import annotations
 
 from .database import (
     get_active_threads,
@@ -18,26 +15,13 @@ from .database import (
     get_npcs,
     get_recent_sessions,
     get_visited_locations,
+    parse_debrief_answers,
 )
-from ..campaign.context import build_campaign_context
-
-_CHARS_PER_TOKEN = 4
-
-
-def _budget_chars(token_budget: int) -> int:
-    return token_budget * _CHARS_PER_TOKEN
+from ..campaign.context import budget_chars, build_campaign_context
 
 
 def _section(title: str, body: str) -> str:
     return f"## {title}\n{body.strip()}"
-
-
-def _rows_to_text(rows: list[sqlite3.Row], columns: list[str], sep: str = " | ") -> str:
-    lines = []
-    for row in rows:
-        parts = [str(row[c]) for c in columns if row[c] is not None]
-        lines.append(sep.join(parts))
-    return "\n".join(lines) if lines else "(none)"
 
 
 # ---------------------------------------------------------------------------
@@ -59,7 +43,7 @@ def build_query_context(
     """
     sections: list[str] = []
     used = 0
-    max_chars = _budget_chars(token_budget)
+    max_chars = budget_chars(token_budget)
 
     # 1. Campaign lore (largest allocation: ~60% of budget)
     lore_budget = int(token_budget * 0.6)
@@ -101,18 +85,18 @@ def build_query_context(
         remaining -= len(body)
 
     locations = get_visited_locations(db_path, campaign_name)
-    matching_locs = [l for l in locations if l["name"].lower() in query_lower]
+    matching_locs = [loc for loc in locations if loc["name"].lower() in query_lower]
     if matching_locs and remaining > 200:
-        lines = [f"- {l['name']}: {l['state_notes']}" for l in matching_locs]
+        lines = [f"- {loc['name']}: {loc['state_notes']}" for loc in matching_locs]
         body = "\n".join(lines)
         sections.append(_section("Relevant Locations", body))
         used += len(body)
         remaining -= len(body)
 
     factions = get_factions(db_path, campaign_name)
-    matching_factions = [f for f in factions if f["name"].lower() in query_lower]
+    matching_factions = [fac for fac in factions if fac["name"].lower() in query_lower]
     if matching_factions and remaining > 200:
-        lines = [f"- {f['name']} (standing {f['standing']}): {f['notes']}" for f in matching_factions]
+        lines = [f"- {fac['name']} (standing {fac['standing']}): {fac['notes']}" for fac in matching_factions]
         body = "\n".join(lines)
         sections.append(_section("Relevant Factions", body))
         used += len(body)
@@ -125,12 +109,8 @@ def build_query_context(
             lines = []
             for s in recent:
                 lines.append(f"Session {s['session_number']} ({s['session_date'] or 'undated'}):")
-                if s["answers"]:
-                    for pair in s["answers"].split("|||"):
-                        if "::" in pair:
-                            _, answer = pair.split("::", 1)
-                            if answer.strip():
-                                lines.append(f"  {answer.strip()}")
+                for _, answer in parse_debrief_answers(s["answers"]):
+                    lines.append(f"  {answer}")
             body = "\n".join(lines)
             body = body[: remaining - 50]
             sections.append(_section("Recent Session History", body))
@@ -151,7 +131,7 @@ def build_recap_context(
     all active threads, last N sessions, all NPCs summary, faction standings.
     """
     sections: list[str] = []
-    max_chars = _budget_chars(token_budget)
+    max_chars = budget_chars(token_budget)
     used = 0
 
     # 1. README only for recap (keep it short)
@@ -159,7 +139,7 @@ def build_recap_context(
         (v for k, v in campaign_files.items() if k.lower() == "readme.md"), ""
     )
     if readme_text:
-        lore = _section("Campaign Overview (README)", readme_text[:_budget_chars(1500)])
+        lore = _section("Campaign Overview (README)", readme_text[:budget_chars(1500)])
         sections.append(lore)
         used += len(lore)
 
@@ -192,12 +172,8 @@ def build_recap_context(
         lines = []
         for s in recent:
             lines.append(f"### Session {s['session_number']} ({s['session_date'] or 'undated'})")
-            if s["answers"]:
-                for pair in s["answers"].split("|||"):
-                    if "::" in pair:
-                        key, answer = pair.split("::", 1)
-                        if answer.strip():
-                            lines.append(f"**{key}:** {answer.strip()}")
+            for key, answer in parse_debrief_answers(s["answers"]):
+                lines.append(f"**{key}:** {answer}")
         body = "\n".join(lines)
         sections.append(_section("Recent Session Summaries", body))
         used += len(body)
@@ -246,6 +222,6 @@ def build_debrief_context(
 
     locations = get_visited_locations(db_path, campaign_name)
     if locations:
-        parts.append("Known locations: " + ", ".join(l["name"] for l in locations))
+        parts.append("Known locations: " + ", ".join(loc["name"] for loc in locations))
 
     return "\n".join(parts)

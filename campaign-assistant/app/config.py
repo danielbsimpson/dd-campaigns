@@ -1,12 +1,18 @@
+"""App configuration — env-derived Settings model and settings.json persistence."""
 from __future__ import annotations
 
+import json
 import os
+from pathlib import Path
 from typing import Literal
 
 from dotenv import load_dotenv
 from pydantic import BaseModel, field_validator, model_validator
 
 load_dotenv()
+
+# Path to the JSON file where the Settings UI persists overrides.
+SETTINGS_FILE = Path(__file__).parent.parent / "settings.json"
 
 # Phase 1 supports local providers only.
 # Phase 2 will expand this literal as each cloud client is implemented.
@@ -101,3 +107,27 @@ def load_settings() -> Settings:
         )
     except Exception as exc:
         raise SystemExit(f"Configuration error: {exc}") from exc
+
+
+def load_settings_overrides() -> dict:
+    """Return settings saved via the Settings UI, or {} if none exist or unreadable."""
+    if not SETTINGS_FILE.exists():
+        return {}
+    try:
+        return json.loads(SETTINGS_FILE.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def save_settings_overrides(data: dict) -> None:
+    """Persist Settings-UI values to disk."""
+    SETTINGS_FILE.write_text(json.dumps(data, indent=2), encoding="utf-8")
+
+
+def apply_settings_overrides(settings: Settings, overrides: dict) -> Settings:
+    """Return a copy of ``settings`` with saved UI overrides applied.
+
+    Unknown keys are ignored so a stale settings.json cannot break startup.
+    """
+    known = {k: v for k, v in overrides.items() if k in Settings.model_fields}
+    return settings.model_copy(update=known) if known else settings

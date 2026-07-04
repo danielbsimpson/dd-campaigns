@@ -1,6 +1,6 @@
+"""Campaign folder scanning — discovers campaigns and loads their text content."""
 from __future__ import annotations
 
-import os
 from pathlib import Path
 
 # Subfolder names to skip when scanning a campaign folder.

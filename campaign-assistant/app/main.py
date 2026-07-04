@@ -1,12 +1,10 @@
-from __future__ import annotations
-
 """Campaign Assistant — Streamlit entry point.
 
 Run with:
     streamlit run app/main.py
 """
+from __future__ import annotations
 
-import json
 import sys
 from pathlib import Path
 
@@ -15,7 +13,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import streamlit as st
 
-from app.config import load_settings
+from app.config import apply_settings_overrides, load_settings, load_settings_overrides
 from app.campaign.loader import load_campaign, list_campaigns
 from app.session.database import init_db, get_campaign_state
 from app.ui import query as query_ui
@@ -33,27 +31,8 @@ st.set_page_config(
 # ------------------------------------------------------------------
 # Load settings (config.py + optional settings.json overrides)
 # ------------------------------------------------------------------
-_SETTINGS_FILE = Path(__file__).parent.parent / "settings.json"
-
-
-def _merge_settings_json(base_settings):
-    """Apply any values saved via the Settings UI over the env-derived base."""
-    if not _SETTINGS_FILE.exists():
-        return base_settings
-    try:
-        overrides = json.loads(_SETTINGS_FILE.read_text(encoding="utf-8"))
-    except Exception:
-        return base_settings
-    # Patch the settings object with saved values
-    for key, value in overrides.items():
-        if hasattr(base_settings, key):
-            object.__setattr__(base_settings, key, value)
-    return base_settings
-
-
 try:
-    settings = load_settings()
-    settings = _merge_settings_json(settings)
+    settings = apply_settings_overrides(load_settings(), load_settings_overrides())
     config_error: str | None = None
 except SystemExit as exc:
     settings = None
@@ -207,7 +186,7 @@ with tab_settings:
     if settings:
         settings_ui.render(settings)
     else:
-        from app.config import Settings as _Settings  # noqa: F401
+        from app.config import Settings as _Settings
         _fallback = _Settings.model_construct(
             llm_provider="ollama",
             ollama_base_url="http://localhost:11434",

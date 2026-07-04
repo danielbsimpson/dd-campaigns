@@ -6,28 +6,16 @@ startup without the groq package installed.
 """
 from __future__ import annotations
 
-from .base import BaseLLMClient, LLMError
+from .base import CloudStubClient
 
 
-class GroqClient(BaseLLMClient):
+class GroqClient(CloudStubClient):
     """Stub for the Groq client — implemented in Phase 2."""
 
-    #: Supported models (populated in Phase 2 when the real client is built).
+    PROVIDER_LABEL = "Groq"
+    DEFAULT_MODEL = "llama-3.3-70b-versatile"
     SUPPORTED_MODELS = [
         "llama-3.3-70b-versatile",
         "llama-3.1-8b-instant",
         "mixtral-8x7b-32768",
     ]
-
-    def __init__(self, api_key: str = "", model: str = "llama-3.3-70b-versatile", **kwargs: object) -> None:
-        self.api_key = api_key
-        self.model = model
-
-    def complete(self, system: str, user: str) -> str:
-        raise LLMError(
-            "Groq is not yet configured. "
-            "Cloud providers are enabled in Phase 2."
-        )
-
-    def list_models(self) -> list[str]:
-        return list(self.SUPPORTED_MODELS)
