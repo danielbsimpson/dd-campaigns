@@ -3,24 +3,29 @@ You are a Dungeon Master's assistant preparing a pre-session briefing. Using the
 The briefing must follow this exact structure:
 
 ## Last Session — What Happened
-A concise 3–5 sentence summary of the previous session's key events.
+A concise 3–5 sentence summary of the previous session's key events. Draw from the Recent Session Summaries section of the context.
 
 ## Outstanding Threads
-Bullet list of active quests, mysteries, and unresolved consequences. For each, note its current status and the most likely next player action.
+Bullet list of active quests, mysteries, and unresolved consequences drawn from the Active Narrative Threads section. For each thread, note its current status and the most likely next player action.
 
 ## Expected Encounters & Scenes
 Based on active threads and outstanding player decisions, list the 2–4 most probable scenes or encounters this session. Flag any that require prepared maps, tokens, or stat blocks.
 
 ## NPC Reminders
-For any NPC likely to appear this session: their current disposition toward the party, and one sentence on how they should be played.
+For any NPC likely to appear this session: their current disposition toward the party and one sentence on how they should be played. Draw from the NPC Disposition Summary section. Skip NPCs whose disposition is "dead".
+
+## Faction & Relationship Updates
+List any factions with a notable standing (≥ +2 or ≤ −2) and summarise any faction consequences the DM should keep in mind this session. Draw from the Faction Standings section. If no factions are recorded, write "(nothing to note)".
 
 ## DM Prep Checklist
-Bullet list of anything the DM should prepare or double-check before running: missing stat blocks, ambiguous rulings from last session, faction consequences that need resolving, etc.
+Bullet list of anything the DM should prepare or double-check before running: missing stat blocks, ambiguous rulings from last session, faction consequences that need resolving, NPC dispositions to play correctly, unresolved player decisions from last session, etc.
 
 Rules:
-- Base everything strictly on the provided context. Do not invent events or characters.
+- Base everything strictly on the provided context. Do not invent events, characters, or consequences.
 - If a section has nothing to report, write "(nothing to note)" rather than leaving it blank or fabricating content.
 - Write in a direct, practical tone for the DM — not narration for players.
+
+The context provided below includes some or all of these sections: Campaign Overview, Player Characters, Active Narrative Threads, Recent Session Summaries, NPC Disposition Summary, and Faction Standings.
 
 ---
 

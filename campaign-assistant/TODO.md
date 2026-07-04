@@ -53,15 +53,15 @@ Tracks everything that needs to be built for the campaign assistant to reach a w
 
 ## Campaign Loader (`app/campaign/`)
 
-- [ ] `loader.py` — scan `CAMPAIGN_FOLDER` for known file types:
-  - [ ] Collect `README.md`, `characters.md`, `creatures.md`, and any `.txt` file at the root level
-  - [ ] Read each file and store as a named string (keyed by filename)
-  - [ ] Skip `assets/`, `maps/`, `Tokens/` subfolders
-  - [ ] Cache loaded content in session state to avoid re-reading on every query
-- [ ] `context.py` — build LLM-ready context blocks:
-  - [ ] For in-session queries: include all campaign files (truncate if over a token budget)
-  - [ ] For recap generation: include campaign files + last N session debrief answers
-  - [ ] Simple truncation strategy for v1; smarter retrieval (embeddings/vector search) is a v2 stretch goal
+- [x] `loader.py` — scan `CAMPAIGN_FOLDER` for known file types:
+  - [x] Collect `README.md`, `characters.md`, `creatures.md`, and any `.txt` file at the root level
+  - [x] Read each file and store as a named string (keyed by filename)
+  - [x] Skip `assets/`, `maps/`, `Tokens/` subfolders
+  - [x] Cache loaded content in session state to avoid re-reading on every query
+- [x] `context.py` — build LLM-ready context blocks:
+  - [x] For in-session queries: include all campaign files (truncate if over a token budget)
+  - [x] For recap generation: include campaign files + last N session debrief answers
+  - [x] Simple truncation strategy for v1; smarter retrieval (embeddings/vector search) is a v2 stretch goal
 
 ---
 
@@ -81,45 +81,45 @@ The assistant works with five distinct memory layers. Each layer has different p
 
 ### `database.py`
 
-- [ ] Create SQLite DB at `DATABASE_PATH` on first run with `PRAGMA journal_mode=WAL` for concurrent reads
-- [ ] Schema — **Sessions & Debrief** (existing, unchanged):
+- [x] Create SQLite DB at `DATABASE_PATH` on first run with `PRAGMA journal_mode=WAL` for concurrent reads
+- [x] Schema — **Sessions & Debrief** (existing, unchanged):
   - `sessions`: `id`, `campaign_name`, `session_number`, `session_date`, `created_at`
   - `debrief_answers`: `id`, `session_id`, `question_key`, `answer_text`
   - `recaps`: `id`, `session_id`, `recap_text`, `generated_at`
-- [ ] Schema — **Entity State** (new):
+- [x] Schema — **Entity State** (new):
   - `npcs`: `id`, `campaign_name`, `name`, `role`, `disposition`, `last_seen_session`, `notes`, `updated_at`
     - `disposition` is a short freetext field: "friendly", "hostile", "unknown", "dead", etc.
   - `locations`: `id`, `campaign_name`, `name`, `visited` (bool), `first_seen_session`, `state_notes`, `updated_at`
     - `state_notes` captures dynamic changes ("the temple is now ruined", "guards doubled after session 3")
   - `factions`: `id`, `campaign_name`, `name`, `standing` (int −3 to +3), `notes`, `updated_at`
-- [ ] Schema — **Character Roster** (new):
+- [x] Schema — **Character Roster** (new):
   - `player_characters`: `id`, `campaign_name`, `player_name`, `character_name`, `class`, `level`, `backstory_notes`, `active` (bool), `updated_at`
   - `pc_inventory`: `id`, `pc_id`, `item_name`, `description`, `acquired_session`, `notable` (bool)
     - Only notable items (quest items, unique magic, character-defining gear) are tracked — not every piece of equipment
-- [ ] Schema — **Narrative Threads** (new):
+- [x] Schema — **Narrative Threads** (new):
   - `threads`: `id`, `campaign_name`, `title`, `type` (`quest`/`mystery`/`foreshadowing`/`consequence`), `status` (`active`/`resolved`/`abandoned`), `description`, `introduced_session`, `resolved_session`, `updated_at`
   - `thread_sessions`: `thread_id`, `session_id` — many-to-many join tracking which sessions touched a thread
-- [ ] Schema — **LLM Credentials** (new, shared with `llm/credentials.py`):
+- [x] Schema — **LLM Credentials** (new, shared with `llm/credentials.py`):
   - `llm_credentials`: `id`, `provider`, `key_name`, `encrypted_value`, `updated_at`
-- [ ] Helper functions — existing:
+- [x] Helper functions — existing:
   - `create_session()`, `save_debrief_answers()`, `get_recent_sessions(n)`, `save_recap()`
-- [ ] Helper functions — Entity State:
+- [x] Helper functions — Entity State:
   - `upsert_npc(campaign, name, **fields)`, `get_npcs(campaign, disposition=None) -> list`
   - `upsert_location(campaign, name, **fields)`, `get_visited_locations(campaign) -> list`
   - `upsert_faction(campaign, name, **fields)`, `get_factions(campaign) -> list`
-- [ ] Helper functions — Character Roster:
+- [x] Helper functions — Character Roster:
   - `upsert_pc(campaign, character_name, **fields)`, `get_active_pcs(campaign) -> list`
   - `add_notable_item(pc_id, item_name, description, session_id)`
-- [ ] Helper functions — Narrative Threads:
+- [x] Helper functions — Narrative Threads:
   - `create_thread(campaign, title, type, description, session_id)`, `resolve_thread(thread_id, session_id)`
   - `get_active_threads(campaign) -> list`, `get_threads_for_session(session_id) -> list`
-- [ ] Schema migrations: use a `schema_version` table + version-gated `ALTER TABLE` statements so existing databases upgrade cleanly on first launch
+- [x] Schema migrations: use a `schema_version` table + version-gated `ALTER TABLE` statements so existing databases upgrade cleanly on first launch
 
 ### `memory.py` (new — retrieval orchestrator)
 
 Centralises *what* gets included in each LLM context request and *why*. Keeps `context.py` from becoming a monolith.
 
-- [ ] `build_query_context(campaign_name, query_text, token_budget) -> str`
+- [x] `build_query_context(campaign_name, query_text, token_budget) -> str`
   - Always include: **Campaign Lore** (README + .txt files, truncated if large)
   - Always include: **Active Narrative Threads** (titles + one-line descriptions)
   - Always include: **Active PC roster** (name, class, level)
@@ -129,7 +129,7 @@ Centralises *what* gets included in each LLM context request and *why*. Keeps `c
     - Query mentions a faction → include faction standing + notes
     - Query seems session-history related → include last 2 session debrief summaries
   - Remaining budget: fill with the most recent session debrief answers (newest first)
-- [ ] `build_recap_context(campaign_name, n_recent_sessions, token_budget) -> str`
+- [x] `build_recap_context(campaign_name, n_recent_sessions, token_budget) -> str`
   - Always include: **Campaign Lore** (abbreviated — README only)
   - Always include: **Active PC roster** (full records)
   - Always include: **All active Narrative Threads** (full descriptions)
@@ -137,15 +137,15 @@ Centralises *what* gets included in each LLM context request and *why*. Keeps `c
   - Always include: **NPC disposition summary** (name + disposition for all non-dead NPCs)
   - Always include: **Faction standings** (all factions, one line each)
   - Fill remaining budget with: resolved threads from the last 3 sessions
-- [ ] `build_debrief_context(session_id) -> str`
+- [x] `build_debrief_context(session_id) -> str`
   - Returns a lightweight context block used when auto-populating thread linkage suggestions in the debrief UI
   - Includes: active threads + NPC list (names only) + location list (names only)
-- [ ] Token budget enforcement: simple character-count proxy (1 token ≈ 4 chars) for v1; swap to `tiktoken` or provider-native counting in v2
-- [ ] Each `build_*` function returns a structured string with clearly labelled sections (e.g. `## Campaign Lore`, `## Active Quests`) so prompt templates can reference them predictably
+- [x] Token budget enforcement: simple character-count proxy (1 token ≈ 4 chars) for v1; swap to `tiktoken` or provider-native counting in v2
+- [x] Each `build_*` function returns a structured string with clearly labelled sections (e.g. `## Campaign Lore`, `## Active Quests`) so prompt templates can reference them predictably
 
 ### `questions.py`
 
-- [ ] Define the standard post-session question list (question key + display text) covering:
+- [x] Define the standard post-session question list (question key + display text) covering:
   - What happened this session (brief summary)
   - Which NPCs were meaningfully interacted with
   - Which locations were visited or had their state change
@@ -153,19 +153,19 @@ Centralises *what* gets included in each LLM context request and *why*. Keeps `c
   - What player decisions or consequences should be remembered
   - Any notable items acquired or lost
   - DM prep notes for next session
-- [ ] Allow the list to be extended or overridden via a `questions.json` file in the campaign folder
+- [x] Allow the list to be extended or overridden via a `questions.json` file in the campaign folder
 - [ ] After saving debrief answers, run a lightweight post-save pass: prompt the DM to review/update entity state and threads based on the answers they just entered (surfaced in the debrief UI, not an automatic write)
 
 ---
 
 ## Prompt Templates (`prompts/`)
 
-- [ ] `query.txt` — system prompt for in-session queries
-  - [ ] Instructs the LLM to answer from campaign content only, cite its source (which file), and keep answers concise
-  - [ ] Includes a placeholder for injected campaign context
-- [ ] `recap.txt` — system prompt for pre-session recap generation
-  - [ ] Instructs the LLM to produce a structured DM briefing: last session summary, outstanding threads, expected encounters, DM prep reminders
-  - [ ] Includes placeholders for campaign context and session history
+- [x] `query.txt` — system prompt for in-session queries
+  - [x] Instructs the LLM to answer from campaign content only, cite its source (which file), and keep answers concise
+  - [x] Includes a placeholder for injected campaign context
+- [x] `recap.txt` — system prompt for pre-session recap generation
+  - [x] Instructs the LLM to produce a structured DM briefing: last session summary, outstanding threads, expected encounters, DM prep reminders
+  - [x] Includes placeholders for campaign context and session history
 
 ---
 

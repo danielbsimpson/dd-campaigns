@@ -140,11 +140,54 @@ CREATE TABLE IF NOT EXISTS thread_sessions (
     session_id INTEGER NOT NULL REFERENCES sessions(id) ON DELETE CASCADE,
     PRIMARY KEY (thread_id, session_id)
 );
+
+-- LLM credentials (encrypted at rest via credentials.py in Phase 2)
+CREATE TABLE IF NOT EXISTS llm_credentials (
+    id              INTEGER PRIMARY KEY AUTOINCREMENT,
+    provider        TEXT    NOT NULL,
+    key_name        TEXT    NOT NULL,
+    encrypted_value TEXT    NOT NULL,
+    updated_at      TEXT    NOT NULL DEFAULT (datetime('now')),
+    UNIQUE(provider, key_name)
+);
 """
 
 
+# ---------------------------------------------------------------------------
+# Schema migrations
+# ---------------------------------------------------------------------------
+
+# Maps target version → list of SQL statements that upgrade the DB from
+# (version - 1) to that version.  Each statement is idempotent where possible
+# (use ADD COLUMN only; SQLite ignores duplicate-column errors if we wrap in
+# try/except, which _apply_migrations does).
+_MIGRATIONS: dict[int, list[str]] = {
+    # Example for future use:
+    # 2: [
+    #     "ALTER TABLE npcs ADD COLUMN portrait_url TEXT NOT NULL DEFAULT ''",
+    # ],
+}
+
+
+def _apply_migrations(conn: sqlite3.Connection, current_version: int) -> int:
+    """Run any pending migrations and return the new schema version."""
+    version = current_version
+    for target_version in sorted(v for v in _MIGRATIONS if v > version):
+        for stmt in _MIGRATIONS[target_version]:
+            try:
+                conn.execute(stmt)
+            except sqlite3.OperationalError:
+                # Column or object already exists — migration already applied.
+                pass
+        version = target_version
+        conn.execute(
+            "UPDATE schema_version SET version = ?", (version,)
+        )
+    return version
+
+
 def init_db(db_path: str) -> None:
-    """Create the database and all tables if they do not already exist."""
+    """Create the database, run the base DDL, and apply any pending migrations."""
     Path(db_path).parent.mkdir(parents=True, exist_ok=True)
     conn = _connect(db_path)
     try:
@@ -152,7 +195,12 @@ def init_db(db_path: str) -> None:
         row = conn.execute("SELECT version FROM schema_version").fetchone()
         if row is None:
             conn.execute("INSERT INTO schema_version (version) VALUES (?)", (_SCHEMA_VERSION,))
-        conn.commit()
+            conn.commit()
+        else:
+            db_version = row["version"]
+            new_version = _apply_migrations(conn, db_version)
+            if new_version != db_version:
+                conn.commit()
     finally:
         conn.close()
 
@@ -507,7 +555,7 @@ def get_campaign_state(db_path: str, campaign_name: str) -> dict:
         # ── Active threads ────────────────────────────────────────────────
         thread_rows = conn.execute(
             """SELECT title, description FROM threads
-               WHERE campaign_name = ? AND resolved = 0
+               WHERE campaign_name = ? AND status = 'active'
                ORDER BY title""",
             (campaign_name,),
         ).fetchall()
@@ -518,13 +566,17 @@ def get_campaign_state(db_path: str, campaign_name: str) -> dict:
 
         # ── Active player characters ──────────────────────────────────────
         pc_rows = conn.execute(
-            """SELECT name, class_level, player FROM player_characters
+            """SELECT character_name, class, level, player_name FROM player_characters
                WHERE campaign_name = ? AND active = 1
-               ORDER BY name""",
+               ORDER BY character_name""",
             (campaign_name,),
         ).fetchall()
         state["player_characters"] = [
-            {"name": r["name"], "class_level": r["class_level"], "player": r["player"]}
+            {
+                "name": r["character_name"],
+                "class_level": f"{r['class']} {r['level']}",
+                "player": r["player_name"],
+            }
             for r in pc_rows
         ]
 
